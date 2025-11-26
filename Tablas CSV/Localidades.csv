@@ -1,0 +1,4227 @@
+﻿ID_Localidad;ID_Provincia;Partido;Localidad
+1000000;Buenos Aires;AMBA;Otros
+1000001;Buenos Aires;Bolívar;Otros
+1000002;Buenos Aires;Ezeiza;Otros
+1000003;Buenos Aires;General Lavalle;Otros
+1000004;Buenos Aires;General Pueyrredón;Otros
+1000005;Buenos Aires;General San Martín;Otros
+1000006;Buenos Aires;Ituzaingó;Otros
+1000007;Buenos Aires;La Plata;Otros
+1000008;Buenos Aires;Luján;Otros
+1000009;Buenos Aires;Merlo;Otros
+1000010;Buenos Aires;Necochea;Otros
+1000011;Buenos Aires;Otros;Otros
+1000012;Buenos Aires;Patagones;Otros
+1000013;Buenos Aires;Pilar;Otros
+1000014;Buenos Aires;Rauch;Otros
+1000015;Buenos Aires;Tandil;Otros
+1000016;Buenos Aires;Tigre;Otros
+1000017;Buenos Aires;Trenque Lauquen;Otros
+1000018;Chaco;Fray Justo Santa María De Oro;Otros
+1000019;Chaco;Otros;Otros
+1000020;Chaco;San Fernando;Otros
+1000021;Chubut;Gaiman;Otros
+1000022;Córdoba;Capital;Otros
+1000023;Córdoba;Colón;Otros
+1000024;Córdoba;Otros;Otros
+1000025;Córdoba;Río Cuarto;Otros
+1000026;Córdoba;Río Primero;Otros
+1000027;Córdoba;San Justo;Transito
+1000028;Córdoba;Santa María;Otros
+1000029;Corrientes;Otros;Otros
+1000030;Entre Ríos;Diamante;Otros
+1000031;Entre Ríos;Nogoyá;Otros
+1000032;Entre Ríos;Otros;Otros
+1000033;Entre Ríos;Paraná;Otros
+1000034;Formosa;Laishi;Otros
+1000035;Formosa;Patiño;Otros
+1000036;Formosa;Ramón Lista;Otros
+1000037;Jujuy;Otros;Otros
+1000038;Jujuy;SANTA BARBARA;Otros
+1000039;La Pampa;Otros;Otros
+1000040;La Rioja;Independencia;Otros
+1000041;Mendoza;Guaymallén;Otros
+1000042;Mendoza;Junín;Otros
+1000043;Mendoza;San Martín;Otros
+1000044;Misiones;Cainguás;Otros
+1000045;Misiones;Otros;Otros
+1000046;Misiones;San Pedro;Otros
+1000047;Neuquén;Confluencia;Otros
+1000048;Río Negro;Conesa;Otros
+1000049;Salta;Capital;Otros
+1000050;Salta;Otros;Otros
+1000051;San Juan;9 de Julio;Otros
+1000052;San Juan;Albardón;Otros
+1000053;San Juan;Angaco;Otros
+1000054;San Juan;Otros;Otros
+1000055;San Juan;Valle Fértil;Otros
+1000056;San Luis;Ayacucho;Otros
+1000057;San Luis;Coronel Pringles;Otros
+1000058;San Luis;Otros;Otros
+1000059;Santa Fe;Las Colonias;Otros
+1000060;Santa Fe;Otros;Otros
+1000061;Santa Fe;San Cristóbal;Otros
+1000062;Santa Fe;San Justo;Otros
+1000063;Santiago Del Estero;Ojo de Agua;Otros
+1000064;Santiago Del Estero;Otros;Otros
+1000065;Tierra Del Fuego;ANTARTIDA ARGENTINA;Base Orcadas
+1000066;Tucumán;Burruyacú;Otros
+2000010;CABA;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires
+2000010;CABA;Comuna 01;CONSTITUCION
+2000010;CABA;Comuna 01;MONSERRAT
+2000010;CABA;Comuna 01;PUERTO MADERO
+2000010;CABA;Comuna 01;RETIRO
+2000010;CABA;Comuna 01;SAN NICOLAS
+2000010;CABA;Comuna 01;SAN TELMO
+2000010;CABA;Comuna 02;RECOLETA
+2000010;CABA;Comuna 03;BALVANERA
+2000010;CABA;Comuna 03;SAN CRISTOBAL
+2000010;CABA;Comuna 04;BARRACAS
+2000010;CABA;Comuna 04;BOCA
+2000010;CABA;Comuna 04;NUEVA POMPEYA
+2000010;CABA;Comuna 04;PARQUE PATRICIOS
+2000010;CABA;Comuna 05;ALMAGRO
+2000010;CABA;Comuna 05;BOEDO
+2000010;CABA;Comuna 06;CABALLITO
+2000010;CABA;Comuna 07;FLORES
+2000010;CABA;Comuna 07;PARQUE CHACABUCO
+2000010;CABA;Comuna 08;VILLA LUGANO
+2000010;CABA;Comuna 08;VILLA RIACHUELO
+2000010;CABA;Comuna 08;VILLA SOLDATI
+2000010;CABA;Comuna 09;LINIERS
+2000010;CABA;Comuna 09;MATADEROS
+2000010;CABA;Comuna 09;PARQUE AVELLANEDA
+2000010;CABA;Comuna 10;FLORESTA
+2000010;CABA;Comuna 10;MONTE CASTRO
+2000010;CABA;Comuna 10;VELEZ SARSFIELD
+2000010;CABA;Comuna 10;VERSALLES
+2000010;CABA;Comuna 10;VILLA LURO
+2000010;CABA;Comuna 10;VILLA REAL
+2000010;CABA;Comuna 11;VILLA DEL PARQUE
+2000010;CABA;Comuna 11;VILLA DEVOTO
+2000010;CABA;Comuna 11;VILLA GENERAL MITRE
+2000010;CABA;Comuna 11;VILLA SANTA RITA
+2000010;CABA;Comuna 12;COGHLAN
+2000010;CABA;Comuna 12;SAAVEDRA
+2000010;CABA;Comuna 12;VILLA PUEYRREDON
+2000010;CABA;Comuna 12;VILLA URQUIZA
+2000010;CABA;Comuna 13;BELGRANO
+2000010;CABA;Comuna 13;COLEGIALES
+2000010;CABA;Comuna 13;NUÑEZ
+2000010;CABA;Comuna 14;PALERMO
+2000010;CABA;Comuna 15;AGRONOMIA
+2000010;CABA;Comuna 15;CHACARITA
+2000010;CABA;Comuna 15;PARQUE CHAS
+2000010;CABA;Comuna 15;PATERNAL
+2000010;CABA;Comuna 15;VILLA CRESPO
+2000010;CABA;Comuna 15;VILLA ORTUZAR
+6007010;Buenos Aires;Adolfo Alsina;Carhué
+6007010;Buenos Aires;Adolfo Alsina;Thames
+6007020;Buenos Aires;Adolfo Alsina;Colonia San Miguel Arcángel
+6007030;Buenos Aires;Adolfo Alsina;Delfín Huergo
+6007050;Buenos Aires;Adolfo Alsina;Esteban Agustín Gascón
+6007060;Buenos Aires;Adolfo Alsina;La Pala
+6007070;Buenos Aires;Adolfo Alsina;Maza
+6007080;Buenos Aires;Adolfo Alsina;Rivera
+6007100;Buenos Aires;Adolfo Alsina;Villa Margarita
+6007110;Buenos Aires;Adolfo Alsina;Yutuyaco
+6014010;Buenos Aires;Adolfo Gonzales Chaves;Adolfo Gonzales Chaves  (Est. Chaves)
+6014020;Buenos Aires;Adolfo Gonzales Chaves;De la Garma
+6014030;Buenos Aires;Adolfo Gonzales Chaves;Juan E. Barra
+6014040;Buenos Aires;Adolfo Gonzales Chaves;Vásquez
+6021010;Buenos Aires;Alberti;Alberti   (Est. Andrés Vaccarezza)
+6021020;Buenos Aires;Alberti;Coronel Seguí
+6021030;Buenos Aires;Alberti;Mechita
+6021040;Buenos Aires;Alberti;Pla
+6021050;Buenos Aires;Alberti;Villa Grisolía  (Est. Achupallas)
+6021060;Buenos Aires;Alberti;Villa María
+6021070;Buenos Aires;Alberti;Villa Ortiz  (Est. Coronel Mom)
+6028010;Buenos Aires;Almirante Brown;Adrogué
+6028010;Buenos Aires;Almirante Brown;Burzaco
+6028010;Buenos Aires;Almirante Brown;Claypole
+6028010;Buenos Aires;Almirante Brown;Don Orione
+6028010;Buenos Aires;Almirante Brown;Glew
+6028010;Buenos Aires;Almirante Brown;Jose Mármol
+6028010;Buenos Aires;Almirante Brown;Longchamps
+6028010;Buenos Aires;Almirante Brown;Malvinas Argentinas
+6028010;Buenos Aires;Almirante Brown;Ministro Rivadavia
+6028010;Buenos Aires;Almirante Brown;Rafael Calzada
+6028010;Buenos Aires;Almirante Brown;San Francisco Solano
+6028010;Buenos Aires;Almirante Brown;San Jose
+6035010;Buenos Aires;Avellaneda;Area Reserva Cinturón Ecológico
+6035010;Buenos Aires;Avellaneda;Avellaneda
+6035010;Buenos Aires;Avellaneda;Crucesita
+6035010;Buenos Aires;Avellaneda;Dock Sud
+6035010;Buenos Aires;Avellaneda;Gerli
+6035010;Buenos Aires;Avellaneda;Pineyro
+6035010;Buenos Aires;Avellaneda;Sarandí
+6035010;Buenos Aires;Avellaneda;Villa Domínico
+6035010;Buenos Aires;Avellaneda;Wilde
+6042010;Buenos Aires;Ayacucho;Ayacucho
+6042020;Buenos Aires;Ayacucho;La Constancia
+6042030;Buenos Aires;Ayacucho;Solanet
+6042040;Buenos Aires;Ayacucho;Udaquiola
+6049010;Buenos Aires;Azul;Ariel
+6049020;Buenos Aires;Azul;Azul
+6049030;Buenos Aires;Azul;Cacharí
+6049040;Buenos Aires;Azul;Chillar
+6049050;Buenos Aires;Azul;16 de Julio
+6056010;Buenos Aires;Bahía Blanca;Bahía Blanca
+6056020;Buenos Aires;Bahía Blanca;Cabildo
+6056020;Buenos Aires;Bahía Blanca;Grunbein
+6056020;Buenos Aires;Bahía Blanca;Ingeniero White
+6056020;Buenos Aires;Bahía Blanca;Villa Bordeau
+6056020;Buenos Aires;Bahía Blanca;Villa Espora
+6056030;Buenos Aires;Bahía Blanca;General Daniel Cerri  (Est. General Cerri)
+6063010;Buenos Aires;Balcarce;Balcarce
+6063020;Buenos Aires;Balcarce;Los Pinos
+6063030;Buenos Aires;Balcarce;Napaleofú
+6063040;Buenos Aires;Balcarce;Ramos Otero
+6063050;Buenos Aires;Balcarce;San Agustín
+6063060;Buenos Aires;Balcarce;Villa Laguna La Brava
+6070010;Buenos Aires;Baradero;Baradero
+6070020;Buenos Aires;Baradero;Irineo Portela
+6070030;Buenos Aires;Baradero;Santa Coloma
+6070040;Buenos Aires;Baradero;Villa Alsina  (Est. Alsina)
+6077010;Buenos Aires;Arrecifes;Arrecifes
+6077020;Buenos Aires;Arrecifes;Todd
+6077030;Buenos Aires;Arrecifes;Viña
+6084010;Buenos Aires;Benito Juárez;Barker
+6084020;Buenos Aires;Benito Juárez;Benito Juárez  (Est. Juárez)
+6084030;Buenos Aires;Benito Juárez;López
+6084040;Buenos Aires;Benito Juárez;Tedín Uriburu
+6084050;Buenos Aires;Benito Juárez;Villa Cacique  (Est. Alfredo Fortabat)
+6091010;Buenos Aires;Berazategui;Berazategui
+6091010;Buenos Aires;Berazategui;Berazategui Oeste
+6091010;Buenos Aires;Berazategui;Carlos Tomás Sourigues
+6091010;Buenos Aires;Berazategui;Centro Agrícola El Pato
+6091010;Buenos Aires;Berazategui;Guillermo E. Hudson
+6091010;Buenos Aires;Berazategui;Juan María Gutierrez
+6091010;Buenos Aires;Berazategui;Pereyra
+6091010;Buenos Aires;Berazategui;Plátanos
+6091010;Buenos Aires;Berazategui;Ranelagh
+6091010;Buenos Aires;Berazategui;Villa España
+6098010;Buenos Aires;Berisso;Barrio Banco Provincia
+6098010;Buenos Aires;Berisso;Barrio El Carmen (Este)
+6098010;Buenos Aires;Berisso;Berisso
+6098010;Buenos Aires;Berisso;Los Talas
+6098010;Buenos Aires;Berisso;Villa Arguello
+6098010;Buenos Aires;Berisso;Villa Dolores
+6098010;Buenos Aires;Berisso;Villa Nueva
+6098010;Buenos Aires;Berisso;Villa Porteña
+6098010;Buenos Aires;Berisso;Villa Progreso
+6098010;Buenos Aires;Berisso;Villa San Carlos
+6105010;Buenos Aires;Bolívar;Hale
+6105020;Buenos Aires;Bolívar;Juan F. Ibarra
+6105040;Buenos Aires;Bolívar;Paula
+6105050;Buenos Aires;Bolívar;Pirovano
+6105060;Buenos Aires;Bolívar;Mariano Unzué
+6105060;Buenos Aires;Bolívar;San Carlos de Bolívar  (Est. Bolívar)
+6105070;Buenos Aires;Bolívar;Urdampilleta
+6105080;Buenos Aires;Bolívar;Villa Lynch Pueyrredón
+6112005;Buenos Aires;Bragado;Asamblea
+6112010;Buenos Aires;Bragado;Bragado
+6112020;Buenos Aires;Bragado;Comodoro Py
+6112030;Buenos Aires;Bragado;General O'Brien
+6112040;Buenos Aires;Bragado;Irala
+6112050;Buenos Aires;Bragado;La Limpia
+6112060;Buenos Aires;Bragado;Máximo Fernández  (Est. Juan F. Salaberry)
+6112070;Buenos Aires;Bragado;Mechita (Est. Mecha)
+6112080;Buenos Aires;Bragado;Olascoaga
+6112090;Buenos Aires;Bragado;Warnes
+6119010;Buenos Aires;Brandsen;Altamirano
+6119015;Buenos Aires;Brandsen;Barrio El Mirador
+6119020;Buenos Aires;Brandsen;Barrio Las Golondrinas
+6119030;Buenos Aires;Brandsen;Barrio Los Bosquecitos
+6119040;Buenos Aires;Brandsen;Barrio Parque Las Acacias
+6119045;Buenos Aires;Brandsen;Campos de Roca
+6119050;Buenos Aires;Brandsen;Coronel Brandsen
+6119055;Buenos Aires;Brandsen;Club de Campo Las Malvinas
+6119060;Buenos Aires;Brandsen;Gómez
+6119070;Buenos Aires;Brandsen;Jeppener
+6119080;Buenos Aires;Brandsen;Oliden
+6119085;Buenos Aires;Brandsen;Posada de los Lagos
+6119090;Buenos Aires;Brandsen;Samborombón
+6126010;Buenos Aires;Campana;Alto Los Cardales
+6126020;Buenos Aires;Campana;Barrio Los Pioneros
+6126030;Buenos Aires;Campana;Campana
+6126035;Buenos Aires;Campana;Chacras del Río Luján
+6126040;Buenos Aires;Campana;Lomas del Río Luján (Est. Río Luján)
+6134010;Buenos Aires;Cañuelas;Alejandro Petión
+6134020;Buenos Aires;Cañuelas;Barrio El Taladro
+6134030;Buenos Aires;Cañuelas;Barrio Belgrano-Máximo Paz
+6134030;Buenos Aires;Cañuelas;Cañuelas
+6134040;Buenos Aires;Cañuelas;Gobernador Udaondo
+6134050;Buenos Aires;Cañuelas;Máximo Paz
+6134060;Buenos Aires;Cañuelas;Santa Rosa
+6134070;Buenos Aires;Cañuelas;Uribelarrea
+6134080;Buenos Aires;Cañuelas;Vicente Casares
+6140010;Buenos Aires;Capitán Sarmiento;Capitán Sarmiento
+6140020;Buenos Aires;Capitán Sarmiento;La Luisa
+6147010;Buenos Aires;Carlos Casares;Bellocq
+6147020;Buenos Aires;Carlos Casares;Cadret
+6147030;Buenos Aires;Carlos Casares;Carlos Casares
+6147040;Buenos Aires;Carlos Casares;Colonia Mauricio
+6147050;Buenos Aires;Carlos Casares;Hortensia
+6147060;Buenos Aires;Carlos Casares;La Sofía
+6147070;Buenos Aires;Carlos Casares;Mauricio Hirsch
+6147080;Buenos Aires;Carlos Casares;Moctezuma
+6147090;Buenos Aires;Carlos Casares;Ordoqui
+6147095;Buenos Aires;Carlos Casares;Santo Tomás
+6147100;Buenos Aires;Carlos Casares;Smith
+6154010;Buenos Aires;Carlos Tejedor;Carlos Tejedor
+6154020;Buenos Aires;Carlos Tejedor;Colonia Seré
+6154030;Buenos Aires;Carlos Tejedor;Curarú
+6154040;Buenos Aires;Carlos Tejedor;Timote
+6154050;Buenos Aires;Carlos Tejedor;Tres Algarrobos  (Est. Cuenca)
+6161010;Buenos Aires;Carmen de Areco;Carmen de Areco
+6161020;Buenos Aires;Carmen de Areco;Pueblo Gouin
+6161030;Buenos Aires;Carmen de Areco;Tres Sargentos
+6168010;Buenos Aires;Castelli;Castelli
+6168020;Buenos Aires;Castelli;Centro Guerrero
+6168030;Buenos Aires;Castelli;Cerro De La Gloria
+6175010;Buenos Aires;Colón;Colón
+6175010;Buenos Aires;Colón;El Arbolito
+6175030;Buenos Aires;Colón;Pearson
+6175040;Buenos Aires;Colón;Sarasa
+6182010;Buenos Aires;Coronel de Marina L. Rosales;Bajo Hondo
+6182020;Buenos Aires;Coronel de Marina L. Rosales;Balneario Pehuen Co
+6182025;Buenos Aires;Coronel de Marina L. Rosales;Pago Chico
+6182030;Buenos Aires;Coronel de Marina L. Rosales;Punta Alta  (Est Almirante Solier)
+6182030;Buenos Aires;Coronel de Marina L. Rosales;Villa del Mar
+6182050;Buenos Aires;Coronel de Marina L. Rosales;Villa General Arias  (Est. Kilómetro 638)
+6189010;Buenos Aires;Coronel Dorrego;Aparicio
+6189020;Buenos Aires;Coronel Dorrego;Balneario Marisol
+6189030;Buenos Aires;Coronel Dorrego;Coronel Dorrego
+6189040;Buenos Aires;Coronel Dorrego;El Perdido  (Est. José A. Guisasola)
+6189050;Buenos Aires;Coronel Dorrego;Faro
+6189060;Buenos Aires;Coronel Dorrego;Irene
+6189070;Buenos Aires;Coronel Dorrego;Oriente
+6189075;Buenos Aires;Coronel Dorrego;Paraje La Ruta
+6189080;Buenos Aires;Coronel Dorrego;San Román
+6196010;Buenos Aires;Coronel Pringles;Coronel Pringles  (Est. Pringles)
+6196020;Buenos Aires;Coronel Pringles;El Divisorio
+6196030;Buenos Aires;Coronel Pringles;El Pensamiento
+6196040;Buenos Aires;Coronel Pringles;Indio Rico
+6196050;Buenos Aires;Coronel Pringles;Lartigau
+6203010;Buenos Aires;Coronel Suárez;Cascadas
+6203020;Buenos Aires;Coronel Suárez;Coronel Suárez
+6203030;Buenos Aires;Coronel Suárez;Cura Malal
+6203040;Buenos Aires;Coronel Suárez;D'Orbigny
+6203050;Buenos Aires;Coronel Suárez;Huanguelén
+6203060;Buenos Aires;Coronel Suárez;Pasman
+6203070;Buenos Aires;Coronel Suárez;San José
+6203080;Buenos Aires;Coronel Suárez;Santa María
+6203090;Buenos Aires;Coronel Suárez;Santa Trinidad
+6203100;Buenos Aires;Coronel Suárez;Villa La Arcadia
+6210010;Buenos Aires;Chacabuco;Castilla
+6210020;Buenos Aires;Chacabuco;Chacabuco
+6210030;Buenos Aires;Chacabuco;Los Angeles
+6210040;Buenos Aires;Chacabuco;O'Higgins
+6210050;Buenos Aires;Chacabuco;Rawson
+6217003;Buenos Aires;Chascomús;Barrio Lomas Altas
+6217010;Buenos Aires;Chascomús;Chascomús
+6217015;Buenos Aires;Chascomús;Laguna Vitel
+6217020;Buenos Aires;Chascomús;Barrio San Cayetano
+6217020;Buenos Aires;Chascomús;Manuel J. Cobo  (Est. Lezama)
+6217030;Buenos Aires;Chascomús;Villa Parque Girado
+6224005;Buenos Aires;Chivilcoy;Benitez
+6224010;Buenos Aires;Chivilcoy;Chivilcoy
+6224020;Buenos Aires;Chivilcoy;Emilio Ayarza
+6224030;Buenos Aires;Chivilcoy;Gorostiaga
+6224040;Buenos Aires;Chivilcoy;La Rica
+6224050;Buenos Aires;Chivilcoy;Moquehuá
+6224060;Buenos Aires;Chivilcoy;Ramón Biaus
+6224070;Buenos Aires;Chivilcoy;San Sebastián
+6231010;Buenos Aires;Daireaux;Andant
+6231020;Buenos Aires;Daireaux;Arboledas
+6231030;Buenos Aires;Daireaux;Daireaux
+6231030;Buenos Aires;Daireaux;La Manuela
+6231040;Buenos Aires;Daireaux;La Larga
+6231060;Buenos Aires;Daireaux;Salazar
+6238010;Buenos Aires;Dolores;Dolores
+6238020;Buenos Aires;Dolores;Sevigne
+6245010;Buenos Aires;Ensenada;Dique Nº 1
+6245010;Buenos Aires;Ensenada;Ensenada
+6245010;Buenos Aires;Ensenada;Isla Santiago (Oeste)
+6245010;Buenos Aires;Ensenada;Punta Lara
+6245010;Buenos Aires;Ensenada;Villa Catela
+6252010;Buenos Aires;Escobar;Belen de Escobar
+6252010;Buenos Aires;Escobar;El Cazador
+6252010;Buenos Aires;Escobar;Garín
+6252010;Buenos Aires;Escobar;Ingeniero Maschwitz
+6252010;Buenos Aires;Escobar;Loma Verde
+6252010;Buenos Aires;Escobar;Maquinista F. Savio (este)
+6252010;Buenos Aires;Escobar;Matheu
+6252010;Buenos Aires;Escobar;Puerto Paraná
+6260010;Buenos Aires;Esteban Echeverría;9 De Abril
+6260010;Buenos Aires;Esteban Echeverría;Canning
+6260010;Buenos Aires;Esteban Echeverría;El Jagüel
+6260010;Buenos Aires;Esteban Echeverría;Luis Guillón
+6260010;Buenos Aires;Esteban Echeverría;Monte Grande
+6260010;Buenos Aires;Esteban Echeverría;Zona Aeropuerto Internacional Ezeiza
+6266010;Buenos Aires;Exaltación de la Cruz;Arroyo de la Cruz
+6266020;Buenos Aires;Exaltación de la Cruz;Capilla del Señor  (Est. Capilla)
+6266030;Buenos Aires;Exaltación de la Cruz;Diego Gaynor
+6266030;Buenos Aires;Exaltación de la Cruz;El Remanso
+6266040;Buenos Aires;Exaltación de la Cruz;Los Cardales
+6266050;Buenos Aires;Exaltación de la Cruz;Parada Orlando
+6266060;Buenos Aires;Exaltación de la Cruz;Parada Robles - Pavón
+6270010;Buenos Aires;Ezeiza;Aeropuerto Internacional Ezeiza
+6270010;Buenos Aires;Ezeiza;Canning
+6270010;Buenos Aires;Ezeiza;Carlos Spegazzini
+6270010;Buenos Aires;Ezeiza;José Maria Ezeiza
+6270010;Buenos Aires;Ezeiza;La Unión
+6270010;Buenos Aires;Ezeiza;Tristán Suarez
+6274010;Buenos Aires;Florencio Varela;Bosques
+6274010;Buenos Aires;Florencio Varela;El Tropezon
+6274010;Buenos Aires;Florencio Varela;Estanislao Severo Zeballos
+6274010;Buenos Aires;Florencio Varela;Florencio Varela
+6274010;Buenos Aires;Florencio Varela;Gobernador Julio A. Costa
+6274010;Buenos Aires;Florencio Varela;Ingeniero Juan Allan
+6274010;Buenos Aires;Florencio Varela;La Capilla
+6274010;Buenos Aires;Florencio Varela;la rotonda
+6274010;Buenos Aires;Florencio Varela;Villa Brown
+6274010;Buenos Aires;Florencio Varela;Villa San Luis
+6274010;Buenos Aires;Florencio Varela;Villa Santa Rosa
+6274010;Buenos Aires;Florencio Varela;Villa Vatteone
+6277010;Buenos Aires;Florentino Ameghino;Blaquier
+6277020;Buenos Aires;Florentino Ameghino;Florentino Ameghino
+6277030;Buenos Aires;Florentino Ameghino;Porvenir
+6280005;Buenos Aires;General Alvarado;Centinela del Mar
+6280010;Buenos Aires;General Alvarado;Comandante Nicanor Otamendi
+6280020;Buenos Aires;General Alvarado;Mar del Sur
+6280030;Buenos Aires;General Alvarado;Mechongué
+6280040;Buenos Aires;General Alvarado;Miramar
+6287010;Buenos Aires;General Alvear;General Alvear
+6294010;Buenos Aires;General Arenales;Arribeños
+6294020;Buenos Aires;General Arenales;Ascensión
+6294030;Buenos Aires;General Arenales;Estación Arenales
+6294040;Buenos Aires;General Arenales;Ferré
+6294050;Buenos Aires;General Arenales;General Arenales
+6294060;Buenos Aires;General Arenales;La Angelita
+6294070;Buenos Aires;General Arenales;La Trinidad
+6301010;Buenos Aires;General Belgrano;General Belgrano
+6301020;Buenos Aires;General Belgrano;Gorchs
+6308010;Buenos Aires;General Guido;General Guido
+6308020;Buenos Aires;General Guido;Labarden
+6315010;Buenos Aires;General Juan Madariaga;Barrio Kennedy
+6315010;Buenos Aires;General Juan Madariaga;General Juan Madariaga
+6322010;Buenos Aires;General La Madrid;General La Madrid
+6322020;Buenos Aires;General La Madrid;La Colina
+6322030;Buenos Aires;General La Madrid;Las Martinetas
+6322040;Buenos Aires;General La Madrid;Líbano
+6322050;Buenos Aires;General La Madrid;Pontaut
+6329010;Buenos Aires;General Las Heras;General Hornos
+6329020;Buenos Aires;General Las Heras;General Las Heras  (Est. Las Heras)
+6329020;Buenos Aires;General Las Heras;Lozano
+6329030;Buenos Aires;General Las Heras;La Choza
+6329050;Buenos Aires;General Las Heras;Plomer
+6329060;Buenos Aires;General Las Heras;Villars
+6336020;Buenos Aires;General Lavalle;Chacras de San Clemente
+6336020;Buenos Aires;General Lavalle;General Lavalle
+6336030;Buenos Aires;General Lavalle;Pavón
+6343010;Buenos Aires;General Paz;Barrio Río Salado
+6343020;Buenos Aires;General Paz;Loma Verde
+6343030;Buenos Aires;General Paz;Ranchos
+6343040;Buenos Aires;General Paz;Villanueva  (Ap. Río Salado)
+6351010;Buenos Aires;General Pinto;Colonia San Ricardo  (Est. Iriarte)
+6351020;Buenos Aires;General Pinto;General Pinto
+6351020;Buenos Aires;General Pueyrredón;Barrio Colinas Verdes
+6351020;Buenos Aires;General Pueyrredón;Punta Mogotes
+6351030;Buenos Aires;General Pinto;Germania  (Est. Mayor José Orellano)
+6351035;Buenos Aires;General Pinto;Gunther
+6351040;Buenos Aires;General Pinto;Villa Francia  (Est. Coronel Granada)
+6351050;Buenos Aires;General Pinto;Villa Roth  (Est. Ingeniero Balbín)
+6357020;Buenos Aires;General Pueyrredón;Barrio El Boquerón
+6357050;Buenos Aires;General Pueyrredón;Barrio La Gloria
+6357060;Buenos Aires;General Pueyrredón;Barrio Santa Paula
+6357070;Buenos Aires;General Pueyrredón;Batán
+6357080;Buenos Aires;General Pueyrredón;Chapadmalal
+6357090;Buenos Aires;General Pueyrredón;Camet
+6357090;Buenos Aires;General Pueyrredón;El Marquesado
+6357090;Buenos Aires;General Pueyrredón;Estacion Camet
+6357100;Buenos Aires;General Pueyrredón;Estación Chapadmalal
+6357110;Buenos Aires;General Pueyrredón;Barrio El Casal
+6357110;Buenos Aires;General Pueyrredón;Barrio El Coyunco
+6357110;Buenos Aires;General Pueyrredón;Mar del Plata
+6357120;Buenos Aires;General Pueyrredón;Sierra de los Padres
+6364030;Buenos Aires;General Rodríguez;Barrio Ruta 24 Kilómetro 10
+6364030;Buenos Aires;General Rodríguez;Country Club Bosque Real - Barrio Morabo
+6364030;Buenos Aires;General Rodríguez;General Rodríguez
+6371010;Buenos Aires;General San Martín;Barrio Parque General San Martin
+6371010;Buenos Aires;General San Martín;Billinghurst
+6371010;Buenos Aires;General San Martín;Ciudad Del Libertador General San Martin
+6371010;Buenos Aires;General San Martín;Ciudad Jardin El Libertador
+6371010;Buenos Aires;General San Martín;Va Ma Irene De Los Remedios De Escalada
+6371010;Buenos Aires;General San Martín;Villa Ayacucho
+6371010;Buenos Aires;General San Martín;Villa Ballester
+6371010;Buenos Aires;General San Martín;Villa Bernardo Monteagudo
+6371010;Buenos Aires;General San Martín;Villa Chacabuco
+6371010;Buenos Aires;General San Martín;Villa Coronel Jose M. Zapiola
+6371010;Buenos Aires;General San Martín;Villa General Antonio J.  De Sucre
+6371010;Buenos Aires;General San Martín;Villa General Eugenio Necochea
+6371010;Buenos Aires;General San Martín;Villa General Jose Tomas Guido
+6371010;Buenos Aires;General San Martín;Villa General Juan G. Las Heras
+6371010;Buenos Aires;General San Martín;Villa Godoy Cruz
+6371010;Buenos Aires;General San Martín;Villa Granaderos De San Martín
+6371010;Buenos Aires;General San Martín;Villa Gregoria Matorras
+6371010;Buenos Aires;General San Martín;Villa José León Suarez
+6371010;Buenos Aires;General San Martín;Villa Juan Martín De Pueyrredon
+6371010;Buenos Aires;General San Martín;Villa Libertad
+6371010;Buenos Aires;General San Martín;Villa Lynch
+6371010;Buenos Aires;General San Martín;Villa Maipu
+6371010;Buenos Aires;General San Martín;Villa Marqués Alejandro  María De Aguado
+6371010;Buenos Aires;General San Martín;Villa Parque Pres Figueroa Alcorta
+6371010;Buenos Aires;General San Martín;Villa Parque San Lorenzo
+6371010;Buenos Aires;General San Martín;Villa San Andrés
+6371010;Buenos Aires;General San Martín;Villa Yapeyú
+6385010;Buenos Aires;General Viamonte;Baigorrita
+6385020;Buenos Aires;General Viamonte;La Delfina
+6385030;Buenos Aires;General Viamonte;Los Toldos
+6385040;Buenos Aires;General Viamonte;San Emilio
+6385050;Buenos Aires;General Viamonte;Zavalía
+6392010;Buenos Aires;General Villegas;Banderaló
+6392020;Buenos Aires;General Villegas;Cañada Seca
+6392030;Buenos Aires;General Villegas;Coronel Charlone
+6392040;Buenos Aires;General Villegas;Emilio V. Bunge
+6392050;Buenos Aires;General Villegas;General Villegas  (Est. Villegas)
+6392060;Buenos Aires;General Villegas;Massey  (Est. Elordi)
+6392070;Buenos Aires;General Villegas;Pichincha
+6392080;Buenos Aires;General Villegas;Piedritas
+6392090;Buenos Aires;General Villegas;Santa Eleodora
+6392100;Buenos Aires;General Villegas;Santa Regina
+6392110;Buenos Aires;General Villegas;Villa Saboya
+6392120;Buenos Aires;General Villegas;Villa Sauze
+6399010;Buenos Aires;Guaminí;Arroyo Venado
+6399020;Buenos Aires;Guaminí;Casbas
+6399030;Buenos Aires;Guaminí;Garré
+6399040;Buenos Aires;Guaminí;Guaminí
+6399050;Buenos Aires;Guaminí;Laguna Alsina  (Est. Bonifacio)
+6406010;Buenos Aires;Hipólito Yrigoyen;Henderson
+6406020;Buenos Aires;Hipólito Yrigoyen;Herrera Vegas
+6408010;Buenos Aires;Hurlingham;Hurlingham
+6408010;Buenos Aires;Hurlingham;Villa Santos Tesei
+6408010;Buenos Aires;Hurlingham;William C. Morris
+6410010;Buenos Aires;Ituzaingó;Ituzaingó Centro
+6410010;Buenos Aires;Ituzaingó;Ituzaingó Sur
+6410010;Buenos Aires;Ituzaingó;Villa Gobernador Udaondo
+6412010;Buenos Aires;José C. Paz;Del Viso
+6412010;Buenos Aires;José C. Paz;José C Paz
+6412010;Buenos Aires;José C. Paz;Tortuguitas
+6413010;Buenos Aires;Junín;Agustín Roca
+6413020;Buenos Aires;Junín;Agustina
+6413030;Buenos Aires;Junín;Balneario Laguna de Gómez
+6413040;Buenos Aires;Junín;Fortín Tiburcio
+6413050;Buenos Aires;Junín;Junín
+6413055;Buenos Aires;Junín;Paraje La Agraria
+6413060;Buenos Aires;Junín;Laplacette
+6413070;Buenos Aires;Junín;Morse
+6413080;Buenos Aires;Junín;Saforcada
+6420010;Buenos Aires;La Costa;Las Toninas
+6420020;Buenos Aires;La Costa;Mar de Ajó - San Bernardo
+6420030;Buenos Aires;La Costa;Aguas Verdes
+6420030;Buenos Aires;La Costa;Lucila Del Mar
+6420030;Buenos Aires;La Costa;San Clemente del Tuyú
+6420040;Buenos Aires;La Costa;Santa Teresita - Mar del Tuyú
+6427010;Buenos Aires;La Matanza;20 De Junio
+6427010;Buenos Aires;La Matanza;Aldo Bonzi
+6427010;Buenos Aires;La Matanza;Ciudad Evita
+6427010;Buenos Aires;La Matanza;Gonzalez Catán
+6427010;Buenos Aires;La Matanza;Gregorio De Laferrere
+6427010;Buenos Aires;La Matanza;Isidro Casanova
+6427010;Buenos Aires;La Matanza;La Tablada
+6427010;Buenos Aires;La Matanza;Lomas Del Mirador
+6427010;Buenos Aires;La Matanza;Rafael Castillo
+6427010;Buenos Aires;La Matanza;Ramos Mejía
+6427010;Buenos Aires;La Matanza;San Justo
+6427010;Buenos Aires;La Matanza;Tapiales
+6427010;Buenos Aires;La Matanza;Villa  Eduardo Madero
+6427010;Buenos Aires;La Matanza;Villa Luzuriaga
+6427010;Buenos Aires;La Matanza;Virrey Del Pino
+6434010;Buenos Aires;Lanús;Gerli
+6434010;Buenos Aires;Lanús;Lanús Este
+6434010;Buenos Aires;Lanús;Lanús Oeste
+6434010;Buenos Aires;Lanús;Monte Chingolo
+6434010;Buenos Aires;Lanús;Remedios Escalada De San Martin
+6434010;Buenos Aires;Lanús;Valentín Alsina
+6441010;Buenos Aires;La Plata;Country Club El Rodeo
+6441020;Buenos Aires;La Plata;Ignacio Correas
+6441030;Buenos Aires;La Plata;Abasto
+6441030;Buenos Aires;La Plata;Angel Etcheverry
+6441030;Buenos Aires;La Plata;Arana
+6441030;Buenos Aires;La Plata;Arturo Segui
+6441030;Buenos Aires;La Plata;Barrio El Carmen Oeste
+6441030;Buenos Aires;La Plata;Barrio El Peligro
+6441030;Buenos Aires;La Plata;Barrio Gambier
+6441030;Buenos Aires;La Plata;Barrio Las Malvinas
+6441030;Buenos Aires;La Plata;Barrio Las Quintas
+6441030;Buenos Aires;La Plata;City Bell
+6441030;Buenos Aires;La Plata;colonia la plata
+6441030;Buenos Aires;La Plata;El Retiro
+6441030;Buenos Aires;La Plata;Esquina Negra
+6441030;Buenos Aires;La Plata;Joaquin Gorina
+6441030;Buenos Aires;La Plata;Jose Hernandez
+6441030;Buenos Aires;La Plata;Jose Melchor Romero
+6441030;Buenos Aires;La Plata;La Cumbre
+6441030;Buenos Aires;La Plata;La Plata
+6441030;Buenos Aires;La Plata;La Providencia
+6441030;Buenos Aires;La Plata;Lisandro Olmos
+6441030;Buenos Aires;La Plata;Los Hornos
+6441030;Buenos Aires;La Plata;Manuel B Gonnet
+6441030;Buenos Aires;La Plata;Poblet
+6441030;Buenos Aires;La Plata;Ringuelet
+6441030;Buenos Aires;La Plata;Rufino De Elizalde
+6441030;Buenos Aires;La Plata;ruta del sol
+6441030;Buenos Aires;La Plata;Tolosa
+6441030;Buenos Aires;La Plata;Transradio
+6441030;Buenos Aires;La Plata;Villa Elisa
+6441030;Buenos Aires;La Plata;Villa Elvira
+6441030;Buenos Aires;La Plata;Villa Garibaldi
+6441030;Buenos Aires;La Plata;Villa Montoro
+6441030;Buenos Aires;La Plata;Villa Parque Sicardi
+6441040;Buenos Aires;La Plata;Lomas de Copello
+6448010;Buenos Aires;Laprida;Laprida
+6448020;Buenos Aires;Laprida;Pueblo Nuevo
+6448030;Buenos Aires;Laprida;Pueblo San Jorge
+6455010;Buenos Aires;Las Flores;Coronel Boerr
+6455020;Buenos Aires;Las Flores;El Trigo
+6455030;Buenos Aires;Las Flores;Las Flores
+6455040;Buenos Aires;Las Flores;Pardo
+6462010;Buenos Aires;Leandro N. Alem;Alberdi Viejo
+6462020;Buenos Aires;Leandro N. Alem;El Dorado
+6462030;Buenos Aires;Leandro N. Alem;Fortín Acha
+6462040;Buenos Aires;Leandro N. Alem;Juan Bautista Alberdi  (Est. Alberdi)
+6462050;Buenos Aires;Leandro N. Alem;Leandro N. Alem
+6462060;Buenos Aires;Leandro N. Alem;Vedia
+6469010;Buenos Aires;Lincoln;Arenaza
+6469020;Buenos Aires;Lincoln;Bayauca
+6469030;Buenos Aires;Lincoln;Bermúdez
+6469040;Buenos Aires;Lincoln;Carlos Salas
+6469050;Buenos Aires;Lincoln;Coronel Martínez de Hoz  (Ap. Kilómetro 322)
+6469060;Buenos Aires;Lincoln;El Triunfo
+6469070;Buenos Aires;Lincoln;Las Toscas
+6469080;Buenos Aires;Lincoln;Lincoln
+6469090;Buenos Aires;Lincoln;Pasteur
+6469100;Buenos Aires;Lincoln;Roberts
+6469110;Buenos Aires;Lincoln;Triunvirato
+6476010;Buenos Aires;Lobería;Arenas Verdes
+6476020;Buenos Aires;Lobería;Licenciado Matienzo
+6476030;Buenos Aires;Lobería;Lobería
+6476040;Buenos Aires;Lobería;Pieres
+6476050;Buenos Aires;Lobería;San Manuel
+6476060;Buenos Aires;Lobería;Tamangueyú
+6483010;Buenos Aires;Lobos;Antonio Carboni
+6483020;Buenos Aires;Lobos;Elvira
+6483030;Buenos Aires;Lobos;Laguna de Lobos
+6483040;Buenos Aires;Lobos;Lobos
+6483050;Buenos Aires;Lobos;Salvador María
+6490010;Buenos Aires;Lomas De Zamora;Banfield
+6490010;Buenos Aires;Lomas De Zamora;Llavallol
+6490010;Buenos Aires;Lomas De Zamora;Lomas De Zamora
+6490010;Buenos Aires;Lomas De Zamora;Temperley
+6490010;Buenos Aires;Lomas De Zamora;Turdera
+6490010;Buenos Aires;Lomas De Zamora;Villa Centenario
+6490010;Buenos Aires;Lomas De Zamora;Villa Fiorito
+6497020;Buenos Aires;Luján;Carlos Keen
+6497025;Buenos Aires;Luján;Club de Campo Los Puentes
+6497060;Buenos Aires;Luján;Barrio Las Casuarinas
+6497060;Buenos Aires;Luján;Cortines
+6497060;Buenos Aires;Luján;José María Jáuregui (Est. Jáuregui)
+6497060;Buenos Aires;Luján;Lezica y Torrezuri
+6497060;Buenos Aires;Luján;Luján
+6497060;Buenos Aires;Luján;Open Door  (Est. Dr. Domingo Cabred)
+6497070;Buenos Aires;Luján;Country Club Las Praderas
+6497070;Buenos Aires;Luján;Olivera
+6497090;Buenos Aires;Luján;Torres
+6505010;Buenos Aires;Magdalena;Atalaya
+6505020;Buenos Aires;Magdalena;General Mansilla  (Est. Bartolomé Bavio)
+6505030;Buenos Aires;Magdalena;Los Naranjos
+6505040;Buenos Aires;Magdalena;Magdalena
+6505050;Buenos Aires;Magdalena;Roberto J. Payró
+6505060;Buenos Aires;Magdalena;Vieytes
+6511010;Buenos Aires;Maipú;Las Armas
+6511020;Buenos Aires;Maipú;Maipú
+6511030;Buenos Aires;Maipú;Santo Domingo
+6515010;Buenos Aires;Malvinas Argentinas;Area De Promocion El Triángulo
+6515010;Buenos Aires;Malvinas Argentinas;Grand Bourg
+6515010;Buenos Aires;Malvinas Argentinas;Ingeniero Adolfo Sourdeaux
+6515010;Buenos Aires;Malvinas Argentinas;Ingeniero Pablo Nogués
+6515010;Buenos Aires;Malvinas Argentinas;Los Polvorines
+6515010;Buenos Aires;Malvinas Argentinas;Malvinas Argentinas
+6515010;Buenos Aires;Malvinas Argentinas;Tortuguitas
+6515010;Buenos Aires;Malvinas Argentinas;Villa De Mayo
+6518010;Buenos Aires;Mar Chiquita;Coronel Vidal
+6518020;Buenos Aires;Mar Chiquita;Atlantida
+6518020;Buenos Aires;Mar Chiquita;Camet Norte
+6518020;Buenos Aires;Mar Chiquita;Frente Mar
+6518020;Buenos Aires;Mar Chiquita;General Pirán
+6518020;Buenos Aires;Mar Chiquita;La Baliza
+6518020;Buenos Aires;Mar Chiquita;La Caleta
+6518020;Buenos Aires;Mar Chiquita;Playa Dorada
+6518020;Buenos Aires;Mar Chiquita;Santa Elena
+6518030;Buenos Aires;Mar Chiquita;La Armonía
+6518040;Buenos Aires;Mar Chiquita;Mar Chiquita
+6518050;Buenos Aires;Mar Chiquita;Mar de Cobo
+6518060;Buenos Aires;Mar Chiquita;Santa Clara del Mar
+6518070;Buenos Aires;Mar Chiquita;Vivoratá
+6525010;Buenos Aires;Marcos Paz;Barrio Santa Rosa
+6525020;Buenos Aires;Marcos Paz;Marcos Paz
+6532005;Buenos Aires;Mercedes;Goldney
+6532010;Buenos Aires;Mercedes;Gowland
+6532020;Buenos Aires;Mercedes;Mercedes
+6532030;Buenos Aires;Mercedes;Jorge Born
+6539010;Buenos Aires;Merlo;Libertad
+6539010;Buenos Aires;Merlo;Mariano Acosta
+6539010;Buenos Aires;Merlo;Merlo
+6539010;Buenos Aires;Merlo;Pontevedra
+6539010;Buenos Aires;Merlo;San Antonio De Padua
+6547010;Buenos Aires;Monte;Abbott
+6547020;Buenos Aires;Monte;San Miguel del Monte  (Est. Monte)
+6547030;Buenos Aires;Monte;Zenón Videla Dorna
+6553010;Buenos Aires;Monte Hermoso;Balneario Sauce Grande
+6553020;Buenos Aires;Monte Hermoso;Monte Hermoso
+6560010;Buenos Aires;Moreno;Cuartel V
+6560010;Buenos Aires;Moreno;Francisco Alvarez
+6560010;Buenos Aires;Moreno;La Reja
+6560010;Buenos Aires;Moreno;Moreno
+6560010;Buenos Aires;Moreno;Paso Del Rey
+6560010;Buenos Aires;Moreno;Trujui
+6568010;Buenos Aires;Morón;Castelar
+6568010;Buenos Aires;Morón;El Palomar
+6568010;Buenos Aires;Morón;Haedo
+6568010;Buenos Aires;Morón;Moron
+6568010;Buenos Aires;Morón;Villa Sarmiento
+6574010;Buenos Aires;Navarro;José Juan Almeyra
+6574020;Buenos Aires;Navarro;Las Marianas
+6574030;Buenos Aires;Navarro;Navarro
+6574040;Buenos Aires;Navarro;Villa Moll  (Est. Moll)
+6581010;Buenos Aires;Necochea;Claraz
+6581025;Buenos Aires;Necochea;Energía
+6581030;Buenos Aires;Necochea;Juan N. Fernández
+6581040;Buenos Aires;Necochea;Costa Bonita
+6581040;Buenos Aires;Necochea;Necochea - Quequén
+6581050;Buenos Aires;Necochea;Nicanor Olivera  (Est. La Dulce)
+6581060;Buenos Aires;Necochea;Ramón Santamarina
+6588010;Buenos Aires;9 de Julio;Alfredo Demarchi  (Est. Facundo Quiroga)
+6588020;Buenos Aires;9 de Julio;Carlos María Naón
+6588030;Buenos Aires;9 de Julio;12 de Octubre
+6588040;Buenos Aires;9 de Julio;Dudignac
+6588050;Buenos Aires;9 de Julio;La Aurora  (Est. La Niña)
+6588060;Buenos Aires;9 de Julio;Manuel B. Gonnet  (Est. French)
+6588070;Buenos Aires;9 de Julio;Marcelino Ugarte  (Est. Dennehy)
+6588080;Buenos Aires;9 de Julio;Morea
+6588090;Buenos Aires;9 de Julio;Norumbega
+6588100;Buenos Aires;9 de Julio;9 de Julio
+6588110;Buenos Aires;9 de Julio;Patricios
+6588120;Buenos Aires;9 de Julio;Villa General Fournier  (Est. 9 de Julio Sud)
+6595010;Buenos Aires;Olavarría;Blancagrande
+6595030;Buenos Aires;Olavarría;Colonia Nievas
+6595040;Buenos Aires;Olavarría;Colonia San Miguel
+6595050;Buenos Aires;Olavarría;Espigas
+6595060;Buenos Aires;Olavarría;Hinojo
+6595070;Buenos Aires;Olavarría;Colonia Hinojo
+6595070;Buenos Aires;Olavarría;Olavarría
+6595080;Buenos Aires;Olavarría;Recalde
+6595080;Buenos Aires;Olavarría;Villa Arrieta
+6595090;Buenos Aires;Olavarría;Santa Luisa
+6595100;Buenos Aires;Olavarría;Sierra Chica
+6595110;Buenos Aires;Olavarría;Sierras Bayas
+6595120;Buenos Aires;Olavarría;Villa Alfredo Fortabat
+6595130;Buenos Aires;Olavarría;Villa La Serranía
+6602010;Buenos Aires;Patagones;Bahía San Blas
+6602020;Buenos Aires;Patagones;Cardenal Cagliero
+6602030;Buenos Aires;Patagones;Carmen de Patagones
+6602040;Buenos Aires;Patagones;José B. Casas
+6602050;Buenos Aires;Patagones;Juan A. Pradere
+6602060;Buenos Aires;Patagones;Stroeder
+6602070;Buenos Aires;Patagones;Villalonga
+6609010;Buenos Aires;Pehuajó;Capitán Castro
+6609020;Buenos Aires;Pehuajó;San Esteban
+6609030;Buenos Aires;Pehuajó;Francisco Madero
+6609035;Buenos Aires;Pehuajó;Inocencio Sosa
+6609040;Buenos Aires;Pehuajó;Juan José Paso
+6609050;Buenos Aires;Pehuajó;Magdala
+6609060;Buenos Aires;Pehuajó;Mones Cazón
+6609070;Buenos Aires;Pehuajó;Nueva Plata
+6609080;Buenos Aires;Pehuajó;Chiclana
+6609080;Buenos Aires;Pehuajó;Pehuajó
+6609090;Buenos Aires;Pehuajó;San Bernardo  (Est. Guanaco)
+6616010;Buenos Aires;Pellegrini;Bocayuva
+6616020;Buenos Aires;Pellegrini;De Bary
+6616030;Buenos Aires;Pellegrini;Pellegrini
+6623010;Buenos Aires;Pergamino;Acevedo
+6623020;Buenos Aires;Pergamino;Fontezuela
+6623030;Buenos Aires;Pergamino;Guerrico
+6623040;Buenos Aires;Pergamino;Juan A. de la Peña
+6623050;Buenos Aires;Pergamino;Juan Anchorena  (Est. Urquiza)
+6623060;Buenos Aires;Pergamino;La Violeta
+6623070;Buenos Aires;Pergamino;Manuel Ocampo
+6623080;Buenos Aires;Pergamino;Mariano Benítez
+6623090;Buenos Aires;Pergamino;Mariano H. Alfonzo  (Est. San Patricio)
+6623100;Buenos Aires;Pergamino;Pergamino
+6623110;Buenos Aires;Pergamino;Pinzón
+6623120;Buenos Aires;Pergamino;Rancagua
+6623130;Buenos Aires;Pergamino;Villa Angélica  (Est. El Socorro)
+6623140;Buenos Aires;Pergamino;Villa San José
+6630010;Buenos Aires;Pila;Casalins
+6630020;Buenos Aires;Pila;Pila
+6638040;Buenos Aires;Pilar;Barrio Parque Almirante Irizar  (Ap. Kilómetro 61)
+6638040;Buenos Aires;Pilar;Club de Campo Larena - Los Quinchos
+6638040;Buenos Aires;Pilar;Country Club El Jagüel
+6638040;Buenos Aires;Pilar;Del Viso
+6638040;Buenos Aires;Pilar;Fátima
+6638040;Buenos Aires;Pilar;La Lonja
+6638040;Buenos Aires;Pilar;Los Cachorros
+6638040;Buenos Aires;Pilar;Manuel Alberti
+6638040;Buenos Aires;Pilar;Manzanares
+6638040;Buenos Aires;Pilar;Manzone
+6638040;Buenos Aires;Pilar;Maquinista F. Savio (oeste)
+6638040;Buenos Aires;Pilar;Pilar
+6638040;Buenos Aires;Pilar;Presidente Derqui
+6638040;Buenos Aires;Pilar;Roberto De Vicenzo
+6638040;Buenos Aires;Pilar;Santa Teresa
+6638040;Buenos Aires;Pilar;Tortuguitas
+6638040;Buenos Aires;Pilar;Villa Astolfi
+6638040;Buenos Aires;Pilar;Villa Rosa
+6638040;Buenos Aires;Pilar;Zelaya
+6644010;Buenos Aires;Pinamar;Carilo
+6644010;Buenos Aires;Pinamar;Ostende
+6644010;Buenos Aires;Pinamar;Pinamar
+6644010;Buenos Aires;Pinamar;Valeria Del Mar
+6648010;Buenos Aires;Presidente Perón;Barrio America Unida
+6648010;Buenos Aires;Presidente Perón;Guernica
+6651010;Buenos Aires;Puán;Azopardo
+6651020;Buenos Aires;Puán;Bordenave
+6651030;Buenos Aires;Puán;Darregueira
+6651040;Buenos Aires;Puán;17 de Agosto
+6651060;Buenos Aires;Puán;Felipe Solá
+6651070;Buenos Aires;Puán;López Lecube
+6651080;Buenos Aires;Puán;Puán
+6651090;Buenos Aires;Puán;San Germán
+6651100;Buenos Aires;Puán;Villa Castelar  (Est. Erize)
+6651110;Buenos Aires;Puán;Villa Iris
+6655010;Buenos Aires;Punta Indio;Alvarez Jonte
+6655030;Buenos Aires;Punta Indio;Pipinas
+6655040;Buenos Aires;Punta Indio;Las Tahonas
+6655040;Buenos Aires;Punta Indio;Punta Indio
+6655050;Buenos Aires;Punta Indio;Verónica
+6658010;Buenos Aires;Quilmes;Bernal
+6658010;Buenos Aires;Quilmes;Bernal Oeste
+6658010;Buenos Aires;Quilmes;Don Bosco
+6658010;Buenos Aires;Quilmes;Ezpeleta
+6658010;Buenos Aires;Quilmes;Ezpeleta Oeste
+6658010;Buenos Aires;Quilmes;Quilmes
+6658010;Buenos Aires;Quilmes;Quilmes Oeste
+6658010;Buenos Aires;Quilmes;San Francisco Solano
+6658010;Buenos Aires;Quilmes;Villa La Florida
+6665010;Buenos Aires;Ramallo;El Paraíso
+6665020;Buenos Aires;Ramallo;Las Bahamas
+6665030;Buenos Aires;Ramallo;Pérez Millán
+6665040;Buenos Aires;Ramallo;Ramallo
+6665050;Buenos Aires;Ramallo;Villa General Savio  (Est. Sánchez)
+6665060;Buenos Aires;Ramallo;Villa Ramallo
+6672010;Buenos Aires;Rauch;Rauch
+6679010;Buenos Aires;Rivadavia;América
+6679020;Buenos Aires;Rivadavia;Fortín Olavarría
+6679030;Buenos Aires;Rivadavia;González Moreno
+6679040;Buenos Aires;Rivadavia;Mira Pampa
+6679050;Buenos Aires;Rivadavia;Roosevelt
+6679060;Buenos Aires;Rivadavia;San Mauricio
+6679070;Buenos Aires;Rivadavia;Sansinena
+6679080;Buenos Aires;Rivadavia;Sundblad
+6686010;Buenos Aires;Rojas;La Beba
+6686020;Buenos Aires;Rojas;Las Carabelas
+6686030;Buenos Aires;Rojas;Los Indios
+6686040;Buenos Aires;Rojas;Rafael Obligado
+6686050;Buenos Aires;Rojas;Roberto Cano
+6686060;Buenos Aires;Rojas;Rojas
+6686060;Buenos Aires;Rojas;Villa Parque Cecir
+6686070;Buenos Aires;Rojas;Sol de Mayo
+6686080;Buenos Aires;Rojas;Barrio Las Margaritas
+6686080;Buenos Aires;Rojas;Villa Manuel Pomar
+6693010;Buenos Aires;Roque Pérez;Carlos Beguerie
+6693020;Buenos Aires;Roque Pérez;Roque Pérez
+6700010;Buenos Aires;Saavedra;Arroyo Corto
+6700030;Buenos Aires;Saavedra;Dufaur
+6700040;Buenos Aires;Saavedra;Espartillar
+6700050;Buenos Aires;Saavedra;Goyena
+6700055;Buenos Aires;Saavedra;Las Encadenadas
+6700060;Buenos Aires;Saavedra;Pigüé
+6700070;Buenos Aires;Saavedra;Saavedra
+6707010;Buenos Aires;Saladillo;Alvarez de Toledo
+6707030;Buenos Aires;Saladillo;Cazón
+6707040;Buenos Aires;Saladillo;Del Carril
+6707050;Buenos Aires;Saladillo;Polvaredas
+6707060;Buenos Aires;Saladillo;Blaquier
+6707060;Buenos Aires;Saladillo;Saladillo
+6714010;Buenos Aires;Salto;Arroyo Dulce
+6714020;Buenos Aires;Salto;Berdier
+6714030;Buenos Aires;Salto;Gahan
+6714040;Buenos Aires;Salto;Inés Indart
+6714050;Buenos Aires;Salto;La Invencible
+6714060;Buenos Aires;Salto;Salto
+6721010;Buenos Aires;Salliqueló;Quenumá
+6721020;Buenos Aires;Salliqueló;Salliqueló
+6728010;Buenos Aires;San Andrés de Giles;Azcuénaga
+6728020;Buenos Aires;San Andrés de Giles;Cucullú
+6728030;Buenos Aires;San Andrés de Giles;Franklin
+6728040;Buenos Aires;San Andrés de Giles;San Andrés de Giles
+6728050;Buenos Aires;San Andrés de Giles;Solís
+6728060;Buenos Aires;San Andrés de Giles;Villa Espil
+6728070;Buenos Aires;San Andrés de Giles;Villa Ruiz
+6735010;Buenos Aires;San Antonio de Areco;Duggan
+6735020;Buenos Aires;San Antonio de Areco;San Antonio de Areco
+6735030;Buenos Aires;San Antonio de Areco;Villa Lía
+6742010;Buenos Aires;San Cayetano;Balneario San Cayetano
+6742020;Buenos Aires;San Cayetano;Ochandío
+6742030;Buenos Aires;San Cayetano;San Cayetano
+6749010;Buenos Aires;San Fernando;San Fernando
+6749010;Buenos Aires;San Fernando;Victoria
+6749010;Buenos Aires;San Fernando;Virreyes
+6756010;Buenos Aires;San Isidro;Acassuso
+6756010;Buenos Aires;San Isidro;Beccar
+6756010;Buenos Aires;San Isidro;Boulogne Sur Mer
+6756010;Buenos Aires;San Isidro;Martínez
+6756010;Buenos Aires;San Isidro;San Isidro
+6756010;Buenos Aires;San Isidro;Villa Adelina
+6760010;Buenos Aires;San Miguel;Bella Vista
+6760010;Buenos Aires;San Miguel;Campo De Mayo
+6760010;Buenos Aires;San Miguel;Muñiz
+6760010;Buenos Aires;San Miguel;San Miguel
+6763010;Buenos Aires;San Nicolás;Campos Salles
+6763010;Buenos Aires;San Nicolás;Conesa
+6763010;Buenos Aires;San Nicolás;Villa Canto
+6763010;Buenos Aires;San Nicolás;Villa Riccio
+6763020;Buenos Aires;San Nicolás;Erézcano
+6763030;Buenos Aires;San Nicolás;General Rojo
+6763040;Buenos Aires;San Nicolás;La Emilia
+6763050;Buenos Aires;San Nicolás;San Nicolás de los Arroyos
+6763060;Buenos Aires;San Nicolás;Villa Esperanza
+6770010;Buenos Aires;San Pedro;Gobernador Castro
+6770015;Buenos Aires;San Pedro;Ingeniero Moneta
+6770020;Buenos Aires;San Pedro;Obligado
+6770030;Buenos Aires;San Pedro;Pueblo Doyle
+6770040;Buenos Aires;San Pedro;Río Tala
+6770050;Buenos Aires;San Pedro;San Pedro
+6770060;Buenos Aires;San Pedro;Santa Lucía
+6778020;Buenos Aires;San Vicente;Alejandro Korn
+6778020;Buenos Aires;San Vicente;Domselaar
+6778020;Buenos Aires;San Vicente;San Vicente
+6784010;Buenos Aires;Suipacha;General Rivas
+6784020;Buenos Aires;Suipacha;Suipacha
+6791010;Buenos Aires;Tandil;De la Canal
+6791030;Buenos Aires;Tandil;Gardey
+6791040;Buenos Aires;Tandil;María Ignacia  (Est. Vela)
+6791050;Buenos Aires;Tandil;Desvío Aguirre
+6791050;Buenos Aires;Tandil;Tandil
+6798010;Buenos Aires;Tapalqué;Crotto
+6798020;Buenos Aires;Tapalqué;Tapalqué
+6798030;Buenos Aires;Tapalqué;Velloso
+6805010;Buenos Aires;Tigre;Benavídez
+6805010;Buenos Aires;Tigre;Dique Luján
+6805010;Buenos Aires;Tigre;Don Torcuato Este
+6805010;Buenos Aires;Tigre;Don Torcuato Oeste
+6805010;Buenos Aires;Tigre;El Talar
+6805010;Buenos Aires;Tigre;General Pacheco
+6805010;Buenos Aires;Tigre;Los Troncos Del Talar
+6805010;Buenos Aires;Tigre;Nordelta
+6805010;Buenos Aires;Tigre;Ricardo Rojas
+6805010;Buenos Aires;Tigre;Rincón de Milberg
+6805010;Buenos Aires;Tigre;Tigre
+6812010;Buenos Aires;Tordillo;General Conesa
+6812010;Buenos Aires;Tordillo;Villa Roch
+6819010;Buenos Aires;Tornquist;Chasicó
+6819020;Buenos Aires;Tornquist;Saldungaray
+6819030;Buenos Aires;Tornquist;Sierra de la Ventana
+6819040;Buenos Aires;Tornquist;Tornquist
+6819050;Buenos Aires;Tornquist;Tres Picos
+6819060;Buenos Aires;Tornquist;Villa Serrana La Gruta
+6819070;Buenos Aires;Tornquist;Villa Ventana
+6826010;Buenos Aires;Trenque Lauquen;Berutti
+6826020;Buenos Aires;Trenque Lauquen;Girodias
+6826030;Buenos Aires;Trenque Lauquen;La Carreta
+6826040;Buenos Aires;Trenque Lauquen;30 de Agosto
+6826050;Buenos Aires;Trenque Lauquen;Trenque Lauquen
+6826060;Buenos Aires;Trenque Lauquen;Trongé
+6833010;Buenos Aires;Tres Arroyos;Balneario Orense
+6833020;Buenos Aires;Tres Arroyos;Claromecó
+6833030;Buenos Aires;Tres Arroyos;Copetonas
+6833040;Buenos Aires;Tres Arroyos;Lin Calel
+6833050;Buenos Aires;Tres Arroyos;Micaela Cascallares  (Est. Cascallares)
+6833060;Buenos Aires;Tres Arroyos;Orense
+6833070;Buenos Aires;Tres Arroyos;Reta
+6833080;Buenos Aires;Tres Arroyos;San Francisco de Bellocq
+6833090;Buenos Aires;Tres Arroyos;San Mayol
+6833100;Buenos Aires;Tres Arroyos;Tres Arroyos
+6833110;Buenos Aires;Tres Arroyos;Dunamar
+6833110;Buenos Aires;Tres Arroyos;Villa Rodríguez  (Est. Barrow)
+6840010;Buenos Aires;Tres De Febrero;11 De Septiembre
+6840010;Buenos Aires;Tres De Febrero;Caseros
+6840010;Buenos Aires;Tres De Febrero;Churruca
+6840010;Buenos Aires;Tres De Febrero;Ciudadela
+6840010;Buenos Aires;Tres De Febrero;Ciudad Jardín Lomas del Palomar
+6840010;Buenos Aires;Tres De Febrero;El Libertador
+6840010;Buenos Aires;Tres De Febrero;Jose Ingenieros
+6840010;Buenos Aires;Tres De Febrero;Loma Hermosa
+6840010;Buenos Aires;Tres De Febrero;Martín Coronado
+6840010;Buenos Aires;Tres De Febrero;Pablo Podestá
+6840010;Buenos Aires;Tres De Febrero;Remedios De Escalada
+6840010;Buenos Aires;Tres De Febrero;Saenz Peña
+6840010;Buenos Aires;Tres De Febrero;Santos Lugares
+6840010;Buenos Aires;Tres De Febrero;Villa Bosch (Est. Juan Maria Bosch)
+6840010;Buenos Aires;Tres De Febrero;Villa Raffo
+6847010;Buenos Aires;Tres Lomas;Ingeniero Thompson
+6847020;Buenos Aires;Tres Lomas;Tres Lomas
+6854010;Buenos Aires;25 de Mayo;Agustín Mosconi
+6854020;Buenos Aires;25 de Mayo;Del Valle
+6854030;Buenos Aires;25 de Mayo;Ernestina
+6854040;Buenos Aires;25 de Mayo;Gobernador Ugarte
+6854050;Buenos Aires;25 de Mayo;Lucas Monteverde
+6854060;Buenos Aires;25 de Mayo;Norberto de la Riestra
+6854070;Buenos Aires;25 de Mayo;Pedernales
+6854080;Buenos Aires;25 de Mayo;San Enrique
+6854090;Buenos Aires;25 de Mayo;Valdés
+6854100;Buenos Aires;25 de Mayo;25 de Mayo
+6861010;Buenos Aires;Vicente López;Carapachay
+6861010;Buenos Aires;Vicente López;Florida
+6861010;Buenos Aires;Vicente López;Florida Oeste
+6861010;Buenos Aires;Vicente López;La Lucila
+6861010;Buenos Aires;Vicente López;Munro
+6861010;Buenos Aires;Vicente López;Olivos
+6861010;Buenos Aires;Vicente López;Vicente López
+6861010;Buenos Aires;Vicente López;Villa Adelina
+6861010;Buenos Aires;Vicente López;Villa Martelli
+6868010;Buenos Aires;Villa Gesell;Mar Azul
+6868020;Buenos Aires;Villa Gesell;Mar De Las Pampas
+6868020;Buenos Aires;Villa Gesell;Villa Gesell
+6875010;Buenos Aires;Villarino;Argerich
+6875020;Buenos Aires;Villarino;Colonia San Adolfo
+6875025;Buenos Aires;Villarino;Country Los Medanos
+6875030;Buenos Aires;Villarino;Hilario Ascasubi
+6875040;Buenos Aires;Villarino;Juan Cousté  (Est. Algarrobo)
+6875050;Buenos Aires;Villarino;Mayor Buratovich
+6875060;Buenos Aires;Villarino;Médanos
+6875070;Buenos Aires;Villarino;Pedro Luro
+6875080;Buenos Aires;Villarino;Teniente Origone
+6882020;Buenos Aires;Zárate;Country Club El Casco
+6882030;Buenos Aires;Zárate;Escalada
+6882040;Buenos Aires;Zárate;Lima
+6882050;Buenos Aires;Zárate;Barrio Saavedra
+6882050;Buenos Aires;Zárate;Zárate
+10007010;Catamarca;Ambato;Chuchucaruana
+10007030;Catamarca;Ambato;El Bolsón
+10007040;Catamarca;Ambato;El Rodeo
+10007050;Catamarca;Ambato;Huaycama
+10007060;Catamarca;Ambato;La Puerta
+10007070;Catamarca;Ambato;Las Chacritas
+10007080;Catamarca;Ambato;Las Juntas
+10007090;Catamarca;Ambato;Los Castillos
+10007100;Catamarca;Ambato;Los Talas
+10007110;Catamarca;Ambato;Los Varela
+10007120;Catamarca;Ambato;Singuil
+10014010;Catamarca;Ancasti;Ancasti
+10014020;Catamarca;Ancasti;Anquincila
+10014030;Catamarca;Ancasti;La Candelaria
+10014040;Catamarca;Ancasti;La Majada
+10021010;Catamarca;Andalgalá;Aconquija
+10021010;Catamarca;Andalgalá;Alto De Las Juntas
+10021010;Catamarca;Andalgalá;Amanao
+10021010;Catamarca;Andalgalá;Buena Vista
+10021020;Catamarca;Andalgalá;Andalgalá
+10021030;Catamarca;Andalgalá;Chaquiago
+10021040;Catamarca;Andalgalá;Choya
+10021050;Catamarca;Andalgalá;El Alamito
+10021070;Catamarca;Andalgalá;El Potrero
+10021080;Catamarca;Andalgalá;La Aguada
+10028010;Catamarca;Antofagasta de la Sierra;Antofagasta de la Sierra
+10028020;Catamarca;Antofagasta de la Sierra;Antofalla
+10028030;Catamarca;Antofagasta de la Sierra;El Peñón
+10028040;Catamarca;Antofagasta de la Sierra;Los Nacimientos
+10035010;Catamarca;Belén;Barranca Larga
+10035020;Catamarca;Belén;Belén
+10035030;Catamarca;Belén;Cóndor Huasi
+10035040;Catamarca;Belén;Corral Quemado
+10035050;Catamarca;Belén;El Durazno
+10035060;Catamarca;Belén;Farallón Negro
+10035070;Catamarca;Belén;Hualfín
+10035090;Catamarca;Belén;La Puntilla
+10035100;Catamarca;Belén;Las Juntas
+10035110;Catamarca;Belén;Londres
+10035120;Catamarca;Belén;Los Nacimientos
+10035130;Catamarca;Belén;Puerta de Corral Quemado
+10035140;Catamarca;Belén;Puerta de San José
+10035150;Catamarca;Belén;Villa Vil
+10042010;Catamarca;Capayán;Adolfo E. Carranza
+10042020;Catamarca;Capayán;Balde de la Punta
+10042020;Catamarca;Capayán;Los Angeles Sur
+10042030;Catamarca;Capayán;Capayán
+10042040;Catamarca;Capayán;Chumbicha
+10042050;Catamarca;Capayán;Colonia del Valle
+10042060;Catamarca;Capayán;Colonia Nueva Coneta
+10042070;Catamarca;Capayán;Concepción
+10042080;Catamarca;Capayán;Coneta
+10042090;Catamarca;Capayán;El Bañado
+10042100;Catamarca;Capayán;Huillapima
+10042110;Catamarca;Capayán;Los Angeles
+10042120;Catamarca;Capayán;Miraflores
+10042130;Catamarca;Capayán;San Martín
+10042140;Catamarca;Capayán;San Pablo
+10042150;Catamarca;Capayán;San Pedro
+10049020;Catamarca;Capital;Barrio Bancario
+10049020;Catamarca;Capital;El Pantanillo
+10049030;Catamarca;Capital;San Fernando del Valle de Catamarca
+10056010;Catamarca;El Alto;El Alto
+10056020;Catamarca;El Alto;Guayamba
+10056030;Catamarca;El Alto;Infanzón
+10056040;Catamarca;El Alto;Los Corrales
+10056050;Catamarca;El Alto;Tapso
+10056060;Catamarca;El Alto;Vilismán
+10063010;Catamarca;Fray Mamerto Esquiú;Collagasta
+10063020;Catamarca;Fray Mamerto Esquiú;Pomancillo Este
+10063030;Catamarca;Fray Mamerto Esquiú;Pomancillo Oeste
+10063040;Catamarca;Fray Mamerto Esquiú;San José
+10063050;Catamarca;Fray Mamerto Esquiú;El Hueco
+10063050;Catamarca;Fray Mamerto Esquiú;La Carrera
+10063050;Catamarca;Fray Mamerto Esquiú;La Falda De San Antonio
+10063050;Catamarca;Fray Mamerto Esquiú;La Tercena
+10063050;Catamarca;Fray Mamerto Esquiú;San Antonio
+10063050;Catamarca;Fray Mamerto Esquiú;Villa Las Pirquitas
+10070010;Catamarca;La Paz;Casa de Piedra
+10070020;Catamarca;La Paz;El Aybal
+10070030;Catamarca;La Paz;El Bañado
+10070040;Catamarca;La Paz;El Divisadero
+10070050;Catamarca;La Paz;El Quimilo
+10070060;Catamarca;La Paz;Esquiú
+10070070;Catamarca;La Paz;Icaño
+10070080;Catamarca;La Paz;La Dorada
+10070090;Catamarca;La Paz;La Guardia
+10070100;Catamarca;La Paz;Las Esquinas
+10070120;Catamarca;La Paz;Quirós
+10070130;Catamarca;La Paz;Ramblones
+10070140;Catamarca;La Paz;Recreo
+10070150;Catamarca;La Paz;San Antonio
+10077010;Catamarca;Paclín;Amadores
+10077020;Catamarca;Paclín;El Rosario
+10077030;Catamarca;Paclín;La Bajada
+10077040;Catamarca;Paclín;La Higuera
+10077050;Catamarca;Paclín;La Merced
+10077060;Catamarca;Paclín;La Viña
+10077070;Catamarca;Paclín;Las Lajas
+10077080;Catamarca;Paclín;Monte Potrero
+10077090;Catamarca;Paclín;Palo Labrado
+10077100;Catamarca;Paclín;San Antonio
+10077110;Catamarca;Paclín;Villa de Balcozna
+10084010;Catamarca;Pomán;Apoyaco
+10084020;Catamarca;Pomán;Colana
+10084030;Catamarca;Pomán;Colpes
+10084040;Catamarca;Pomán;El Pajonal  (Est. Pomán)
+10084050;Catamarca;Pomán;Joyango
+10084060;Catamarca;Pomán;Mutquin
+10084070;Catamarca;Pomán;Pomán
+10084080;Catamarca;Pomán;Rincón
+10084090;Catamarca;Pomán;San Miguel
+10084100;Catamarca;Pomán;Saujil
+10084110;Catamarca;Pomán;Siján
+10091020;Catamarca;Santa María;Caspichango
+10091030;Catamarca;Santa María;Chañar Punco
+10091040;Catamarca;Santa María;El Cajón
+10091040;Catamarca;Santa María;El Cerrito
+10091040;Catamarca;Santa María;Lampacito
+10091040;Catamarca;Santa María;La Puntilla
+10091060;Catamarca;Santa María;El Puesto
+10091070;Catamarca;Santa María;Famatanca
+10091080;Catamarca;Santa María;Fuerte Quemado
+10091090;Catamarca;Santa María;La Hoyada
+10091100;Catamarca;Santa María;La Loma
+10091110;Catamarca;Santa María;Las Mojarras
+10091120;Catamarca;Santa María;Loro Huasi
+10091130;Catamarca;Santa María;Punta de Balasto
+10091140;Catamarca;Santa María;San José
+10091150;Catamarca;Santa María;Santa María
+10091160;Catamarca;Santa María;Yapes
+10098010;Catamarca;Santa Rosa;Alijilán
+10098020;Catamarca;Santa Rosa;Bañado de Ovanta
+10098030;Catamarca;Santa Rosa;Las Cañas
+10098040;Catamarca;Santa Rosa;Lavalle
+10098050;Catamarca;Santa Rosa;Los Altos
+10098070;Catamarca;Santa Rosa;San Pedro
+10105010;Catamarca;Tinogasta;Anillaco
+10105020;Catamarca;Tinogasta;Antinaco
+10105040;Catamarca;Tinogasta;Cerro Negro
+10105050;Catamarca;Tinogasta;Copacabana
+10105060;Catamarca;Tinogasta;Cordobita
+10105070;Catamarca;Tinogasta;Costa de Reyes
+10105080;Catamarca;Tinogasta;La Ramadita
+10105080;Catamarca;Tinogasta;Pampa Blanca
+10105090;Catamarca;Tinogasta;El Puesto
+10105100;Catamarca;Tinogasta;El Salado
+10105110;Catamarca;Tinogasta;Fiambalá
+10105130;Catamarca;Tinogasta;Medanitos
+10105140;Catamarca;Tinogasta;Palo Blanco
+10105150;Catamarca;Tinogasta;Punta del Agua
+10105160;Catamarca;Tinogasta;Saujil
+10105170;Catamarca;Tinogasta;Tatón
+10105180;Catamarca;Tinogasta;Tinogasta
+10112010;Catamarca;Valle Viejo;El Portezuelo
+10112020;Catamarca;Valle Viejo;Huaycama
+10112030;Catamarca;Valle Viejo;El Bañado
+10112030;Catamarca;Valle Viejo;Las Tejas
+10112030;Catamarca;Valle Viejo;Polcos
+10112030;Catamarca;Valle Viejo;Pozo Del Mistol
+10112030;Catamarca;Valle Viejo;Santa Rosa
+10112030;Catamarca;Valle Viejo;Sumalao
+10112030;Catamarca;Valle Viejo;Villa Dolores
+10112040;Catamarca;Valle Viejo;San Isidro
+10112050;Catamarca;Valle Viejo;Santa Cruz
+14007010;Córdoba;Calamuchita;Amboy
+14007020;Córdoba;Calamuchita;Arroyo San Antonio
+14007030;Córdoba;Calamuchita;Cañada del Sauce
+14007040;Córdoba;Calamuchita;Capilla Vieja
+14007050;Córdoba;Calamuchita;El Corcovado - El Torreón
+14007055;Córdoba;Calamuchita;El Durazno
+14007060;Córdoba;Calamuchita;Embalse
+14007070;Córdoba;Calamuchita;La Cruz
+14007080;Córdoba;Calamuchita;La Cumbrecita
+14007090;Córdoba;Calamuchita;Las Bajadas
+14007100;Córdoba;Calamuchita;Las Caleras
+14007110;Córdoba;Calamuchita;Los Cóndores
+14007120;Córdoba;Calamuchita;Los Molinos
+14007130;Córdoba;Calamuchita;Los Reartes
+14007140;Córdoba;Calamuchita;Lutti
+14007160;Córdoba;Calamuchita;Parque Calmayo
+14007170;Córdoba;Calamuchita;Monte  Ralo
+14007170;Córdoba;Calamuchita;Río de los Sauces
+14007170;Córdoba;Calamuchita;San Ignacio (Loteo Vélez Crespo)
+14007170;Córdoba;Calamuchita;Santa Monica
+14007170;Córdoba;Calamuchita;Villa Ciudad Parque Los Reartes
+14007170;Córdoba;Calamuchita;Villa San Miguel
+14007180;Córdoba;Calamuchita;San Agustín
+14007190;Córdoba;Calamuchita;San Ignacio (Loteo San Javier)
+14007210;Córdoba;Calamuchita;Santa Rosa de Calamuchita
+14007220;Córdoba;Calamuchita;Segunda Usina
+14007230;Córdoba;Calamuchita;Solar de los Molinos
+14007240;Córdoba;Calamuchita;Villa Alpina
+14007250;Córdoba;Calamuchita;Villa Amancay
+14007260;Córdoba;Calamuchita;Villa Berna
+14007270;Córdoba;Calamuchita;Villa Ciudad Parque Los Reartes (1a. Sección)
+14007290;Córdoba;Calamuchita;Villa del Dique
+14007310;Córdoba;Calamuchita;Villa General Belgrano
+14007320;Córdoba;Calamuchita;Villa La Rivera
+14007330;Córdoba;Calamuchita;Villa Quillinzo
+14007340;Córdoba;Calamuchita;Villa Rumipal
+14007360;Córdoba;Calamuchita;Villa Yacanto
+14014010;Córdoba;Capital;Córdoba
+14014010;Córdoba;Capital;Jardín Arenales
+14014010;Córdoba;Capital;La Floresta
+14021010;Córdoba;Colón;Agua de Oro
+14021020;Córdoba;Colón;Ascochinga
+14021025;Córdoba;Colón;Barrio Nuevo Río Ceballos
+14021030;Córdoba;Colón;Canteras El Sauce
+14021040;Córdoba;Colón;Casa Bamba
+14021050;Córdoba;Colón;Colonia Caroya
+14021060;Córdoba;Colón;Colonia Tirolesa
+14021070;Córdoba;Colón;Colonia Vicente Agüero
+14021075;Córdoba;Colón;El Pueblito
+14021075;Córdoba;Colón;Los Chañaritos
+14021080;Córdoba;Colón;1 De Agosto
+14021080;Córdoba;Colón;Almirante Brown
+14021080;Córdoba;Colón;Ciudad De Los Niños
+14021080;Córdoba;Colón;Corral Quemado
+14021090;Córdoba;Colón;Country Chacras de la Villa - Country San Isidro
+14021110;Córdoba;Colón;El Manzano
+14021120;Córdoba;Colón;Estación Colonia Tirolesa
+14021130;Córdoba;Colón;General Paz
+14021140;Córdoba;Colón;Jesús María
+14021150;Córdoba;Colón;La Calera
+14021160;Córdoba;Colón;La Granja
+14021165;Córdoba;Colón;La Morada
+14021170;Córdoba;Colón;La Puerta
+14021175;Córdoba;Colón;Las Corzuelas
+14021180;Córdoba;Colón;Los Molles
+14021190;Córdoba;Colón;Malvinas Argentinas
+14021200;Córdoba;Colón;Mendiolaza
+14021210;Córdoba;Colón;Mi Granja
+14021220;Córdoba;Colón;Pajas Blancas
+14021230;Córdoba;Colón;Río Ceballos
+14021240;Córdoba;Colón;Saldán
+14021250;Córdoba;Colón;Salsipuedes
+14021260;Córdoba;Colón;Santa Elena
+14021270;Córdoba;Colón;Dumesnil
+14021270;Córdoba;Colón;El Diquecito
+14021270;Córdoba;Colón;Tinoco
+14021280;Córdoba;Colón;Unquillo
+14021290;Córdoba;Colón;Villa Allende
+14021300;Córdoba;Colón;Villa Cerro Azul
+14021310;Córdoba;Colón;Villa El Fachinal - Parque Norte - Guiñazú Norte
+14021320;Córdoba;Colón;Villa Los Llanos - Juárez Celman
+14028010;Córdoba;Cruz del Eje;Alto de los Quebrachos
+14028020;Córdoba;Cruz del Eje;Bañado de Soto
+14028030;Córdoba;Cruz del Eje;Canteras Quilpo
+14028040;Córdoba;Cruz del Eje;Cruz de Caña
+14028050;Córdoba;Cruz del Eje;Cruz del Eje
+14028060;Córdoba;Cruz del Eje;El Brete
+14028070;Córdoba;Cruz del Eje;El Rincón
+14028080;Córdoba;Cruz del Eje;Guanaco Muerto
+14028090;Córdoba;Cruz del Eje;La Banda
+14028100;Córdoba;Cruz del Eje;La Batea
+14028110;Córdoba;Cruz del Eje;La Higuera
+14028120;Córdoba;Cruz del Eje;Las Cañadas
+14028130;Córdoba;Cruz del Eje;Las Playas
+14028140;Córdoba;Cruz del Eje;Los Chañaritos
+14028150;Córdoba;Cruz del Eje;Media Naranja
+14028160;Córdoba;Cruz del Eje;Paso Viejo
+14028170;Córdoba;Cruz del Eje;San Marcos Sierra
+14028180;Córdoba;Cruz del Eje;Serrezuela
+14028190;Córdoba;Cruz del Eje;Tuclame
+14028200;Córdoba;Cruz del Eje;Villa de Soto
+14035010;Córdoba;General Roca;Del Campillo
+14035020;Córdoba;General Roca;Estación Lecueder
+14035030;Córdoba;General Roca;Hipólito Bouchard
+14035040;Córdoba;General Roca;Huinca Renancó
+14035050;Córdoba;General Roca;Italó
+14035060;Córdoba;General Roca;Mattaldi
+14035070;Córdoba;General Roca;Nicolás Bruzzone
+14035080;Córdoba;General Roca;Onagoity
+14035090;Córdoba;General Roca;PINCÉN
+14035100;Córdoba;General Roca;Ranqueles
+14035110;Córdoba;General Roca;Santa Magdalena (Est. Jovita)
+14035120;Córdoba;General Roca;Villa Huidobro
+14035130;Córdoba;General Roca;Villa Sarmiento
+14035140;Córdoba;General Roca;Villa Valeria
+14042010;Córdoba;General San Martín;Arroyo Algodón
+14042020;Córdoba;General San Martín;Arroyo Cabral
+14042030;Córdoba;General San Martín;Ausonia
+14042040;Córdoba;General San Martín;Chazón
+14042050;Córdoba;General San Martín;Etruria
+14042060;Córdoba;General San Martín;La Laguna
+14042070;Córdoba;General San Martín;La Palestina
+14042080;Córdoba;General San Martín;La Playosa
+14042090;Córdoba;General San Martín;Las Mojarras
+14042110;Córdoba;General San Martín;Pasco
+14042120;Córdoba;General San Martín;Sanabria
+14042130;Córdoba;General San Martín;Silvio Pellico
+14042140;Córdoba;General San Martín;Ticino
+14042150;Córdoba;General San Martín;Tío Pujio
+14042160;Córdoba;General San Martín;Villa Albertina
+14042170;Córdoba;General San Martín;Villa María
+14042180;Córdoba;General San Martín;Villa Nueva
+14042190;Córdoba;General San Martín;Villa Oeste
+14049010;Córdoba;Ischilín;Avellaneda
+14049020;Córdoba;Ischilín;Cañada de Río Pinto
+14049030;Córdoba;Ischilín;Chuña
+14049040;Córdoba;Ischilín;Copacabana
+14049050;Córdoba;Ischilín;Deán Funes
+14049060;Córdoba;Ischilín;Esquina del Alambre
+14049080;Córdoba;Ischilín;Los Pozos
+14049090;Córdoba;Ischilín;Olivares de San Nicolás
+14049100;Córdoba;Ischilín;Quilino
+14049110;Córdoba;Ischilín;San Pedro de Toyos
+14049120;Córdoba;Ischilín;Los Chañaritos
+14049120;Córdoba;Ischilín;Villa Gutiérrez
+14049130;Córdoba;Ischilín;Villa Quilino
+14056010;Córdoba;Juárez Celman;Alejandro Roca (Est. Alejandro)
+14056020;Córdoba;Juárez Celman;Assunta
+14056030;Córdoba;Juárez Celman;Bengolea
+14056040;Córdoba;Juárez Celman;Carnerillo
+14056050;Córdoba;Juárez Celman;Charras
+14056060;Córdoba;Juárez Celman;El Rastreador
+14056070;Córdoba;Juárez Celman;General Cabrera
+14056080;Córdoba;Juárez Celman;General Deheza
+14056090;Córdoba;Juárez Celman;Huanchillas
+14056100;Córdoba;Juárez Celman;La Carlota
+14056110;Córdoba;Juárez Celman;Los Cisnes
+14056120;Córdoba;Juárez Celman;Olaeta
+14056130;Córdoba;Juárez Celman;Pacheco de Melo
+14056140;Córdoba;Juárez Celman;Paso del Durazno
+14056150;Córdoba;Juárez Celman;Santa Eufemia
+14056160;Córdoba;Juárez Celman;Ucacha
+14056170;Córdoba;Juárez Celman;Villa Reducción
+14063010;Córdoba;Marcos Juárez;Alejo Ledesma
+14063020;Córdoba;Marcos Juárez;Arias
+14063020;Córdoba;Marcos Juárez;Noetinger
+14063030;Córdoba;Marcos Juárez;Camilo Aldao
+14063040;Córdoba;Marcos Juárez;Capitán General Bernardo O'Higgins
+14063050;Córdoba;Marcos Juárez;Cavanagh
+14063060;Córdoba;Marcos Juárez;Colonia Barge
+14063070;Córdoba;Marcos Juárez;Colonia Italiana
+14063080;Córdoba;Marcos Juárez;Colonia Veinticinco
+14063090;Córdoba;Marcos Juárez;Corral de Bustos
+14063100;Córdoba;Marcos Juárez;Cruz Alta
+14063110;Córdoba;Marcos Juárez;General Baldissera
+14063120;Córdoba;Marcos Juárez;General Roca
+14063130;Córdoba;Marcos Juárez;Guatimozín
+14063140;Córdoba;Marcos Juárez;Inriville
+14063150;Córdoba;Marcos Juárez;Isla Verde
+14063160;Córdoba;Marcos Juárez;Leones
+14063170;Córdoba;Marcos Juárez;Los Surgentes
+14063180;Córdoba;Marcos Juárez;Marcos Juárez
+14063190;Córdoba;Marcos Juárez;Monte Buey
+14063210;Córdoba;Marcos Juárez;Saira
+14063220;Córdoba;Marcos Juárez;Saladillo
+14063230;Córdoba;Marcos Juárez;Villa Elisa
+14070010;Córdoba;Minas;Ciénaga del Coro
+14070020;Córdoba;Minas;El Chacho
+14070030;Córdoba;Minas;Estancia de Guadalupe
+14070040;Córdoba;Minas;Guasapampa
+14070050;Córdoba;Minas;La Playa
+14070060;Córdoba;Minas;San Carlos Minas
+14070070;Córdoba;Minas;Talaini
+14070080;Córdoba;Minas;Tosno
+14077010;Córdoba;Pocho;Chancani
+14077020;Córdoba;Pocho;Las Palmas
+14077030;Córdoba;Pocho;Los Talares
+14077040;Córdoba;Pocho;Salsacate
+14077050;Córdoba;Pocho;San Gerónimo
+14077060;Córdoba;Pocho;Tala Cañada
+14077070;Córdoba;Pocho;Taninga
+14077080;Córdoba;Pocho;Villa de Pocho
+14084010;Córdoba;Presidente Roque Sáenz Peña;General Levalle
+14084020;Córdoba;Presidente Roque Sáenz Peña;La Cesira
+14084030;Córdoba;Presidente Roque Sáenz Peña;Laboulaye
+14084040;Córdoba;Presidente Roque Sáenz Peña;Leguizamón
+14084050;Córdoba;Presidente Roque Sáenz Peña;Melo
+14084060;Córdoba;Presidente Roque Sáenz Peña;Río Bamba
+14084070;Córdoba;Presidente Roque Sáenz Peña;Rosales
+14084080;Córdoba;Presidente Roque Sáenz Peña;San Joaquín
+14084090;Córdoba;Presidente Roque Sáenz Peña;Serrano
+14084100;Córdoba;Presidente Roque Sáenz Peña;Villa Rossi
+14091010;Córdoba;Punilla;Barrio Santa Isabel
+14091020;Córdoba;Punilla;Bialet Massé
+14091030;Córdoba;Punilla;Cabalango
+14091040;Córdoba;Punilla;Capilla del Monte
+14091050;Córdoba;Punilla;Casa Grande
+14091060;Córdoba;Punilla;Charbonier
+14091060;Córdoba;Punilla;San Roque Del Lago
+14091070;Córdoba;Punilla;Cosquín
+14091080;Córdoba;Punilla;Cuesta Blanca
+14091090;Córdoba;Punilla;Estancia Vieja
+14091100;Córdoba;Punilla;Huerta Grande
+14091110;Córdoba;Punilla;La Cumbre
+14091120;Córdoba;Punilla;La Falda
+14091130;Córdoba;Punilla;Las Jarillas
+14091140;Córdoba;Punilla;Los Cocos
+14091150;Córdoba;Punilla;Mallín
+14091160;Córdoba;Punilla;Mayu Sumaj
+14091170;Córdoba;Punilla;Quebrada de Luna
+14091180;Córdoba;Punilla;San Antonio de Arredondo
+14091190;Córdoba;Punilla;San Esteban
+14091200;Córdoba;Punilla;San Roque
+14091210;Córdoba;Punilla;Santa María de Punilla
+14091220;Córdoba;Punilla;Tala Huasi
+14091230;Córdoba;Punilla;Tanti
+14091240;Córdoba;Punilla;Valle Hermoso
+14091250;Córdoba;Punilla;Villa Carlos Paz
+14091260;Córdoba;Punilla;Villa Flor Serrana
+14091270;Córdoba;Punilla;Villa Giardino
+14091280;Córdoba;Punilla;Villa Lago Azul
+14091290;Córdoba;Punilla;Villa Parque Siquimán
+14091300;Córdoba;Punilla;Villa Río Icho Cruz
+14091310;Córdoba;Punilla;Villa San José
+14091320;Córdoba;Punilla;Villa Santa Cruz del Lago
+14098010;Córdoba;Río Cuarto;Achiras
+14098020;Córdoba;Río Cuarto;Adelia María
+14098030;Córdoba;Río Cuarto;Alcira (Est. Gigena)
+14098040;Córdoba;Río Cuarto;ALPA CORRAL
+14098050;Córdoba;Río Cuarto;Berrotarán
+14098060;Córdoba;Río Cuarto;Bulnes
+14098070;Córdoba;Río Cuarto;Chaján
+14098080;Córdoba;Río Cuarto;Chucul
+14098090;Córdoba;Río Cuarto;Coronel Baigorria
+14098100;Córdoba;Río Cuarto;Coronel Moldes
+14098110;Córdoba;Río Cuarto;Elena
+14098120;Córdoba;Río Cuarto;La Carolina
+14098130;Córdoba;Río Cuarto;La Cautiva
+14098140;Córdoba;Río Cuarto;La Gilda
+14098150;Córdoba;Río Cuarto;Las Acequias
+14098160;Córdoba;Río Cuarto;Las Albahacas
+14098170;Córdoba;Río Cuarto;Las Higueras
+14098180;Córdoba;Río Cuarto;Las Peñas
+14098190;Córdoba;Río Cuarto;Las Vertientes
+14098200;Córdoba;Río Cuarto;Malena
+14098210;Córdoba;Río Cuarto;Monte de los Gauchos
+14098220;Córdoba;Río Cuarto;Paso del Durazno
+14098230;Córdoba;Río Cuarto;Río Cuarto
+14098240;Córdoba;Río Cuarto;Sampacho
+14098250;Córdoba;Río Cuarto;San Basilio
+14098260;Córdoba;Río Cuarto;Santa Catalina (Est. Holmberg)
+14098270;Córdoba;Río Cuarto;Suco
+14098280;Córdoba;Río Cuarto;Tosquitas
+14098290;Córdoba;Río Cuarto;Vicuña Mackenna
+14098300;Córdoba;Río Cuarto;VILLA EL CHACAY
+14098310;Córdoba;Río Cuarto;Villa Santa Eugenia
+14098320;Córdoba;Río Cuarto;Washington
+14105010;Córdoba;Río Primero;Atahona
+14105020;Córdoba;Río Primero;Cañada de Machado
+14105030;Córdoba;Río Primero;Capilla de los Remedios
+14105040;Córdoba;Río Primero;Chalacea
+14105050;Córdoba;Río Primero;Colonia Las Cuatro Esquinas
+14105060;Córdoba;Río Primero;Diego de Rojas
+14105070;Córdoba;Río Primero;El Alcalde (Est. Tala Norte)
+14105080;Córdoba;Río Primero;El Crispín
+14105090;Córdoba;Río Primero;Esquina
+14105100;Córdoba;Río Primero;Kilómetro 658
+14105110;Córdoba;Río Primero;La Para
+14105120;Córdoba;Río Primero;La Posta
+14105130;Córdoba;Río Primero;La Puerta
+14105140;Córdoba;Río Primero;La Quinta
+14105150;Córdoba;Río Primero;Las Gramillas
+14105160;Córdoba;Río Primero;Las Saladas
+14105170;Córdoba;Río Primero;Maquinista Gallini
+14105180;Córdoba;Río Primero;Monte del Rosario
+14105190;Córdoba;Río Primero;Montecristo
+14105200;Córdoba;Río Primero;Obispo Trejo
+14105210;Córdoba;Río Primero;Piquillín
+14105220;Córdoba;Río Primero;Plaza de Mercedes
+14105230;Córdoba;Río Primero;Pueblo Comechingones
+14105240;Córdoba;Río Primero;Río Primero
+14105250;Córdoba;Río Primero;Sagrada Familia
+14105260;Córdoba;Río Primero;Santa Rosa de Río Primero
+14105270;Córdoba;Río Primero;Villa Fontana
+14112010;Córdoba;Río Seco;Cerro Colorado
+14112020;Córdoba;Río Seco;Chañar Viejo
+14112030;Córdoba;Río Seco;Eufrasio Loza
+14112040;Córdoba;Río Seco;Gütemberg
+14112050;Córdoba;Río Seco;La Rinconada
+14112060;Córdoba;Río Seco;Los Hoyos
+14112070;Córdoba;Río Seco;Puesto de Castro
+14112080;Córdoba;Río Seco;Rayo Cortado
+14112090;Córdoba;Río Seco;San Pedro de Gütemberg
+14112100;Córdoba;Río Seco;Santa Elena
+14112110;Córdoba;Río Seco;Sebastián Elcano
+14112120;Córdoba;Río Seco;Villa Candelaria
+14112130;Córdoba;Río Seco;Villa de María
+14119010;Córdoba;Río Segundo;Calchín
+14119020;Córdoba;Río Segundo;Calchín Oeste
+14119030;Córdoba;Río Segundo;Capilla del Carmen
+14119040;Córdoba;Río Segundo;Carrilobo
+14119050;Córdoba;Río Segundo;Colazo
+14119060;Córdoba;Río Segundo;Colonia Videla
+14119070;Córdoba;Río Segundo;Costasacate
+14119080;Córdoba;Río Segundo;Impira
+14119090;Córdoba;Río Segundo;Laguna Larga
+14119100;Córdoba;Río Segundo;Las Junturas
+14119110;Córdoba;Río Segundo;Los Chañaritos
+14119120;Córdoba;Río Segundo;Luque
+14119130;Córdoba;Río Segundo;Manfredi
+14119140;Córdoba;Río Segundo;Matorrales
+14119150;Córdoba;Río Segundo;Oncativo
+14119160;Córdoba;Río Segundo;Pilar
+14119170;Córdoba;Río Segundo;Pozo del Molle
+14119180;Córdoba;Río Segundo;Rincón
+14119190;Córdoba;Río Segundo;Río Segundo
+14119200;Córdoba;Río Segundo;Santiago Temple
+14119210;Córdoba;Río Segundo;Villa del Rosario
+14126010;Córdoba;San Alberto;Ambul
+14126020;Córdoba;San Alberto;Arroyo Los Patos
+14126030;Córdoba;San Alberto;El Huayco
+14126040;Córdoba;San Alberto;La Cortadera
+14126050;Córdoba;San Alberto;Las Calles
+14126060;Córdoba;San Alberto;Las Oscuras
+14126070;Córdoba;San Alberto;Las Rabonas
+14126080;Córdoba;San Alberto;Los Callejones
+14126090;Córdoba;San Alberto;Mina Clavero
+14126100;Córdoba;San Alberto;Mussi
+14126110;Córdoba;San Alberto;Nono
+14126120;Córdoba;San Alberto;Panaholma
+14126130;Córdoba;San Alberto;San Huberto
+14126140;Córdoba;San Alberto;San Lorenzo
+14126150;Córdoba;San Alberto;San Martín
+14126160;Córdoba;San Alberto;San Pedro
+14126170;Córdoba;San Alberto;San Vicente
+14126180;Córdoba;San Alberto;Sauce Arriba
+14126190;Córdoba;San Alberto;Tasna
+14126200;Córdoba;San Alberto;Villa Cura Brochero
+14126210;Córdoba;San Alberto;Villa Sarmiento
+14133010;Córdoba;San Javier;Conlara
+14133030;Córdoba;San Javier;Cruz Caña
+14133040;Córdoba;San Javier;Dos Arroyos
+14133040;Córdoba;San Javier;Los Romeros
+14133050;Córdoba;San Javier;El Pantanillo
+14133060;Córdoba;San Javier;La Paz
+14133070;Córdoba;San Javier;La Población
+14133080;Córdoba;San Javier;El Pueblito
+14133080;Córdoba;San Javier;La Ramada
+14133090;Córdoba;San Javier;La Travesía
+14133095;Córdoba;San Javier;Las Chacras
+14133100;Córdoba;San Javier;Las Tapias
+14133105;Córdoba;San Javier;Loma Bola
+14133110;Córdoba;San Javier;Los Cerrillos
+14133120;Córdoba;San Javier;Los Hornillos
+14133130;Córdoba;San Javier;Los Molles
+14133150;Córdoba;San Javier;Luyaba
+14133155;Córdoba;San Javier;Quebracho Ladeado
+14133160;Córdoba;San Javier;Quebrada de los Pozos
+14133170;Córdoba;San Javier;San Javier y Yacanto
+14133180;Córdoba;San Javier;San José
+14133190;Córdoba;San Javier;Villa de las Rosas
+14133200;Córdoba;San Javier;Villa Dolores
+14133210;Córdoba;San Javier;Villa La Viña
+14140010;Córdoba;San Justo;Alicia
+14140020;Córdoba;San Justo;Altos de Chipión
+14140030;Córdoba;San Justo;Arroyito
+14140040;Córdoba;San Justo;Balnearia
+14140050;Córdoba;San Justo;Brinkmann
+14140060;Córdoba;San Justo;Colonia Anita
+14140070;Córdoba;San Justo;Colonia 10 de Julio
+14140070;Córdoba;San Justo;Trinchera
+14140080;Córdoba;San Justo;Colonia Las Pichanas
+14140090;Córdoba;San Justo;Colonia Marina
+14140100;Córdoba;San Justo;Colonia Prosperidad
+14140110;Córdoba;San Justo;Colonia San Bartolomé
+14140120;Córdoba;San Justo;Colonia San Pedro
+14140130;Córdoba;San Justo;Colonia Santa María
+14140140;Córdoba;San Justo;Colonia Valtelina
+14140150;Córdoba;San Justo;Colonia Vignaud
+14140160;Córdoba;San Justo;Devoto
+14140170;Córdoba;San Justo;El Arañado
+14140180;Córdoba;San Justo;El Fortín
+14140190;Córdoba;San Justo;El Fuertecito
+14140200;Córdoba;San Justo;El Tío
+14140210;Córdoba;San Justo;Estación Luxardo
+14140215;Córdoba;San Justo;Colonia Iturraspe
+14140220;Córdoba;San Justo;Freyre
+14140230;Córdoba;San Justo;La Francia
+14140240;Córdoba;San Justo;La Paquita
+14140250;Córdoba;San Justo;La Tordilla
+14140260;Córdoba;San Justo;Las Varas
+14140270;Córdoba;San Justo;Las Varillas
+14140280;Córdoba;San Justo;Marull
+14140290;Córdoba;San Justo;Miramar
+14140300;Córdoba;San Justo;Morteros
+14140310;Córdoba;San Justo;Plaza Luxardo
+14140320;Córdoba;San Justo;Plaza San Francisco
+14140330;Córdoba;San Justo;Porteña
+14140340;Córdoba;San Justo;Quebracho Herrado
+14140350;Córdoba;San Justo;Sacanta
+14140360;Córdoba;San Justo;San Francisco
+14140370;Córdoba;San Justo;Saturnino María Laspiur
+14140380;Córdoba;San Justo;Seeber
+14140390;Córdoba;San Justo;Toro Pujio
+14140400;Córdoba;San Justo;Tránsito
+14140420;Córdoba;San Justo;Villa Concepción del Tío
+14140430;Córdoba;San Justo;Villa del Tránsito
+14140440;Córdoba;San Justo;Villa San Esteban
+14147010;Córdoba;Santa María;Alta Gracia
+14147020;Córdoba;Santa María;Anisacate
+14147030;Córdoba;Santa María;Barrio Gilbert
+14147050;Córdoba;Santa María;Bouwer
+14147055;Córdoba;Santa María;Campos Del Virrey
+14147060;Córdoba;Santa María;Caseros Centro
+14147065;Córdoba;Santa María;Causana
+14147070;Córdoba;Santa María;Costa Azul
+14147080;Córdoba;Santa María;Despeñaderos
+14147090;Córdoba;Santa María;Dique Chico
+14147095;Córdoba;Santa María;El Potrerillo
+14147100;Córdoba;Santa María;Falda del Cañete
+14147110;Córdoba;Santa María;Falda del Carmen
+14147115;Córdoba;Santa María;José de la Quintana
+14147130;Córdoba;Santa María;La Carbonada
+14147150;Córdoba;Santa María;La Paisanita
+14147160;Córdoba;Santa María;La Perla
+14147170;Córdoba;Santa María;La Rancherita
+14147180;Córdoba;Santa María;La Serranita
+14147190;Córdoba;Santa María;Los Cedros - Las Quintas
+14147200;Córdoba;Santa María;Lozada
+14147210;Córdoba;Santa María;Malagueño
+14147217;Córdoba;Santa María;Milenica
+14147220;Córdoba;Santa María;Barrio Las Quintas
+14147220;Córdoba;Santa María;Mi Valle
+14147220;Córdoba;Santa María;Monte Ralo
+14147220;Córdoba;Santa María;Tejas Tres
+14147220;Córdoba;Santa María;Tierra Alta
+14147230;Córdoba;Santa María;Potrero de Garay
+14147240;Córdoba;Santa María;Rafael García
+14147250;Córdoba;Santa María;San Clemente
+14147260;Córdoba;Santa María;San Nicolás
+14147270;Córdoba;Santa María;Socavones
+14147280;Córdoba;Santa María;Barrio Villa del Parque
+14147280;Córdoba;Santa María;La Cumbrecita
+14147280;Córdoba;Santa María;La Donosa
+14147280;Córdoba;Santa María;Toledo
+14147290;Córdoba;Santa María;Valle Alegre
+14147300;Córdoba;Santa María;Valle de Anisacate
+14147310;Córdoba;Santa María;Villa Ciudad de América (Loteo Diego de Rojas)
+14147320;Córdoba;Santa María;Villa del Prado
+14147330;Córdoba;Santa María;Villa La Bolsa
+14147340;Córdoba;Santa María;Villa Los Aromos
+14147350;Córdoba;Santa María;Villa Parque Santa Ana
+14147360;Córdoba;Santa María;Villa San Isidro - José de la Quintana
+14147370;Córdoba;Santa María;Villa Sierras de Oro
+14147380;Córdoba;Santa María;Yocsina
+14154010;Córdoba;Sobremonte;Caminiaga
+14154030;Córdoba;Sobremonte;Chuña Huasi
+14154040;Córdoba;Sobremonte;Pozo Nuevo
+14154050;Córdoba;Sobremonte;San Francisco del Chañar
+14161010;Córdoba;Tercero Arriba;Almafuerte
+14161020;Córdoba;Tercero Arriba;Colonia Almada
+14161030;Córdoba;Tercero Arriba;Corralito
+14161040;Córdoba;Tercero Arriba;Dalmacio Vélez
+14161050;Córdoba;Tercero Arriba;General Fotheringham
+14161060;Córdoba;Tercero Arriba;Hernando
+14161070;Córdoba;Tercero Arriba;James Craik
+14161080;Córdoba;Tercero Arriba;Las Isletillas
+14161090;Córdoba;Tercero Arriba;Las Perdices
+14161100;Córdoba;Tercero Arriba;Los Zorros
+14161110;Córdoba;Tercero Arriba;Oliva
+14161120;Córdoba;Tercero Arriba;Pampayasta Norte
+14161130;Córdoba;Tercero Arriba;Pampayasta Sur
+14161140;Córdoba;Tercero Arriba;Punta del Agua
+14161150;Córdoba;Tercero Arriba;Río Tercero
+14161160;Córdoba;Tercero Arriba;Tancacha
+14161170;Córdoba;Tercero Arriba;Villa Ascasubi
+14168010;Córdoba;Totoral;Candelaria Sur
+14168020;Córdoba;Totoral;Cañada de Luque
+14168030;Córdoba;Totoral;Capilla de Sitón
+14168030;Córdoba;Totoral;La Paz
+14168040;Córdoba;Totoral;La Pampa
+14168060;Córdoba;Totoral;Las Peñas
+14168070;Córdoba;Totoral;Los Mistoles
+14168080;Córdoba;Totoral;Santa Catalina
+14168090;Córdoba;Totoral;Sarmiento
+14168100;Córdoba;Totoral;Simbolar
+14168110;Córdoba;Totoral;Sinsacate
+14168120;Córdoba;Totoral;Villa del Totoral
+14175020;Córdoba;Tulumba;Churqui Cañada
+14175030;Córdoba;Tulumba;El Rodeo
+14175040;Córdoba;Tulumba;El Tuscal
+14175050;Córdoba;Tulumba;Las Arrias
+14175060;Córdoba;Tulumba;Cerro Colorado
+14175060;Córdoba;Tulumba;Lucio V. Mansilla
+14175070;Córdoba;Tulumba;Rosario del Saladillo
+14175080;Córdoba;Tulumba;San José de la Dormida
+14175090;Córdoba;Tulumba;San José de las Salinas
+14175100;Córdoba;Tulumba;San Pedro Norte
+14175110;Córdoba;Tulumba;Villa Tulumba
+14182010;Córdoba;Unión;Aldea Santa María
+14182020;Córdoba;Unión;Alto Alegre
+14182030;Córdoba;Unión;Ana Zumarán
+14182040;Córdoba;Unión;Ballesteros
+14182050;Córdoba;Unión;Ballesteros Sur
+14182060;Córdoba;Unión;Bell Ville
+14182070;Córdoba;Unión;Benjamín Gould
+14182080;Córdoba;Unión;Canals
+14182090;Córdoba;Unión;Chilibroste
+14182100;Córdoba;Unión;Cintra
+14182110;Córdoba;Unión;Colonia Bismarck
+14182120;Córdoba;Unión;Colonia Bremen
+14182130;Córdoba;Unión;Idiazabal
+14182140;Córdoba;Unión;Justiniano Posse
+14182150;Córdoba;Unión;Laborde
+14182160;Córdoba;Unión;Monte Leña
+14182170;Córdoba;Unión;Monte Maíz
+14182180;Córdoba;Unión;Morrison
+14182190;Córdoba;Unión;Noetinger
+14182200;Córdoba;Unión;Ordóñez
+14182210;Córdoba;Unión;Pascanas
+14182220;Córdoba;Unión;Pueblo Italiano
+14182230;Córdoba;Unión;Ramón J. Cárcano
+14182240;Córdoba;Unión;San Antonio de Litín
+14182250;Córdoba;Unión;San Marcos
+14182260;Córdoba;Unión;San Severo
+14182270;Córdoba;Unión;Viamonte
+14182280;Córdoba;Unión;Villa Los Patos
+14182290;Córdoba;Unión;Wenceslao Escalante
+18007010;Corrientes;Bella Vista;Bella Vista
+18014010;Corrientes;Berón de Astrada;Berón de Astrada
+18014020;Corrientes;Berón de Astrada;Yahapé
+18021020;Corrientes;Capital;Barrio Esperanza
+18021020;Corrientes;Capital;Corrientes
+18021030;Corrientes;Capital;Laguna Brava
+18021040;Corrientes;Capital;Riachuelo
+18021050;Corrientes;Capital;San Cayetano
+18028010;Corrientes;Concepción;Concepción
+18028020;Corrientes;Concepción;Santa Rosa
+18028030;Corrientes;Concepción;Tabay
+18028040;Corrientes;Concepción;Tatacua
+18035010;Corrientes;Curuzú Cuatiá;Cazadores Correntinos
+18035020;Corrientes;Curuzú Cuatiá;Curuzú Cuatiá
+18035030;Corrientes;Curuzú Cuatiá;Perugorría
+18042010;Corrientes;Empedrado;El Sombrero
+18042020;Corrientes;Empedrado;Empedrado
+18049010;Corrientes;Esquina;Esquina
+18049020;Corrientes;Esquina;Pueblo Libertador
+18056010;Corrientes;General Alvear;Alvear
+18056020;Corrientes;General Alvear;Estación Torrent
+18063010;Corrientes;General Paz;Itá Ibaté
+18063020;Corrientes;General Paz;Lomas de Vallejos
+18063030;Corrientes;General Paz;Nuestra Señora del Rosario de Caá Catí
+18063040;Corrientes;General Paz;Palmar Grande
+18070010;Corrientes;Goya;Colonia Carolina
+18070020;Corrientes;Goya;Goya
+18077010;Corrientes;ItatÍ;Itatí
+18077020;Corrientes;Itatí;Ramada Paso
+18084010;Corrientes;Ituzaingó;Colonia Liebig's
+18084020;Corrientes;Ituzaingó;Ituzaingó
+18084030;Corrientes;Ituzaingó;San Antonio
+18084040;Corrientes;Ituzaingó;San Carlos
+18084050;Corrientes;Ituzaingó;Villa Olivari
+18091010;Corrientes;Lavalle;Cruz de los Milagros
+18091020;Corrientes;Lavalle;Gobernador Juan E. Martínez
+18091030;Corrientes;Lavalle;Lavalle
+18091040;Corrientes;Lavalle;Santa Lucía
+18091050;Corrientes;Lavalle;Villa Córdoba
+18091060;Corrientes;Lavalle;Yatayti Calle
+18098010;Corrientes;Mburucuyá;Mburucuyá
+18105010;Corrientes;Mercedes;Felipe Yofré
+18105020;Corrientes;Mercedes;Mariano I. Loza  (Est. Justino Solari)
+18105030;Corrientes;Mercedes;Mercedes
+18112010;Corrientes;Monte Caseros;Colonia Libertad
+18112020;Corrientes;Monte Caseros;Estación Libertad
+18112030;Corrientes;Monte Caseros;Juan Pujol
+18112040;Corrientes;Monte Caseros;Mocoretá
+18112050;Corrientes;Monte Caseros;Monte Caseros
+18112060;Corrientes;Monte Caseros;Parada Acuña
+18112070;Corrientes;Monte Caseros;Parada Labougle
+18119010;Corrientes;Paso de los Libres;Bonpland
+18119020;Corrientes;Paso de los Libres;Parada Pucheta
+18119030;Corrientes;Paso de los Libres;Paso de los Libres
+18119040;Corrientes;Paso de los Libres;Tapebicuá
+18126010;Corrientes;Saladas;Saladas
+18126020;Corrientes;Saladas;San Lorenzo
+18133010;Corrientes;San Cosme;Ingenio Primer Correntino
+18133020;Corrientes;San Cosme;Paso de la Patria
+18133030;Corrientes;San Cosme;San Cosme
+18133040;Corrientes;San Cosme;Santa Ana
+18140010;Corrientes;San Luis del Palmar;San Luis del Palmar
+18147010;Corrientes;San Martín;Colonia Carlos Pellegrini
+18147020;Corrientes;San Martín;Guaviraví
+18147030;Corrientes;San Martín;La Cruz
+18147040;Corrientes;San Martín;Yapeyú
+18154010;Corrientes;San Miguel;Loreto
+18154020;Corrientes;San Miguel;San Miguel
+18161010;Corrientes;San Roque;Chavarría
+18161020;Corrientes;San Roque;Colonia Pando
+18161030;Corrientes;San Roque;9 de Julio  (Est. Pueblo 9 de Julio)
+18161040;Corrientes;San Roque;Pedro R. Fernández (Est. Manuel F. Mantilla)
+18161050;Corrientes;San Roque;San Roque
+18168010;Corrientes;Santo Tomé;José Rafael Gómez
+18168020;Corrientes;Santo Tomé;Garruchos
+18168030;Corrientes;Santo Tomé;Gobernador Igr. Valentín Virasoro
+18168040;Corrientes;Santo Tomé;Santo Tomé
+18175010;Corrientes;Sauce;Sauce
+22007010;Chaco;Almirante Brown;Concepción del Bermejo
+22007020;Chaco;Almirante Brown;Los Frentones
+22007030;Chaco;Almirante Brown;Pampa del Infierno
+22007040;Chaco;Almirante Brown;Río Muerto
+22007050;Chaco;Almirante Brown;Taco Pozo
+22014010;Chaco;Bermejo;General Vedia
+22014020;Chaco;Bermejo;Isla del Cerrito
+22014030;Chaco;Bermejo;La Leonesa
+22014040;Chaco;Bermejo;Las Palmas
+22014050;Chaco;Bermejo;Puerto Bermejo Nuevo
+22014070;Chaco;Bermejo;Puerto Eva Perón
+22021010;Chaco;Comandante Fernández;Presidencia Roque Sáenz Peña
+22028010;Chaco;Chacabuco;Charata
+22036010;Chaco;12 de Octubre;Gancedo
+22036020;Chaco;12 de Octubre;General Capdevila
+22036030;Chaco;12 de Octubre;General Pinedo
+22036040;Chaco;12 de Octubre;Mesón de Fierro
+22039010;Chaco;2 de Abril;Hermoso Campo
+22039020;Chaco;2 de Abril;Itín
+22043010;Chaco;Fray Justo Santa María De Oro;Chorotis
+22043020;Chaco;Fray Justo Santa María de Oro;Santa Sylvina
+22043030;Chaco;Fray Justo Santa María de Oro;Venados Grandes
+22049010;Chaco;General Belgrano;Corzuela
+22056010;Chaco;General Donovan;La Escondida
+22056020;Chaco;General Donovan;La Verde
+22056030;Chaco;General Donovan;Lapachito
+22056040;Chaco;General Donovan;Makallé
+22063010;Chaco;General Güemes;El Espinillo
+22063020;Chaco;General Güemes;El Sauzal
+22063030;Chaco;General Güemes;El Sauzalito
+22063040;Chaco;General Güemes;Fortín Lavalle
+22063050;Chaco;General Güemes;Fuerte Esperanza
+22063060;Chaco;General Güemes;Juan José Castelli
+22063070;Chaco;General Güemes;Miraflores
+22063080;Chaco;General Güemes;Nueva Pompeya
+22063100;Chaco;General Güemes;Villa Río Bermejito
+22063110;Chaco;General Güemes;Wichi
+22063120;Chaco;General Güemes;Zaparinqui
+22070010;Chaco;Independencia;Avia Terai
+22070020;Chaco;Independencia;Campo Largo
+22070030;Chaco;Independencia;Fortín Las Chuñas
+22070040;Chaco;Independencia;Napenay
+22077010;Chaco;Libertad;Colonia Popular
+22077020;Chaco;Libertad;Estación General Obligado
+22077030;Chaco;Libertad;Laguna Blanca
+22077040;Chaco;Libertad;Puerto Tirol
+22084010;Chaco;Libertador General San Martín;Ciervo Petiso
+22084020;Chaco;Libertador General San Martín;General José de San Martín
+22084030;Chaco;Libertador General San Martín;La Eduvigis
+22084040;Chaco;Libertador General San Martín;Laguna Limpia
+22084050;Chaco;Libertador General San Martín;Pampa Almirón
+22084060;Chaco;Libertador General San Martín;Pampa del Indio
+22084070;Chaco;Libertador General San Martín;Presidencia Roca
+22084080;Chaco;Libertador General San Martín;Selvas del Río de Oro
+22091010;Chaco;Maipú;Tres Isletas
+22098010;Chaco;Mayor Luis J. Fontana;Coronel Du Graty
+22098020;Chaco;Mayor Luis J. Fontana;Enrique Urién
+22098030;Chaco;Mayor Luis J. Fontana;Villa Angela
+22105010;Chaco;9 de Julio;Las Breñas
+22112010;Chaco;O Higgins;La Clotilde
+22112020;Chaco;O Higgins;La Tigra
+22112030;Chaco;O Higgins;San Bernardo
+22119010;Chaco;Presidencia de la Plaza;Presidencia de la Plaza
+22126010;Chaco;1º de Mayo;Barrio de los Pescadores
+22126020;Chaco;1º de Mayo;Colonia Benítez
+22126030;Chaco;1º de Mayo;Margarita Belén
+22133010;Chaco;Quitilipi;Quitilipi
+22133020;Chaco;Quitilipi;Villa El Palmar
+22140010;Chaco;San Fernando;Barranqueras
+22140020;Chaco;San Fernando;Basail
+22140030;Chaco;San Fernando;Colonia Baranda
+22140040;Chaco;San Fernando;Fontana
+22140050;Chaco;San Fernando;Puerto Vilelas
+22140060;Chaco;San Fernando;Resistencia
+22147010;Chaco;San Lorenzo;Samuhú
+22147020;Chaco;San Lorenzo;Villa Berthet
+22154010;Chaco;Sargento Cabral;Capitán Solari
+22154020;Chaco;Sargento Cabral;Colonia Elisa
+22154030;Chaco;Sargento Cabral;Colonias Unidas
+22154040;Chaco;Sargento Cabral;Ingeniero Barbet
+22154050;Chaco;Sargento Cabral;Las Garcitas
+22161010;Chaco;Tapenagá;Charadai
+22161020;Chaco;Tapenagá;Cote Lai
+22161030;Chaco;Tapenagá;Haumonía
+22161040;Chaco;Tapenagá;Horquilla
+22161050;Chaco;Tapenagá;La Sabana
+22168010;Chaco;25 de Mayo;Colonia Aborigen
+22168020;Chaco;25 de Mayo;Machagai
+22168030;Chaco;25 de Mayo;Napalpí
+26007010;Chubut;Biedma;Arroyo Verde
+26007020;Chubut;Biedma;Puerto Madryn
+26007030;Chubut;Biedma;Puerto Pirámide
+26007040;Chubut;Biedma;Quinta El Mirador
+26007050;Chubut;Biedma;Reserva Area Protegida El Doradillo
+26014010;Chubut;Cushamen;Buenos Aires Chico
+26014020;Chubut;Cushamen;Cholila
+26014025;Chubut;Cushamen;Costa del Chubut
+26014030;Chubut;Cushamen;Cushamen Centro
+26014040;Chubut;Cushamen;El Hoyo
+26014050;Chubut;Cushamen;El Maitén
+26014060;Chubut;Cushamen;Epuyén
+26014065;Chubut;Cushamen;Fofo Cahuel
+26014070;Chubut;Cushamen;Gualjaina
+26014080;Chubut;Cushamen;Lago Epuyén
+26014090;Chubut;Cushamen;Lago Puelo
+26014100;Chubut;Cushamen;Leleque
+26021010;Chubut;Escalante;Astra
+26021020;Chubut;Escalante;Acceso Norte
+26021020;Chubut;Escalante;Bahía Bustamante
+26021020;Chubut;Escalante;Barrio 25 De Mayo
+26021020;Chubut;Escalante;Barrio Caleta Cordova
+26021020;Chubut;Escalante;Barrio Caleta Olivares
+26021020;Chubut;Escalante;Barrio Castelli
+26021020;Chubut;Escalante;Barrio Ciudadela
+26021020;Chubut;Escalante;Barrio Gasoducto
+26021020;Chubut;Escalante;Barrio Guemes
+26021020;Chubut;Escalante;Barrio Laprida
+26021020;Chubut;Escalante;Barrio Manantial Rosales
+26021020;Chubut;Escalante;Barrio Militar - Aeropuerto Militar
+26021020;Chubut;Escalante;Barrio Prospero Palazzo
+26021020;Chubut;Escalante;Barrio Restinga Ali
+26021020;Chubut;Escalante;Barrio Rodriguez Peña
+26021020;Chubut;Escalante;Barrio Saavedra
+26021020;Chubut;Escalante;Barrio Sarmiento
+26021020;Chubut;Escalante;Barrio Villa S.U.P.E.
+26021020;Chubut;Escalante;KM. 3 - General Mosconi
+26021020;Chubut;Escalante;KM. 5 - Presidente Ortiz
+26021020;Chubut;Escalante;KM. 8 - Don Bosco
+26021020;Chubut;Escalante;Km. 11 - Cuarteles
+26021030;Chubut;Escalante;Comodoro Rivadavia
+26021040;Chubut;Escalante;Diadema Argentina
+26021050;Chubut;Escalante;Rada Tilly
+26028010;Chubut;Florentino Ameghino;Camarones
+26028020;Chubut;Florentino Ameghino;Garayalde
+26035010;Chubut;Futaleufú;Aldea Escolar
+26035020;Chubut;Futaleufú;Corcovado
+26035030;Chubut;Futaleufú;Esquel
+26035040;Chubut;Futaleufú;Lago Rosario
+26035050;Chubut;Futaleufú;Los Cipreses
+26035060;Chubut;Futaleufú;Trevelín
+26035070;Chubut;Futaleufú;Villa Futalaufquen
+26042010;Chubut;Gaiman;Dique Florentino Ameghino
+26042020;Chubut;Gaiman;Dolavon
+26042030;Chubut;Gaiman;Gaiman
+26042040;Chubut;Gaiman;28 de Julio
+26049010;Chubut;Gastre;Blancuntre
+26049020;Chubut;Gastre;El Escorial
+26049030;Chubut;Gastre;Gastre
+26049040;Chubut;Gastre;Lagunita Salada
+26049050;Chubut;Gastre;Yala Laubat
+26056010;Chubut;Languiñeo;Aldea Epulef
+26056020;Chubut;Languiñeo;Carrenleufú
+26056030;Chubut;Languiñeo;Colan Conhue
+26056040;Chubut;Languiñeo;Paso del Sapo
+26056050;Chubut;Languiñeo;Tecka
+26063010;Chubut;Mártires;El Mirasol
+26063020;Chubut;Mártires;Las Plumas
+26070010;Chubut;Paso de Indios;Cerro Cóndor
+26070020;Chubut;Paso de Indios;Los Altares
+26070030;Chubut;Paso de Indios;Paso de Indios
+26077010;Chubut;Rawson;Playa Magagna
+26077020;Chubut;Rawson;Playa Unión
+26077030;Chubut;Rawson;Rawson
+26077040;Chubut;Rawson;Trelew
+26084010;Chubut;Río Senguer;Aldea Apeleg
+26084020;Chubut;Río Senguer;Aldea Beleiro
+26084030;Chubut;Río Senguer;Alto Río Senguer
+26084040;Chubut;Río Senguer;Doctor Ricardo Rojas
+26084050;Chubut;Río Senguer;Facundo
+26084060;Chubut;Río Senguer;Lago Blanco
+26084070;Chubut;Río Senguer;Río Mayo
+26091010;Chubut;Sarmiento;Buen Pasto
+26091020;Chubut;Sarmiento;Sarmiento
+26098010;Chubut;Tehuelches;Frontera de Río Pico
+26098020;Chubut;Tehuelches;Gobernador Costa
+26098030;Chubut;Tehuelches;José de San Martín
+26098040;Chubut;Tehuelches;Río Pico
+26105010;Chubut;Telsen;Gan Gan
+26105020;Chubut;Telsen;Telsen
+30008010;Entre Ríos;Colón;Arroyo Barú
+30008020;Entre Ríos;Colón;Colón
+30008030;Entre Ríos;Colón;Colonia Hugues
+30008040;Entre Ríos;Colón;Hambis
+30008050;Entre Ríos;Colón;Hocker
+30008060;Entre Ríos;Colón;La Clarita
+30008070;Entre Ríos;Colón;Pueblo Cazes
+30008080;Entre Ríos;Colón;Pueblo Liebig's
+30008090;Entre Ríos;Colón;San José
+30008100;Entre Ríos;Colón;El Brillante
+30008100;Entre Ríos;Colón;El Colorado
+30008100;Entre Ríos;Colón;Ubajay
+30008110;Entre Ríos;Colón;Villa  Elisa
+30015010;Entre Ríos;Concordia;Calabacilla
+30015020;Entre Ríos;Concordia;Clodomiro Ledesma
+30015030;Entre Ríos;Concordia;Colonia Ayuí
+30015040;Entre Ríos;Concordia;Colonia General Roca
+30015060;Entre Ríos;Concordia;Concordia
+30015080;Entre Ríos;Concordia;Estación Yeruá
+30015083;Entre Ríos;Concordia;Estación Yuquerí
+30015087;Entre Ríos;Concordia;Colonia Yeruá
+30015087;Entre Ríos;Concordia;Estancia Grande
+30015090;Entre Ríos;Concordia;La Criolla
+30015100;Entre Ríos;Concordia;Los Charrúas
+30015110;Entre Ríos;Concordia;El Redomón
+30015110;Entre Ríos;Concordia;Nueva Escocia
+30015120;Entre Ríos;Concordia;Osvaldo Magnasco
+30015130;Entre Ríos;Concordia;Benito Legeren
+30015130;Entre Ríos;Concordia;Las Tejas
+30015130;Entre Ríos;Concordia;Pedernal
+30015130;Entre Ríos;Concordia;Villa Adela
+30015130;Entre Ríos;Concordia;VILLA ZORRAQUIN
+30015140;Entre Ríos;Concordia;Puerto Yeruá
+30021010;Entre Ríos;Diamante;Aldea Brasilera
+30021015;Entre Ríos;Diamante;Aldea Grapschental
+30021020;Entre Ríos;Diamante;Aldea Protestante
+30021040;Entre Ríos;Diamante;Aldea San Francisco
+30021050;Entre Ríos;Diamante;Aldea Spatzenkutter
+30021060;Entre Ríos;Diamante;Aldea Valle María
+30021070;Entre Ríos;Diamante;Colonia Ensayo
+30021080;Entre Ríos;Diamante;Diamante
+30021090;Entre Ríos;Diamante;Estación Camps
+30021100;Entre Ríos;Diamante;General Alvear
+30021110;Entre Ríos;Diamante;General Racedo
+30021120;Entre Ríos;Diamante;General Ramírez
+30021120;Entre Ríos;Diamante;Strobel
+30021123;Entre Ríos;Diamante;La Juanita
+30021127;Entre Ríos;Diamante;Costa Grande
+30021127;Entre Ríos;Diamante;Las Jaulas
+30021130;Entre Ríos;Diamante;Paraje La Virgen
+30021140;Entre Ríos;Diamante;Estacion Puiggari
+30021140;Entre Ríos;Diamante;Puerto Las Cuevas
+30021150;Entre Ríos;Diamante;Villa Libertador San Martín
+30028010;Entre Ríos;Federación;Chajarí
+30028020;Entre Ríos;Federación;Colonia Alemana
+30028040;Entre Ríos;Federación;Colonia La Argentina
+30028040;Entre Ríos;Federación;Colonia Santa María
+30028050;Entre Ríos;Federación;Colonia Peña
+30028070;Entre Ríos;Federación;Federación
+30028080;Entre Ríos;Federación;Los Conquistadores
+30028090;Entre Ríos;Federación;Colonia Ensanche Sauce
+30028090;Entre Ríos;Federación;San Jaime de la Frontera
+30028100;Entre Ríos;Federación;San Pedro
+30028105;Entre Ríos;Federación;San Ramón
+30028110;Entre Ríos;Federación;Santa Ana
+30028120;Entre Ríos;Federación;Villa del Rosario
+30035010;Entre Ríos;Federal;Conscripto Bernardi
+30035020;Entre Ríos;Federal;El Cimarrón
+30035030;Entre Ríos;Federal;Federal
+30035040;Entre Ríos;Federal;Nueva Vizcaya
+30035050;Entre Ríos;Federal;Sauce de Luna
+30042010;Entre Ríos;Feliciano;San José de Feliciano
+30042020;Entre Ríos;Feliciano;San Víctor
+30049010;Entre Ríos;Gualeguay;Aldea Asunción
+30049020;Entre Ríos;Gualeguay;Estación Lazo
+30049030;Entre Ríos;Gualeguay;General Galarza
+30049040;Entre Ríos;Gualeguay;Gualeguay
+30049050;Entre Ríos;Gualeguay;Puerto Ruiz
+30056010;Entre Ríos;Gualeguaychú;Aldea San Antonio
+30056020;Entre Ríos;Gualeguaychú;Aldea San Juan
+30056030;Entre Ríos;Gualeguaychú;Enrique Carbó
+30056035;Entre Ríos;Gualeguaychú;Estación Escriña
+30056040;Entre Ríos;Gualeguaychú;Faustino M. Parera
+30056050;Entre Ríos;Gualeguaychú;General Almada
+30056060;Entre Ríos;Gualeguaychú;Gilbert
+30056070;Entre Ríos;Gualeguaychú;Gualeguaychú
+30056080;Entre Ríos;Gualeguaychú;Irazusta
+30056090;Entre Ríos;Gualeguaychú;Larroque
+30056095;Entre Ríos;Gualeguaychú;Pastor Britos
+30056100;Entre Ríos;Gualeguaychú;Pueblo General Belgrano
+30056110;Entre Ríos;Gualeguaychú;Urdinarrain
+30063020;Entre Ríos;Islas del Ibicuy;Ceibas
+30063030;Entre Ríos;Islas del Ibicuy;Arroyo Martínez
+30063030;Entre Ríos;Islas del Ibicuy;Ibicuy
+30063030;Entre Ríos;Islas del Ibicuy;Ñancay
+30063040;Entre Ríos;Islas del Ibicuy;Médanos
+30063060;Entre Ríos;Islas del Ibicuy;Villa Paranacito
+30070005;Entre Ríos;La Paz;Pueblo Arrúa (Est. Alcaraz)
+30070010;Entre Ríos;La Paz;Bovril
+30070020;Entre Ríos;La Paz;Colonia Avigdor
+30070030;Entre Ríos;La Paz;El Solar
+30070040;Entre Ríos;La Paz;La Paz
+30070050;Entre Ríos;La Paz;Piedras Blancas
+30070070;Entre Ríos;La Paz;San Gustavo
+30070080;Entre Ríos;La Paz;Santa Elena
+30070090;Entre Ríos;La Paz;Sir Leonard
+30077010;Entre Ríos;Nogoyá;Aranguren
+30077020;Entre Ríos;Nogoyá;Betbeder
+30077030;Entre Ríos;Nogoyá;Don Cristóbal
+30077040;Entre Ríos;Nogoyá;Febré
+30077050;Entre Ríos;Nogoyá;Hernández
+30077060;Entre Ríos;Nogoyá;Lucas González
+30077070;Entre Ríos;Nogoyá;Nogoyá
+30077080;Entre Ríos;Nogoyá;XX de Setiembre
+30084010;Entre Ríos;Paraná;Aldea María Luisa
+30084015;Entre Ríos;Paraná;Aldea San Juan
+30084020;Entre Ríos;Paraná;Aldea San Rafael
+30084030;Entre Ríos;Paraná;Aldea Santa María
+30084040;Entre Ríos;Paraná;Aldea Santa Rosa
+30084050;Entre Ríos;Paraná;Cerrito
+30084060;Entre Ríos;Paraná;Colonia Avellaneda
+30084065;Entre Ríos;Paraná;Colonia Crespo
+30084070;Entre Ríos;Paraná;Crespo
+30084070;Entre Ríos;Paraná;Pueblo Moreno
+30084080;Entre Ríos;Paraná;El Palenque
+30084090;Entre Ríos;Paraná;El Pingo
+30084095;Entre Ríos;Paraná;Crucesitas Séptima Sección
+30084095;Entre Ríos;Paraná;El Ramblón
+30084100;Entre Ríos;Paraná;Hasenkamp
+30084110;Entre Ríos;Paraná;Colonia Merou
+30084110;Entre Ríos;Paraná;Hernandarias
+30084120;Entre Ríos;Paraná;La Picada
+30084130;Entre Ríos;Paraná;Las Tunas
+30084140;Entre Ríos;Paraná;María Grande
+30084150;Entre Ríos;Paraná;Oro Verde
+30084160;Entre Ríos;Paraná;Paraná
+30084170;Entre Ríos;Paraná;Pueblo Bellocq (Est. Las Garzas)
+30084180;Entre Ríos;Paraná;Pueblo Brugo
+30084190;Entre Ríos;Paraná;Pueblo General San Martín
+30084200;Entre Ríos;Paraná;San Benito
+30084210;Entre Ríos;Paraná;Sauce Montrull
+30084220;Entre Ríos;Paraná;Sauce Pinto
+30084230;Entre Ríos;Paraná;Seguí
+30084250;Entre Ríos;Paraná;Tabossi
+30084260;Entre Ríos;Paraná;Tezanos Pintos
+30084270;Entre Ríos;Paraná;Viale
+30084280;Entre Ríos;Paraná;Villa Fontana
+30084290;Entre Ríos;Paraná;Villa Gobernador Luis F. Etchevehere
+30084300;Entre Ríos;Paraná;Villa Urquiza
+30088010;Entre Ríos;San Salvador;General Campos
+30088020;Entre Ríos;San Salvador;San Salvador
+30091010;Entre Ríos;Tala;Altamirano Sur
+30091020;Entre Ríos;Tala;Durazno
+30091030;Entre Ríos;Tala;Estación Arroyo Clé
+30091040;Entre Ríos;Tala;Gobernador Echagüe
+30091050;Entre Ríos;Tala;Gobernador Mansilla
+30091060;Entre Ríos;Tala;Gobernador Solá
+30091070;Entre Ríos;Tala;Guardamonte
+30091080;Entre Ríos;Tala;Las Guachas
+30091090;Entre Ríos;Tala;Maciá
+30091100;Entre Ríos;Tala;Rosario del Tala
+30098010;Entre Ríos;Uruguay;Basavilbaso
+30098020;Entre Ríos;Uruguay;Caseros
+30098030;Entre Ríos;Uruguay;Colonia Elía
+30098030;Entre Ríos;Uruguay;Estancia San Pedro
+30098040;Entre Ríos;Uruguay;Concepción del Uruguay
+30098060;Entre Ríos;Uruguay;Herrera
+30098070;Entre Ríos;Uruguay;Las Moscas
+30098080;Entre Ríos;Uruguay;Líbaros
+30098090;Entre Ríos;Uruguay;1º de Mayo
+30098100;Entre Ríos;Uruguay;Pronunciamiento
+30098110;Entre Ríos;Uruguay;Rocamora
+30098120;Entre Ríos;Uruguay;Santa Anita
+30098130;Entre Ríos;Uruguay;Villa Mantero
+30098140;Entre Ríos;Uruguay;Villa San Justo
+30098150;Entre Ríos;Uruguay;Villa San Marcial (Est. Gobernador Urquiza)
+30105010;Entre Ríos;Victoria;Antelo
+30105040;Entre Ríos;Victoria;Charigüé
+30105040;Entre Ríos;Victoria;Laguna del Pescado
+30105040;Entre Ríos;Victoria;Molino Doll
+30105040;Entre Ríos;Victoria;Rincón de Nogoyá
+30105060;Entre Ríos;Victoria;Victoria
+30113010;Entre Ríos;Villaguay;Estación Raíces
+30113020;Entre Ríos;Villaguay;Ingeniero Miguel Sajaroff
+30113020;Entre Ríos;Villaguay;Mojones Norte
+30113030;Entre Ríos;Villaguay;Jubileo
+30113050;Entre Ríos;Villaguay;Paso de la Laguna
+30113060;Entre Ríos;Villaguay;Villa Clara
+30113070;Entre Ríos;Villaguay;Villa Domínguez
+30113080;Entre Ríos;Villaguay;Villaguay
+34007003;Formosa;Bermejo;Fortín Soledad
+34007005;Formosa;Bermejo;Guadalcazar
+34007007;Formosa;Bermejo;La Rinconada
+34007010;Formosa;Bermejo;Laguna Yema
+34007015;Formosa;Bermejo;Lamadrid
+34007020;Formosa;Bermejo;Los Chiriguanos
+34007030;Formosa;Bermejo;Pozo de Maza
+34007040;Formosa;Bermejo;Pozo del Mortero
+34007050;Formosa;Bermejo;Vaca Perdida
+34014010;Formosa;Formosa;Colonia Pastoril
+34014020;Formosa;Formosa;Formosa
+34014030;Formosa;Formosa;Gran Guardia
+34014040;Formosa;Formosa;Mariano Boedo
+34014050;Formosa;Formosa;Mojón de Fierro
+34014060;Formosa;Formosa;San Hilario
+34014070;Formosa;Formosa;Villa del Carmen
+34021010;Formosa;Laishi;Banco Payaguá
+34021020;Formosa;Laishi;General Lucio Victorio Mansilla
+34021030;Formosa;Laishi;Herradura
+34021040;Formosa;Laishi;San Francisco de Laishi
+34021050;Formosa;Laishi;Tatané
+34021060;Formosa;Laishi;Villa Escolar
+34028010;Formosa;Matacos;Ingeniero Guillermo N. Juárez
+34035010;Formosa;Patiño;Bartolomé de las Casas
+34035020;Formosa;Patiño;Colonia Sarmiento
+34035030;Formosa;Patiño;Comandante Fontana
+34035040;Formosa;Patiño;El Recreo
+34035050;Formosa;Patiño;Estanislao del Campo
+34035060;Formosa;Patiño;Fortín Cabo 1º Lugones
+34035070;Formosa;Patiño;Fortín Sargento 1º Leyes
+34035080;Formosa;Patiño;Ibarreta
+34035090;Formosa;Patiño;Juan G. Bazán
+34035100;Formosa;Patiño;Las Lomitas
+34035110;Formosa;Patiño;Posta Cambio Zalazar
+34035120;Formosa;Patiño;Pozo del Tigre
+34035130;Formosa;Patiño;San Martín I
+34035140;Formosa;Patiño;San Martín II
+34035150;Formosa;Patiño;Subteniente Perín
+34035160;Formosa;Patiño;Villa General Güemes
+34035170;Formosa;Patiño;Villa General Manuel Belgrano
+34042010;Formosa;Pilagás;Buena Vista
+34042020;Formosa;Pilagás;El Espinillo
+34042030;Formosa;Pilagás;Laguna Gallo
+34042040;Formosa;Pilagás;Misión Tacaagle
+34042050;Formosa;Pilagás;Portón Negro
+34042060;Formosa;Pilagás;Tres Lagunas
+34049010;Formosa;Pilcomayo;Clorinda
+34049020;Formosa;Pilcomayo;Laguna Blanca
+34049030;Formosa;Pilcomayo;Laguna Naick-Neck
+34049040;Formosa;Pilcomayo;Palma Sola
+34049050;Formosa;Pilcomayo;Puerto Pilcomayo
+34049060;Formosa;Pilcomayo;Riacho He-He
+34049070;Formosa;Pilcomayo;Riacho Negro
+34049080;Formosa;Pilcomayo;Siete Palmas
+34056010;Formosa;Pirané;Colonia Campo Villafañe
+34056020;Formosa;Pirané;El Colorado
+34056030;Formosa;Pirané;Palo Santo
+34056040;Formosa;Pirané;Pirané
+34056050;Formosa;Pirané;Villa Kilómetro 213
+34063010;Formosa;Ramón Lista;El Potrillo
+34063020;Formosa;Ramón Lista;General Mosconi
+34063030;Formosa;Ramón Lista;El Quebracho
+38007010;Jujuy;Cochinoca;Abdón Castro Tolay
+38007020;Jujuy;Cochinoca;Abra Pampa
+38007030;Jujuy;Cochinoca;Abralaite
+38007035;Jujuy;Cochinoca;Agua de Castilla
+38007040;Jujuy;Cochinoca;Casabindo
+38007050;Jujuy;Cochinoca;Cochinoca
+38007055;Jujuy;Cochinoca;La Redonda
+38007060;Jujuy;Cochinoca;Puesto del Marquéz
+38007067;Jujuy;Cochinoca;Quera
+38007070;Jujuy;Cochinoca;Rinconadillas
+38007085;Jujuy;Cochinoca;Santa Ana de la Puna
+38007090;Jujuy;Cochinoca;Santuario de Tres Pozos
+38007095;Jujuy;Cochinoca;Tambillos
+38014010;Jujuy;El Carmen;Aguas Calientes
+38014020;Jujuy;El Carmen;Barrio El Milagro
+38014030;Jujuy;El Carmen;Barrio La Unión
+38014040;Jujuy;El Carmen;El Carmen
+38014040;Jujuy;El Carmen;Fleming
+38014040;Jujuy;El Carmen;Pila Pardo
+38014050;Jujuy;El Carmen;Los Lapachos (Est. Maquinista Verón)
+38014055;Jujuy;El Carmen;Loteo San Vicente
+38014060;Jujuy;El Carmen;Manantiales
+38014070;Jujuy;El Carmen;Monterrico
+38014080;Jujuy;El Carmen;Pampa Blanca
+38014090;Jujuy;El Carmen;Perico
+38014100;Jujuy;El Carmen;Puesto Viejo
+38014110;Jujuy;El Carmen;San Isidro
+38014120;Jujuy;El Carmen;San Juancito
+38021010;Jujuy;Doctor Manuel Belgrano;Guerrero
+38021020;Jujuy;Doctor Manuel Belgrano;La Almona
+38021030;Jujuy;Doctor Manuel Belgrano;León
+38021040;Jujuy;Doctor Manuel Belgrano;Lozano (Ap. Chañi)
+38021050;Jujuy;Doctor Manuel Belgrano;Ocloyas
+38021050;Jujuy;Doctor Manuel Belgrano;San Pablo De Reyes
+38021060;Jujuy;Doctor Manuel Belgrano;San Salvador de Jujuy (Est. Jujuy)
+38021065;Jujuy;Doctor Manuel Belgrano;Dr. Manuel Belgrano
+38021070;Jujuy;Doctor Manuel Belgrano;Yala
+38028003;Jujuy;Humahuaca;Aparzo
+38028007;Jujuy;Humahuaca;Cianzo
+38028010;Jujuy;Humahuaca;Coctaca
+38028020;Jujuy;Humahuaca;El Aguilar
+38028030;Jujuy;Humahuaca;Hipólito Yrigoyen (Est. Iturbe)
+38028040;Jujuy;Humahuaca;Humahuaca
+38028045;Jujuy;Humahuaca;Palca de Varas
+38028047;Jujuy;Humahuaca;Rodero
+38028050;Jujuy;Humahuaca;Tres Cruces
+38028060;Jujuy;Humahuaca;Uquía (Est. Senador Pérez)
+38035010;Jujuy;Ledesma;Bananal
+38035010;Jujuy;Ledesma;Pueblo Ledesma
+38035030;Jujuy;Ledesma;Caimancito
+38035040;Jujuy;Ledesma;Calilegua
+38035050;Jujuy;Ledesma;Chalicán
+38035060;Jujuy;Ledesma;Fraile Pintado
+38035080;Jujuy;Ledesma;Libertador General San Martín (Est. Ledesma)
+38035110;Jujuy;Ledesma;Yuto
+38042010;Jujuy;Palpalá;Carahunco
+38042010;Jujuy;Palpalá;Rio Blanco
+38042020;Jujuy;Palpalá;Centro Forestal
+38042040;Jujuy;Palpalá;Palpalá (Est. Gral. Manuel N. Savio)
+38049003;Jujuy;Rinconada;Casa Colorada
+38049007;Jujuy;Rinconada;Coyaguaima
+38049010;Jujuy;Rinconada;Lagunillas de Farallón
+38049020;Jujuy;Rinconada;Liviara
+38049025;Jujuy;Rinconada;Loma Blanca
+38049030;Jujuy;Rinconada;Nuevo Pirquitas
+38049035;Jujuy;Rinconada;Orosmayo
+38049040;Jujuy;Rinconada;Rinconada
+38056010;Jujuy;San Antonio;El Ceibal
+38056017;Jujuy;San Antonio;Los Alisos
+38056020;Jujuy;San Antonio;Loteo Navea
+38056025;Jujuy;San Antonio;Nuestra Señora del Rosario
+38056030;Jujuy;San Antonio;San Antonio
+38063010;Jujuy;San Pedro;Arrayanal
+38063020;Jujuy;San Pedro;Arroyo Colorado
+38063030;Jujuy;San Pedro;Don Emilio
+38063040;Jujuy;San Pedro;El Acheral
+38063050;Jujuy;San Pedro;El Puesto
+38063070;Jujuy;San Pedro;La Esperanza
+38063090;Jujuy;San Pedro;La Mendieta
+38063100;Jujuy;San Pedro;Miraflores
+38063110;Jujuy;San Pedro;Palos Blancos
+38063120;Jujuy;San Pedro;Parapetí
+38063130;Jujuy;San Pedro;Piedritas
+38063140;Jujuy;San Pedro;Rodeito
+38063150;Jujuy;San Pedro;Rosario de Río Grande
+38063170;Jujuy;San Pedro;San Lucas
+38063180;Jujuy;San Pedro;San Pedro (Est. San Pedro de Jujuy)
+38063190;Jujuy;San Pedro;Sauzal
+38070010;Jujuy;SANTA BARBARA;El Fuerte
+38070020;Jujuy;SANTA BARBARA;El Piquete
+38070030;Jujuy;SANTA BARBARA;El Talar
+38070040;Jujuy;SANTA BARBARA;Palma Sola
+38070050;Jujuy;SANTA BARBARA;Puente Lavayén
+38070060;Jujuy;SANTA BARBARA;Santa Clara
+38070070;Jujuy;SANTA BARBARA;Vinalito
+38077010;Jujuy;Santa Catalina;Casira
+38077020;Jujuy;Santa Catalina;Ciénega
+38077030;Jujuy;Santa Catalina;Cieneguillas
+38077040;Jujuy;Santa Catalina;Cusi Cusi
+38077045;Jujuy;Santa Catalina;El Angosto
+38077050;Jujuy;Santa Catalina;La Ciénega
+38077060;Jujuy;Santa Catalina;Misarrumi
+38077070;Jujuy;Santa Catalina;Oratorio
+38077080;Jujuy;Santa Catalina;Paicone
+38077090;Jujuy;Santa Catalina;San Juan de Oros
+38077100;Jujuy;Santa Catalina;Santa Catalina
+38084010;Jujuy;Susques;Catua
+38084020;Jujuy;Susques;Coranzuli
+38084030;Jujuy;Susques;El Toro
+38084040;Jujuy;Susques;Huáncar
+38084045;Jujuy;Susques;Jama
+38084050;Jujuy;Susques;Mina Providencia
+38084055;Jujuy;Susques;Olacapato
+38084060;Jujuy;Susques;Olaroz Chico
+38084070;Jujuy;Susques;Pastos Chicos
+38084080;Jujuy;Susques;Puesto Sey
+38084090;Jujuy;Susques;San Juan de Quillaqués
+38084100;Jujuy;Susques;Susques
+38094010;Jujuy;Tilcara;Colonia San José
+38094020;Jujuy;Tilcara;Huacalera
+38094030;Jujuy;Tilcara;Juella
+38094040;Jujuy;Tilcara;Maimará
+38094050;Jujuy;Tilcara;Tilcara
+38098010;Jujuy;Tumbaya;Bárcena
+38098020;Jujuy;Tumbaya;El Moreno
+38098025;Jujuy;Tumbaya;Puerta de Colorados
+38098030;Jujuy;Tumbaya;Purmamarca
+38098040;Jujuy;Tumbaya;Tumbaya
+38098050;Jujuy;Tumbaya;Volcán
+38105010;Jujuy;Valle Grande;Caspalá
+38105020;Jujuy;Valle Grande;Pampichuela
+38105030;Jujuy;Valle Grande;San Francisco
+38105040;Jujuy;Valle Grande;Santa Ana
+38105050;Jujuy;Valle Grande;Valle Colorado
+38105060;Jujuy;Valle Grande;Valle Grande
+38112010;Jujuy;Yavi;Barrios
+38112020;Jujuy;Yavi;Cangrejillos
+38112030;Jujuy;Yavi;El Cóndor
+38112040;Jujuy;Yavi;La Intermedia
+38112050;Jujuy;Yavi;La Quiaca
+38112070;Jujuy;Yavi;Pumahuasi
+38112080;Jujuy;Yavi;Yavi
+38112090;Jujuy;Yavi;Yavi Chico
+42007010;La Pampa;Atreucó;Doblas
+42007020;La Pampa;Atreucó;Macachín
+42007030;La Pampa;Atreucó;Miguel Riglos
+42007040;La Pampa;Atreucó;Rolón
+42007050;La Pampa;Atreucó;Tomas M. Anchorena
+42014010;La Pampa;Caleu Caleu;Anzoategui
+42014020;La Pampa;Caleu Caleu;La Adela
+42021010;La Pampa;Capital;Anguil
+42021020;La Pampa;Capital;Santa Rosa
+42028010;La Pampa;Catriló;Catriló
+42028020;La Pampa;Catriló;La Gloria
+42028030;La Pampa;Catriló;Lonquimay
+42028040;La Pampa;Catriló;Uriburu
+42035010;La Pampa;Conhelo;Conhelo
+42035020;La Pampa;Conhelo;Eduardo Castex
+42035030;La Pampa;Conhelo;Mauricio Mayer
+42035040;La Pampa;Conhelo;Monte Nievas
+42035050;La Pampa;Conhelo;Rucanelo
+42035060;La Pampa;Conhelo;Winifreda
+42042010;La Pampa;Curacó;Gobernador Duval
+42042020;La Pampa;Curacó;Puelches
+42049010;La Pampa;Chalileo;Santa Isabel
+42056010;La Pampa;Chapaleufú;Bernardo Larroude
+42056020;La Pampa;Chapaleufú;Ceballos
+42056030;La Pampa;Chapaleufú;Coronel Hilario Lagos (Est. Aguas Buenas)
+42056040;La Pampa;Chapaleufú;Intendente Alvear
+42056050;La Pampa;Chapaleufú;Sarah
+42056060;La Pampa;Chapaleufú;Vértiz
+42063010;La Pampa;Chical Co;Algarrobo del Águila
+42063020;La Pampa;Chical Co;La Humada
+42070010;La Pampa;Guatraché;Alpachiri
+42070020;La Pampa;Guatraché;General Manuel J. Campos
+42070030;La Pampa;Guatraché;Guatraché
+42070040;La Pampa;Guatraché;Perú
+42070050;La Pampa;Guatraché;Santa Teresa
+42077010;La Pampa;Hucal;Abramo
+42077020;La Pampa;Hucal;Bernasconi
+42077030;La Pampa;Hucal;General San Martín (Est. Villa Alba)
+42077040;La Pampa;Hucal;Hucal
+42077050;La Pampa;Hucal;Jacinto Arauz
+42084010;La Pampa;Lihuel Calel;Cuchillo Co
+42091010;La Pampa;Limay Mahuida;La Reforma
+42091020;La Pampa;Limay Mahuida;Limay Mahuida
+42098010;La Pampa;Loventué;Carro Quemado
+42098020;La Pampa;Loventué;Loventué
+42098030;La Pampa;Loventué;Luan Toro
+42098040;La Pampa;Loventué;Telén
+42098050;La Pampa;Loventué;Victorica
+42105010;La Pampa;Maracó;Agustoni
+42105020;La Pampa;Maracó;Dorila
+42105030;La Pampa;Maracó;General Pico
+42105040;La Pampa;Maracó;Speluzzi
+42105050;La Pampa;Maracó;Trebolares
+42112005;La Pampa;Puelén;Casa de Piedra
+42112010;La Pampa;Puelén;Puelén
+42112020;La Pampa;Puelén;25 de Mayo
+42119010;La Pampa;Quemú Quemú;Colonia Barón
+42119030;La Pampa;Quemú Quemú;Miguel Cané
+42119040;La Pampa;Quemú Quemú;Quemú Quemú
+42119050;La Pampa;Quemú Quemú;Relmo
+42119060;La Pampa;Quemú Quemú;Villa Mirasol
+42126010;La Pampa;Rancul;Caleufú
+42126020;La Pampa;Rancul;Ingeniero Foster
+42126030;La Pampa;Rancul;La Maruja
+42126040;La Pampa;Rancul;Parera
+42126050;La Pampa;Rancul;Pichi Huinca
+42126060;La Pampa;Rancul;Quetrequén
+42126070;La Pampa;Rancul;Rancul
+42133010;La Pampa;Realicó;Adolfo Van Praet
+42133020;La Pampa;Realicó;Alta Italia
+42133030;La Pampa;Realicó;Damián Maisonave (Est. Simson)
+42133040;La Pampa;Realicó;Embajador Martini
+42133050;La Pampa;Realicó;Falucho
+42133060;La Pampa;Realicó;Ingeniero Luiggi
+42133070;La Pampa;Realicó;Ojeda
+42133080;La Pampa;Realicó;Realicó
+42140005;La Pampa;Toay;Cachirulo
+42140010;La Pampa;Toay;Naicó
+42140020;La Pampa;Toay;Toay
+42147010;La Pampa;Trenel;Arata
+42147020;La Pampa;Trenel;Metileo
+42147030;La Pampa;Trenel;Trenel
+42154010;La Pampa;Utracán;Ataliva Roca
+42154020;La Pampa;Utracán;Chacharramendi
+42154030;La Pampa;Utracán;Colonia Santa María
+42154040;La Pampa;Utracán;General Acha
+42154050;La Pampa;Utracán;Quehué
+42154060;La Pampa;Utracán;Unanué
+46007010;La Rioja;Arauco;Aimogasta
+46007020;La Rioja;Arauco;Arauco
+46007040;La Rioja;Arauco;Estación Mazán
+46007040;La Rioja;Arauco;Machigasta
+46007040;La Rioja;Arauco;San Antonio
+46007045;La Rioja;Arauco;Termas de Santa Teresita
+46007050;La Rioja;Arauco;Villa Mazán
+46014010;La Rioja;Capital;La Rioja
+46021010;La Rioja;Castro Barros;Aminga
+46021020;La Rioja;Castro Barros;Anillaco
+46021030;La Rioja;Castro Barros;Anjullón
+46021040;La Rioja;Castro Barros;Chuquis
+46021050;La Rioja;Castro Barros;Los Molinos
+46021060;La Rioja;Castro Barros;Pinchas
+46021070;La Rioja;Castro Barros;San Pedro
+46021080;La Rioja;Castro Barros;Santa Vera Cruz
+46028010;La Rioja;Coronel Felipe Varela;Aicuña
+46028010;La Rioja;Coronel Felipe Varela;Santa Clara
+46028020;La Rioja;Coronel Felipe Varela;Guandacol
+46028030;La Rioja;Coronel Felipe Varela;Los Palacios
+46028040;La Rioja;Coronel Felipe Varela;Pagancillo
+46028050;La Rioja;Coronel Felipe Varela;Villa Unión
+46035010;La Rioja;Chamical;Chamical
+46035020;La Rioja;Chamical;Polco
+46042010;La Rioja;Chilecito;Chilecito
+46042020;La Rioja;Chilecito;Colonia Anguinán
+46042030;La Rioja;Chilecito;Anguinan
+46042030;La Rioja;Chilecito;La Puntilla
+46042030;La Rioja;Chilecito;Los Sarmientos
+46042030;La Rioja;Chilecito;San Miguel
+46042040;La Rioja;Chilecito;Colonia Malligasta
+46042050;La Rioja;Chilecito;Colonia Vichigasta
+46042060;La Rioja;Chilecito;Guanchín
+46042070;La Rioja;Chilecito;Malligasta
+46042090;La Rioja;Chilecito;Nonogasta
+46042100;La Rioja;Chilecito;San Nicolás
+46042110;La Rioja;Chilecito;Santa Florentina
+46042120;La Rioja;Chilecito;Sañogasta
+46042130;La Rioja;Chilecito;Tilimuqui
+46042140;La Rioja;Chilecito;Vichigasta
+46049020;La Rioja;Famatina;Angulos
+46049030;La Rioja;Famatina;Antinaco
+46049050;La Rioja;Famatina;Campanas
+46049060;La Rioja;Famatina;Chañarmuyo
+46049070;La Rioja;Famatina;Famatina
+46049080;La Rioja;Famatina;La Cuadra
+46049090;La Rioja;Famatina;Pituil
+46049110;La Rioja;Famatina;Santa Cruz
+46056010;La Rioja;General Angel V. Peñaloza;Punta de los Llanos
+46056020;La Rioja;General Angel V. Peñaloza;Tama
+46063010;La Rioja;General Belgrano;Castro Barros
+46063020;La Rioja;General Belgrano;Chañar
+46063030;La Rioja;General Belgrano;Loma Blanca
+46063040;La Rioja;General Belgrano;Olta
+46070010;La Rioja;General Juan F. Quiroga;Malanzán
+46070020;La Rioja;General Juan F. Quiroga;Nácate
+46070030;La Rioja;General Juan F. Quiroga;Portezuelo
+46070040;La Rioja;General Juan F. Quiroga;San Antonio
+46077010;La Rioja;General Lamadrid;Villa Castelli
+46084010;La Rioja;General Ocampo;Ambil
+46084020;La Rioja;General Ocampo;Colonia Ortiz de Ocampo
+46084030;La Rioja;General Ocampo;Milagro
+46084040;La Rioja;General Ocampo;Olpas
+46084050;La Rioja;General Ocampo;Santa Rita de Catuna
+46091010;La Rioja;General San Martín;Ulapes
+46098010;La Rioja;Vinchina;Jagüé
+46098020;La Rioja;Vinchina;Villa San José de Vinchina
+46105010;La Rioja;Independencia;Amaná
+46105020;La Rioja;Independencia;Patquía
+46112010;La Rioja;Rosario Vera Peñaloza;Chepes
+46112020;La Rioja;Rosario Vera Peñaloza;Desiderio Tello
+46119010;La Rioja;San Blas de los Sauces;Alpasinche
+46119010;La Rioja;San Blas de los Sauces;Andolucas
+46119010;La Rioja;San Blas de los Sauces;Chaupihuasi
+46119010;La Rioja;San Blas de Los Sauces;Cuipan
+46119010;La Rioja;San Blas de los Sauces;Las Talas
+46119010;La Rioja;San Blas de los Sauces;Los Robles
+46119010;La Rioja;San Blas de Los Sauces;Salicas
+46119010;La Rioja;San Blas de los Sauces;Salicas - San Blas
+46119010;La Rioja;San Blas de los Sauces;San Blas
+46119010;La Rioja;San Blas de los Sauces;Shaqui
+46119010;La Rioja;San Blas de los Sauces;Suriyaco
+46119010;La Rioja;San Blas de los Sauces;Tuyubil
+46126010;La Rioja;Sanagasta;Villa Sanagasta
+50007010;Mendoza;Capital;Mendoza
+50014010;Mendoza;General Alvear;Bowen
+50014020;Mendoza;General Alvear;Carmensa
+50014030;Mendoza;General Alvear;General Alvear
+50014040;Mendoza;General Alvear;Los Compartos
+50021010;Mendoza;Godoy Cruz;Gobernador Benegas
+50021010;Mendoza;Godoy Cruz;Godoy Cruz
+50021010;Mendoza;Godoy Cruz;Las Tortugas
+50021010;Mendoza;Godoy Cruz;Presidente Sarmiento
+50021010;Mendoza;Godoy Cruz;San Francisco Del Monte
+50021010;Mendoza;Godoy Cruz;Villa Hipodromo
+50021010;Mendoza;Godoy Cruz;Villa Marini
+50028010;Mendoza;Guaymallén;Colonia Segovia
+50028010;Mendoza;Guaymallén;RODEO DE LA CRUZ
+50028020;Mendoza;Guaymallén;Guaymallén
+50028020;Mendoza;Guaymallén;KILOMETRO 11 (GUAYMALLEN)
+50028030;Mendoza;Guaymallén;Bermejo
+50028030;Mendoza;Guaymallén;BUENA NUEVA
+50028030;Mendoza;Guaymallén;DORREGO
+50028030;Mendoza;Guaymallén;EL SAUCE
+50028030;Mendoza;Guaymallén;GENERAL BELGRANO
+50028030;Mendoza;Guaymallén;La Primavera
+50028030;Mendoza;Guaymallén;PEDRO MOLINA
+50028030;Mendoza;Guaymallén;San Jose
+50028030;Mendoza;Guaymallén;VILLA NUEVA
+50028040;Mendoza;Guaymallén;Los Corralitos
+50028050;Mendoza;Guaymallén;Capilla Del Rosario
+50028050;Mendoza;Guaymallén;JESUS NAZARENO
+50028050;Mendoza;Guaymallén;LAS CAÑAS
+50028050;Mendoza;Guaymallén;Puente de Hierro
+50028050;Mendoza;Guaymallén;San Francisco Del Monte
+50035010;Mendoza;Junín;Ingeniero Giagnoni
+50035020;Mendoza;Junín;Junín
+50035030;Mendoza;Junín;La Colonia
+50035040;Mendoza;Junín;Los Barriales
+50035050;Mendoza;Junín;ALTO VERDE
+50035050;Mendoza;Junín;Medrano
+50035060;Mendoza;Junín;Phillips
+50035070;Mendoza;Junín;Rodríguez Peña
+50042010;Mendoza;La Paz;Desaguadero
+50042020;Mendoza;La Paz;La Paz
+50042030;Mendoza;La Paz;Villa Antigua
+50049010;Mendoza;Las Heras;Blanco Encalada
+50049030;Mendoza;Las Heras;Jocolí
+50049040;Mendoza;Las Heras;Capdeville
+50049040;Mendoza;Las Heras;El Algarrobal
+50049040;Mendoza;Las Heras;El Borbollon
+50049040;Mendoza;Las Heras;EL CHALLAO
+50049040;Mendoza;Las Heras;EL PLUMERILLO
+50049040;Mendoza;Las Heras;EL RESGUARDO
+50049040;Mendoza;Las Heras;EL ZAPALLAR
+50049040;Mendoza;Las Heras;La Cieneguita
+50049040;Mendoza;Las Heras;Las Cuevas
+50049040;Mendoza;Las Heras;Panquehua
+50049040;Mendoza;Las Heras;Papagayos
+50049040;Mendoza;Las Heras;Sierras De Encalada
+50049050;Mendoza;Las Heras;Las Heras
+50049060;Mendoza;Las Heras;Los Penitentes
+50049080;Mendoza;Las Heras;Polvaredas
+50049090;Mendoza;Las Heras;Puente del Inca
+50049100;Mendoza;Las Heras;Punta de Vacas
+50049110;Mendoza;Las Heras;Uspallata
+50056010;Mendoza;Lavalle;Barrio Alto del Olvido
+50056020;Mendoza;Lavalle;Barrio Jocolí II
+50056030;Mendoza;Lavalle;Barrio La Palmera
+50056040;Mendoza;Lavalle;Barrio La Esperanza
+50056040;Mendoza;Lavalle;Barrio La Pega
+50056050;Mendoza;Lavalle;Barrio Lagunas de Bartoluzzi
+50056060;Mendoza;Lavalle;Barrio Los Jarilleros
+50056070;Mendoza;Lavalle;Barrio Los Olivos
+50056075;Mendoza;Lavalle;Barrio Virgen del Rosario
+50056080;Mendoza;Lavalle;Costa de Araujo
+50056090;Mendoza;Lavalle;El Paramillo
+50056100;Mendoza;Lavalle;El Vergel
+50056110;Mendoza;Lavalle;Ingeniero Gustavo André
+50056120;Mendoza;Lavalle;Jocolí
+50056130;Mendoza;Lavalle;Jocolí Viejo
+50056140;Mendoza;Lavalle;Las Violetas
+50056150;Mendoza;Lavalle;3 de Mayo
+50056160;Mendoza;Lavalle;Villa Tulumaya
+50063010;Mendoza;Luján de Cuyo;Agrelo
+50063020;Mendoza;Luján de Cuyo;Barrio Perdriel IV
+50063030;Mendoza;Luján de Cuyo;Cacheuta
+50063040;Mendoza;Luján de Cuyo;Costa Flores
+50063050;Mendoza;Luján de Cuyo;El Carmelo
+50063050;Mendoza;Luján de Cuyo;El Carrizal
+50063050;Mendoza;Luján de Cuyo;Los Manantiales
+50063050;Mendoza;Luján de Cuyo;Piedras Blancas
+50063050;Mendoza;Luján de Cuyo;Valle Del Sol
+50063050;Mendoza;Luján de Cuyo;Villa El Refugio
+50063060;Mendoza;Luján de Cuyo;Barrio Adina I Y Ii
+50063060;Mendoza;Luján de Cuyo;Carrodilla
+50063060;Mendoza;Luján de Cuyo;Chacras De Coria
+50063060;Mendoza;Luján de Cuyo;El Salto
+50063060;Mendoza;Luján de Cuyo;La Puntilla
+50063060;Mendoza;Luján de Cuyo;Mayor Drummond
+50063060;Mendoza;Luján de Cuyo;Vistalba
+50063070;Mendoza;Luján de Cuyo;Las Compuertas
+50063080;Mendoza;Luján de Cuyo;Las Vegas
+50063090;Mendoza;Luján de Cuyo;Luján de Cuyo
+50063100;Mendoza;Luján de Cuyo;Perdriel
+50063110;Mendoza;Luján de Cuyo;Potrerillos
+50063120;Mendoza;Luján de Cuyo;Ugarteche
+50070010;Mendoza;Maipú;Barrancas
+50070020;Mendoza;Maipú;Barrio Jesús de Nazaret
+50070030;Mendoza;Maipú;Cruz de Piedra
+50070040;Mendoza;Maipú;El Pedregal
+50070040;Mendoza;Maipú;GENERAL GUTIERREZ
+50070050;Mendoza;Maipú;Fray Luis Beltrán
+50070060;Mendoza;Maipú;Maipú
+50070070;Mendoza;Maipú;Rodeo del Medio
+50070080;Mendoza;Maipú;Russell
+50070090;Mendoza;Maipú;COQUIMBITO
+50070090;Mendoza;Maipú;Luzuriaga
+50070090;Mendoza;Maipú;San Roque
+50070100;Mendoza;Maipú;Villa Teresa
+50077010;Mendoza;Malargüe;Agua Escondida
+50077010;Mendoza;Malargüe;Bardas Blancas
+50077030;Mendoza;Malargüe;Las Leñas
+50077040;Mendoza;Malargüe;Malargüe
+50084010;Mendoza;Rivadavia;Andrade
+50084020;Mendoza;Rivadavia;Barrio Cooperativa Los Campamentos
+50084030;Mendoza;Rivadavia;Barrio Rivadavia
+50084040;Mendoza;Rivadavia;El Mirador
+50084050;Mendoza;Rivadavia;La Central
+50084060;Mendoza;Rivadavia;La Esperanza
+50084070;Mendoza;Rivadavia;La Florida
+50084080;Mendoza;Rivadavia;La Libertad
+50084090;Mendoza;Rivadavia;Los Árboles
+50084100;Mendoza;Rivadavia;Los Campamentos
+50084110;Mendoza;Rivadavia;Cuadro Ortega
+50084110;Mendoza;Rivadavia;Medrano
+50084120;Mendoza;Rivadavia;Mundo Nuevo
+50084130;Mendoza;Rivadavia;Reducción de Abajo
+50084140;Mendoza;Rivadavia;Rivadavia
+50084150;Mendoza;Rivadavia;Santa María de Oro
+50091005;Mendoza;San Carlos;Barrio Carrasco
+50091010;Mendoza;San Carlos;Barrio El Cepillo
+50091020;Mendoza;San Carlos;Chilecito
+50091030;Mendoza;San Carlos;Eugenio Bustos
+50091040;Mendoza;San Carlos;La Consulta
+50091050;Mendoza;San Carlos;Pareditas
+50091060;Mendoza;San Carlos;San Carlos
+50098020;Mendoza;San Martín;Alto Verde
+50098030;Mendoza;San Martín;Barrio Chivilcoy
+50098040;Mendoza;San Martín;Barrio Emanuel
+50098050;Mendoza;San Martín;Barrio Los Charabones
+50098055;Mendoza;San Martín;Barrio Ntra. Sra. De Fátima
+50098060;Mendoza;San Martín;Chapanay
+50098070;Mendoza;San Martín;Chivilcoy
+50098073;Mendoza;San Martín;El Espino
+50098077;Mendoza;San Martín;El Ramblón
+50098080;Mendoza;San Martín;Montecaseros
+50098090;Mendoza;San Martín;Alto Salvador
+50098090;Mendoza;San Martín;Nueva California
+50098090;Mendoza;San Martín;Palmira
+50098100;Mendoza;San Martín;San Martín
+50098110;Mendoza;San Martín;Tres Porteñas
+50105010;Mendoza;San Rafael;Barrio Campos El Toledano
+50105030;Mendoza;San Rafael;Barrio Empleados de Comercio
+50105040;Mendoza;San Rafael;Barrio Intendencia
+50105050;Mendoza;San Rafael;Capitán Montoya
+50105060;Mendoza;San Rafael;Cuadro Benegas
+50105070;Mendoza;San Rafael;El Nihuil
+50105080;Mendoza;San Rafael;Barrio Echeverria
+50105080;Mendoza;San Rafael;Barrio Primavera
+50105080;Mendoza;San Rafael;Cuadro Nacional
+50105080;Mendoza;San Rafael;El Sosneado
+50105090;Mendoza;San Rafael;El Tropezón
+50105100;Mendoza;San Rafael;Goudge
+50105110;Mendoza;San Rafael;Jaime Prats
+50105120;Mendoza;San Rafael;La Llave Nueva
+50105130;Mendoza;San Rafael;Las Malvinas
+50105140;Mendoza;San Rafael;Los Reyunos
+50105150;Mendoza;San Rafael;Monte Comán
+50105160;Mendoza;San Rafael;Pobre Diablo
+50105170;Mendoza;San Rafael;Punta del Agua
+50105180;Mendoza;San Rafael;Rama Caída
+50105190;Mendoza;San Rafael;Real del Padre
+50105200;Mendoza;San Rafael;Salto de Las Rosas
+50105210;Mendoza;San Rafael;San Rafael
+50105220;Mendoza;San Rafael;25 de Mayo
+50105230;Mendoza;San Rafael;Villa Atuel
+50105240;Mendoza;San Rafael;Villa Atuel Norte
+50112010;Mendoza;Santa Rosa;Barrio 12 de Octubre
+50112020;Mendoza;Santa Rosa;Barrio María Auxiliadora
+50112030;Mendoza;Santa Rosa;Barrio Molina Cabrera
+50112040;Mendoza;Santa Rosa;La Dormida
+50112050;Mendoza;Santa Rosa;Las Catitas
+50112060;Mendoza;Santa Rosa;Santa Rosa
+50119010;Mendoza;Tunuyán;Barrio San Cayetano
+50119020;Mendoza;Tunuyán;Campo Los Andes
+50119030;Mendoza;Tunuyán;Colonia Las Rosas
+50119040;Mendoza;Tunuyán;El Manzano
+50119050;Mendoza;Tunuyán;Los Sauces
+50119060;Mendoza;Tunuyán;Tunuyán
+50119070;Mendoza;Tunuyán;Vista Flores
+50126010;Mendoza;Tupungato;Barrio Belgrano Norte
+50126020;Mendoza;Tupungato;Cordón del Plata
+50126020;Mendoza;Tupungato;Villa Bastias
+50126030;Mendoza;Tupungato;El Peral
+50126035;Mendoza;Tupungato;El Zampal
+50126040;Mendoza;Tupungato;La Arboleda
+50126050;Mendoza;Tupungato;San José
+50126060;Mendoza;Tupungato;Tupungato
+54007010;Misiones;Apóstoles;Apóstoles
+54007020;Misiones;Apóstoles;Azara
+54007025;Misiones;Apóstoles;Barrio Rural
+54007030;Misiones;Apóstoles;Estación Apóstoles
+54007040;Misiones;Apóstoles;Pindapoy
+54007050;Misiones;Apóstoles;Rincón de Azara
+54007060;Misiones;Apóstoles;San José
+54007070;Misiones;Apóstoles;Tres Capones
+54014010;Misiones;Cainguás;Aristóbulo del Valle
+54014020;Misiones;Cainguás;Campo Grande
+54014030;Misiones;Cainguás;Dos de Mayo Núcleo I
+54014030;Misiones;Cainguás;Dos de Mayo Núcleo II
+54014050;Misiones;Cainguás;Dos de Mayo Núcleo III
+54014055;Misiones;Cainguás;Kilómetro 17
+54014055;Misiones;Cainguás;Nucleo Ii
+54014070;Misiones;Cainguás;Pueblo Illia
+54014080;Misiones;Cainguás;Salto Encantado
+54021005;Misiones;Candelaria;Barrio del Lago
+54021010;Misiones;Candelaria;Bonpland
+54021020;Misiones;Candelaria;Candelaria
+54021030;Misiones;Candelaria;Cerro Corá
+54021040;Misiones;Candelaria;Loreto
+54021050;Misiones;Candelaria;Mártires
+54021060;Misiones;Candelaria;Profundidad
+54021070;Misiones;Candelaria;Puerto Santa Ana
+54021080;Misiones;Candelaria;Santa Ana
+54028005;Misiones;Capital;Barrio Nuevo Garupa
+54028010;Misiones;Capital;Garupá
+54028020;Misiones;Capital;Nemesio Parma
+54028030;Misiones;Capital;Posadas
+54028040;Misiones;Capital;Posadas (Extensión)
+54035010;Misiones;Concepción;Barra Concepción
+54035020;Misiones;Concepción;Concepción de la Sierra
+54035030;Misiones;Concepción;La Corita
+54035040;Misiones;Concepción;Santa María
+54042010;Misiones;Eldorado;Colonia Victoria
+54042020;Misiones;Eldorado;Eldorado
+54042030;Misiones;Eldorado;María Magdalena
+54042035;Misiones;Eldorado;Nueva Delicia
+54042040;Misiones;Eldorado;9 de Julio
+54042050;Misiones;Eldorado;9 de Julio Kilómetro 20
+54042055;Misiones;Eldorado;Pueblo Nuevo
+54042060;Misiones;Eldorado;Puerto Mado
+54042070;Misiones;Eldorado;Puerto Pinares
+54042080;Misiones;Eldorado;Santiago de Liniers
+54042090;Misiones;Eldorado;Valle Hermoso
+54042100;Misiones;Eldorado;Villa Roulet
+54049010;Misiones;General Manuel Belgrano;Almirante Brown
+54049020;Misiones;General Manuel Belgrano;Bernardo de Irigoyen
+54049025;Misiones;General Manuel Belgrano;Caburei
+54049030;Misiones;General Manuel Belgrano;Dos Hermanas
+54049040;Misiones;General Manuel Belgrano;Integración
+54049043;Misiones;General Manuel Belgrano;Piñalito Norte
+54049045;Misiones;General Manuel Belgrano;Puerto Andresito
+54049047;Misiones;General Manuel Belgrano;Puerto Deseado
+54049050;Misiones;General Manuel Belgrano;San Antonio
+54056010;Misiones;Guaraní;El Soberbio
+54056020;Misiones;Guaraní;Fracrán
+54056030;Misiones;Guaraní;San Vicente
+54063010;Misiones;Iguazú;Esperanza
+54063020;Misiones;Iguazú;Libertad
+54063030;Misiones;Iguazú;Puerto Iguazú
+54063035;Misiones;Iguazú;Villa Cooperativa
+54063040;Misiones;Iguazú;Wanda
+54070010;Misiones;Leandro N. Alem;Almafuerte
+54070020;Misiones;Leandro N. Alem;Arroyo del Medio
+54070030;Misiones;Leandro N. Alem;Caá - Yarí
+54070040;Misiones;Leandro N. Alem;Cerro Azul
+54070050;Misiones;Leandro N. Alem;Dos Arroyos
+54070060;Misiones;Leandro N. Alem;Gobernador López
+54070070;Misiones;Leandro N. Alem;Leandro N. Alem
+54070080;Misiones;Leandro N. Alem;Olegario V. Andrade
+54070090;Misiones;Leandro N. Alem;Villa Libertad (Municipio Leandro N. Alem)
+54077010;Misiones;Libertador Grl. San Martín;Capioví
+54077015;Misiones;Libertador Grl. San Martín;Capioviciño
+54077020;Misiones;Libertador Grl. San Martín;El Alcázar
+54077030;Misiones;Libertador Grl. San Martín;Garuhapé
+54077040;Misiones;Libertador Grl. San Martín;Mbopicuá
+54077050;Misiones;Libertador Grl. San Martín;Puerto Leoni
+54077060;Misiones;Libertador Grl. San Martín;Puerto Rico
+54077070;Misiones;Libertador Grl. San Martín;Ruiz de Montoya
+54077080;Misiones;Libertador Grl. San Martín;San Alberto
+54077090;Misiones;Libertador Grl. San Martín;San Gotardo
+54077100;Misiones;Libertador Grl. San Martín;San Miguel
+54077110;Misiones;Libertador Grl. San Martín;Villa Akerman
+54077120;Misiones;Libertador Grl. San Martín;Villa Urrutia
+54084005;Misiones;Montecarlo;Barrio Guatambu
+54084007;Misiones;Montecarlo;Bario Ita
+54084010;Misiones;Montecarlo;Caraguatay
+54084020;Misiones;Montecarlo;Laharrague
+54084030;Misiones;Montecarlo;Montecarlo
+54084040;Misiones;Montecarlo;Piray Kilómetro 18
+54084050;Misiones;Montecarlo;Puerto Piray
+54084060;Misiones;Montecarlo;Taruma
+54084070;Misiones;Montecarlo;Villa Parodi
+54091010;Misiones;Oberá;Alberdi
+54091013;Misiones;Oberá;Barrio Escuela 461
+54091017;Misiones;Oberá;Barrio Escuela 633
+54091020;Misiones;Oberá;Campo Ramón
+54091030;Misiones;Oberá;Campo Viera
+54091040;Misiones;Oberá;El Salto
+54091050;Misiones;Oberá;General Alvear
+54091060;Misiones;Oberá;Guaraní
+54091070;Misiones;Oberá;Los Helechos
+54091080;Misiones;Oberá;Oberá
+54091090;Misiones;Oberá;Panambí
+54091100;Misiones;Oberá;Panambí Kilómetro 8
+54091105;Misiones;Oberá;Panambi Kilómetro 15
+54091110;Misiones;Oberá;San Martín
+54091120;Misiones;Oberá;Villa Bonita
+54098005;Misiones;San Ignacio;Barrio Tungoil
+54098010;Misiones;San Ignacio;Colonia Polana
+54098020;Misiones;San Ignacio;Corpus
+54098030;Misiones;San Ignacio;Domingo Savio
+54098040;Misiones;San Ignacio;General Urquiza
+54098050;Misiones;San Ignacio;Gobernador Roca
+54098060;Misiones;San Ignacio;Helvecia
+54098070;Misiones;San Ignacio;Hipólito Yrigoyen
+54098080;Misiones;San Ignacio;Jardín América
+54098090;Misiones;San Ignacio;Oasis
+54098100;Misiones;San Ignacio;Roca Chica
+54098110;Misiones;San Ignacio;San Ignacio
+54098120;Misiones;San Ignacio;Santo Pipó
+54105010;Misiones;San Javier;Florentino Ameghino
+54105020;Misiones;San Javier;Itacaruaré
+54105030;Misiones;San Javier;Mojón Grande
+54105040;Misiones;San Javier;San Javier
+54112010;Misiones;San Pedro;Cruce Caballero
+54112020;Misiones;San Pedro;Paraíso
+54112030;Misiones;San Pedro;Piñalito Sur
+54112040;Misiones;San Pedro;San Pedro
+54112050;Misiones;San Pedro;Tobuna
+54119010;Misiones;25 de Mayo;Alba Posse
+54119020;Misiones;25 de Mayo;Colonia Alicia
+54119025;Misiones;25 de Mayo;Alicia Baja
+54119030;Misiones;25 de Mayo;Colonia Aurora
+54119040;Misiones;25 de Mayo;San Francisco de Asís
+54119050;Misiones;25 de Mayo;Santa Rita
+54119060;Misiones;25 de Mayo;25 de Mayo
+58007010;Neuquén;Aluminé;Aluminé
+58007015;Neuquén;Aluminé;Moquehue
+58007020;Neuquén;Aluminé;Villa Pehuenia
+58014005;Neuquén;Añelo;Aguada San Roque
+58014010;Neuquén;Añelo;Añelo
+58014020;Neuquén;Añelo;San Patricio del Chañar
+58021010;Neuquén;Catan LilL;Las Coloradas
+58028010;Neuquén;Collón Curá;Piedra del Águila
+58028020;Neuquén;Collón Curá;Santo Tomás
+58035010;Neuquén;Confluencia;Arroyito
+58035020;Neuquén;Confluencia;Barrio Ruca Luhé
+58035030;Neuquén;Confluencia;Centenario
+58035040;Neuquén;Confluencia;Cutral Có
+58035050;Neuquén;Confluencia;El Chocón
+58035060;Neuquén;Confluencia;Mari Menuco
+58035070;Neuquén;Confluencia;Neuquén
+58035080;Neuquén;Confluencia;11 de Octubre
+58035090;Neuquén;Confluencia;Plaza Huincul
+58035100;Neuquén;Confluencia;Plottier
+58035110;Neuquén;Confluencia;Senillosa
+58035120;Neuquén;Confluencia;Villa El Chocón
+58035130;Neuquén;Confluencia;Vista Alegre Norte
+58035140;Neuquén;Confluencia;Vista Alegre Sur
+58042010;Neuquén;Chos Malal;Chos Malal
+58042020;Neuquén;Chos Malal;Tricao Malal
+58042030;Neuquén;Chos Malal;Villa del Curi Leuvú
+58049010;Neuquén;Huiliches;Junín de los Andes
+58056010;Neuquén;Lácar;San Martín de los Andes
+58056020;Neuquén;Lácar;Villa Lago Meliquina
+58063010;Neuquén;Loncopué;Chorriaca
+58063020;Neuquén;Loncopué;Loncopué
+58070010;Neuquén;Los Lagos;Villa La Angostura
+58070020;Neuquén;Los Lagos;Villa Traful
+58077010;Neuquén;Minas;Andacollo
+58077020;Neuquén;Minas;Huinganco
+58077030;Neuquén;Minas;Las Ovejas
+58077040;Neuquén;Minas;Los Miches
+58077050;Neuquén;Minas;Manzano Amargo
+58077060;Neuquén;Minas;Varvarco
+58077070;Neuquén;Minas;Villa del Nahueve
+58084010;Neuquén;Ñorquín;Caviahué
+58084020;Neuquén;Ñorquín;Copahue
+58084030;Neuquén;Ñorquín;El Cholar
+58084040;Neuquén;Ñorquín;El Huecú
+58084050;Neuquén;Ñorquín;Taquimilán
+58091010;Neuquén;Pehuenches;Barrancas
+58091020;Neuquén;Pehuenches;Buta Ranquil
+58091030;Neuquén;Pehuenches;Octavio Pico
+58091040;Neuquén;Pehuenches;Rincón de los Sauces
+58098005;Neuquén;Picún Leufú;El Sauce
+58098010;Neuquén;Picún Leufú;Paso Aguerre
+58098020;Neuquén;Picún Leufú;Picún Leufú
+58105010;Neuquén;Picunches;Bajada del Agrio
+58105020;Neuquén;Picunches;La Buitrera
+58105030;Neuquén;Picunches;Las Lajas
+58105040;Neuquén;Picunches;Quili Malal
+58112010;Neuquén;Zapala;Los Catutos
+58112020;Neuquén;Zapala;Mariano Moreno
+58112030;Neuquén;Zapala;Covunco Centro
+58112030;Neuquén;Zapala;Ramon M. Castro
+58112040;Neuquén;Zapala;Zapala
+62007010;Río Negro;Adolfo Alsina;Bahía Creek
+62007020;Río Negro;Adolfo Alsina;El Cóndor
+62007030;Río Negro;Adolfo Alsina;El Juncal
+62007040;Río Negro;Adolfo Alsina;Guardia Mitre
+62007050;Río Negro;Adolfo Alsina;La Lobería
+62007060;Río Negro;Adolfo Alsina;Loteo Costa de Río
+62007070;Río Negro;Adolfo Alsina;Pozo Salado
+62007080;Río Negro;Adolfo Alsina;San Javier
+62007090;Río Negro;Adolfo Alsina;Viedma
+62014010;Río Negro;Avellaneda;Barrio Unión
+62014020;Río Negro;Avellaneda;Chelforó
+62014030;Río Negro;Avellaneda;Chimpay
+62014040;Río Negro;Avellaneda;Choele Choel
+62014050;Río Negro;Avellaneda;Coronel Belisle
+62014060;Río Negro;Avellaneda;Darwin
+62014070;Río Negro;Avellaneda;Lamarque
+62014080;Río Negro;Avellaneda;Luis Beltrán
+62014090;Río Negro;Avellaneda;Pomona
+62021005;Río Negro;Bariloche;Arelauquen
+62021010;Río Negro;Bariloche;Barrio El Pilar
+62021020;Río Negro;Bariloche;Colonia Suiza
+62021030;Río Negro;Bariloche;El Bolsón
+62021030;Río Negro;Bariloche;Villa Campanario
+62021030;Río Negro;Bariloche;Villa Llao Llao
+62021040;Río Negro;Bariloche;El Foyel
+62021047;Río Negro;Bariloche;Mallín Ahogado
+62021050;Río Negro;Bariloche;Rio Villegas
+62021060;Río Negro;Bariloche;San Carlos de Bariloche
+62021080;Río Negro;Bariloche;Villa Catedral
+62021100;Río Negro;Bariloche;Villa Los Coihues
+62021110;Río Negro;Bariloche;Villa Mascardi
+62028010;Río Negro;Conesa;Barrio Colonia Conesa
+62028020;Río Negro;Conesa;General Conesa
+62028030;Río Negro;Conesa;Barrio Planta Compresora de Gas
+62035010;Río Negro;El Cuy;Aguada Guzmán
+62035020;Río Negro;El Cuy;Cerro Policía
+62035030;Río Negro;El Cuy;El Cuy
+62035040;Río Negro;El Cuy;Las Perlas
+62035050;Río Negro;El Cuy;Mencué
+62035060;Río Negro;El Cuy;Naupa Huen
+62035070;Río Negro;El Cuy;Paso Córdova
+62035080;Río Negro;El Cuy;Valle Azul
+62042010;Río Negro;General Roca;Allen
+62042020;Río Negro;General Roca;Bajo San Cayetano
+62042030;Río Negro;General Roca;Barda del Medio
+62042040;Río Negro;General Roca;Barrio Blanco
+62042050;Río Negro;General Roca;Barrio Calle Ciega Nº10
+62042060;Río Negro;General Roca;Barrio Calle Ciega Nº6
+62042070;Río Negro;General Roca;Barrio Canale
+62042080;Río Negro;General Roca;Barrio Chacra Monte
+62042090;Río Negro;General Roca;Barrio Costa Este
+62042100;Río Negro;General Roca;Barrio Costa Linda
+62042110;Río Negro;General Roca;Barrio Costa Oeste
+62042115;Río Negro;General Roca;Barrio Destacamento
+62042120;Río Negro;General Roca;Barrio El Labrador
+62042130;Río Negro;General Roca;Barrio El Maruchito
+62042140;Río Negro;General Roca;Barrio El Petróleo
+62042143;Río Negro;General Roca;Barrio Emergente
+62042147;Río Negro;General Roca;Barrio Fátima
+62042150;Río Negro;General Roca;Barrio Frontera
+62042160;Río Negro;General Roca;Barrio Guerrico
+62042170;Río Negro;General Roca;Barrio Isla 10
+62042180;Río Negro;General Roca;Barrio La Barda
+62042190;Río Negro;General Roca;Barrio La Costa
+62042210;Río Negro;General Roca;Barrio La Defensa
+62042215;Río Negro;General Roca;Barrio La Herradura
+62042230;Río Negro;General Roca;Barrio La Ribera - Barrio APYCAR
+62042240;Río Negro;General Roca;Puente Cero
+62042245;Río Negro;General Roca;Barrio Luisillo
+62042250;Río Negro;General Roca;Barrio Mar del Plata
+62042260;Río Negro;General Roca;Barrio María Elvira
+62042265;Río Negro;General Roca;Barrio Moño Azul
+62042265;Río Negro;General Roca;Peñas Blancas
+62042270;Río Negro;General Roca;Barrio Mosconi
+62042280;Río Negro;General Roca;Barrio Norte (municipio de Cinco Saltos)
+62042280;Río Negro;General Roca;Barrio Norte (municipio de Cipolletti)
+62042297;Río Negro;General Roca;Barrio El Treinta
+62042297;Río Negro;General Roca;Barrio Goretti
+62042297;Río Negro;General Roca;Barrio La Lor
+62042297;Río Negro;General Roca;Barrio Las Angustias
+62042297;Río Negro;General Roca;Barrio Pinar
+62042297;Río Negro;General Roca;Barrio Pino Azul
+62042297;Río Negro;General Roca;Barrio Presidente Perón
+62042297;Río Negro;General Roca;Barrio Puente De Madera
+62042297;Río Negro;General Roca;Barrio Tres Luces
+62042310;Río Negro;General Roca;Barrio Porvenir
+62042335;Río Negro;General Roca;Barrio Santa Lucia
+62042340;Río Negro;General Roca;Barrio Santa Rita
+62042350;Río Negro;General Roca;Barrio Unión
+62042360;Río Negro;General Roca;Catriel
+62042370;Río Negro;General Roca;Cervantes
+62042380;Río Negro;General Roca;Chichinales
+62042390;Río Negro;General Roca;Cinco Saltos
+62042400;Río Negro;General Roca;Cipolletti
+62042410;Río Negro;General Roca;Contralmirante Cordero
+62042420;Río Negro;General Roca;Ferri
+62042430;Río Negro;General Roca;General Enrique Godoy
+62042440;Río Negro;General Roca;General Fernández Oro
+62042450;Río Negro;General Roca;General Roca
+62042460;Río Negro;General Roca;Ingeniero Luis A. Huergo
+62042470;Río Negro;General Roca;Ingeniero Otto Krause
+62042480;Río Negro;General Roca;Mainqué
+62042490;Río Negro;General Roca;Paso Córdova
+62042500;Río Negro;General Roca;Península Ruca Co
+62042520;Río Negro;General Roca;Sargento Vidal
+62042530;Río Negro;General Roca;Villa Alberdi
+62042540;Río Negro;General Roca;Villa del Parque
+62042550;Río Negro;General Roca;Villa Manzano
+62042560;Río Negro;General Roca;Villa Regina
+62042570;Río Negro;General Roca;Villa San Isidro
+62049010;Río Negro;9 de Julio;Comicó
+62049020;Río Negro;9 de julio;Cona Niyeu
+62049030;Río Negro;9 de Julio;Ministro Ramos Mexía
+62049040;Río Negro;9 de Julio;Prahuaniyeu
+62049050;Río Negro;9 de Julio;Sierra Colorada
+62049060;Río Negro;9 de julio;Treneta
+62049070;Río Negro;9 de julio;Yaminué
+62056010;Río Negro;Ñorquincó;Las Bayas
+62056020;Río Negro;Ñorquincó;Mamuel Choique
+62056030;Río Negro;Ñorquincó;Ñorquincó
+62056040;Río Negro;Ñorquincó;Ojos de Agua
+62056050;Río Negro;Ñorquincó;Río Chico (Est. Cerro Mesa)
+62063005;Río Negro;Pichi Mahuida;Barrio Esperanza
+62063010;Río Negro;Pichi Mahuida;Colonia Juliá y Echarren
+62063013;Río Negro;Pichi Mahuida;Juventud Unida
+62063017;Río Negro;Pichi Mahuida;Pichi Mahuida
+62063020;Río Negro;Pichi Mahuida;Río Colorado
+62063060;Río Negro;Pichi Mahuida;Salto Andersen
+62070005;Río Negro;Pilcaniyeu;Cañadón Chileno
+62070010;Río Negro;Pilcaniyeu;Comallo
+62070020;Río Negro;Pilcaniyeu;Dina Huapi
+62070030;Río Negro;Pilcaniyeu;Laguna Blanca
+62070030;Río Negro;Pilcaniyeu;Paso Flores
+62070040;Río Negro;Pilcaniyeu;Ñirihuau
+62070060;Río Negro;Pilcaniyeu;Pilcaniyeu
+62070070;Río Negro;Pilcaniyeu;Pilquiniyeu del Limay
+62070080;Río Negro;Pilcaniyeu;Villa Llanquín
+62077005;Río Negro;San Antonio;El Empalme
+62077010;Río Negro;San Antonio;Las Grutas
+62077020;Río Negro;San Antonio;Playas Doradas
+62077030;Río Negro;San Antonio;Puerto San Antonio Este
+62077040;Río Negro;San Antonio;Punta Colorada
+62077045;Río Negro;San Antonio;Saco Viejo
+62077050;Río Negro;San Antonio;San Antonio Oeste
+62077060;Río Negro;San Antonio;Sierra Grande
+62084010;Río Negro;Valcheta;Aguada Cecilio
+62084020;Río Negro;Valcheta;Arroyo Los Berros
+62084030;Río Negro;Valcheta;Arroyo Ventana
+62084040;Río Negro;Valcheta;Nahuel Niyeu
+62084050;Río Negro;Valcheta;Sierra Pailemán
+62084060;Río Negro;Valcheta;Valcheta
+62091010;Río Negro;25 de Mayo;Aguada de Guerra
+62091020;Río Negro;25 de Mayo;Clemente Onelli
+62091030;Río Negro;25 de Mayo;Colan Conhue
+62091040;Río Negro;25 de Mayo;El Caín
+62091050;Río Negro;25 de Mayo;Ingeniero Jacobacci
+62091060;Río Negro;25 de Mayo;Los Menucos
+62091070;Río Negro;25 de Mayo;Maquinchao
+62091080;Río Negro;25 de Mayo;Mina Santa Teresita
+62091090;Río Negro;25 de Mayo;Pilquiniyeu
+66007010;Salta;Anta;Apolinario Saravia
+66007020;Salta;Anta;Ceibalito
+66007030;Salta;Anta;Centro 25 de Junio
+66007040;Salta;Anta;Coronel Mollinedo
+66007050;Salta;Anta;Coronel Olleros
+66007060;Salta;Anta;El Quebrachal
+66007070;Salta;Anta;Gaona
+66007080;Salta;Anta;General Pizarro
+66007090;Salta;Anta;Joaquín V. González
+66007100;Salta;Anta;Las Lajitas
+66007110;Salta;Anta;Luis Burela
+66007120;Salta;Anta;Macapillo
+66007130;Salta;Anta;Nuestra Señora de Talavera
+66007140;Salta;Anta;Piquete Cabado
+66007150;Salta;Anta;Río del Valle
+66007160;Salta;Anta;Tolloche
+66014010;Salta;Cachi;Cachi
+66014020;Salta;Cachi;Payogasta
+66021010;Salta;Cafayate;Cafayate
+66021020;Salta;Cafayate;Tolombón
+66028010;Salta;Capital;Atocha
+66028010;Salta;Capital;El Tipal - La Almudena
+66028030;Salta;Capital;La Ciénaga y Barrio San Rafael
+66028040;Salta;Capital;Las Costas
+66028050;Salta;Capital;Salta
+66028060;Salta;Capital;Villa San Lorenzo
+66035010;Salta;Cerrillos;Cerrillos
+66035020;Salta;Cerrillos;La Merced
+66035030;Salta;Cerrillos;Barrio El Congreso
+66035030;Salta;Cerrillos;Barrio Las Tunas
+66035030;Salta;Cerrillos;Barrio Los Olmos
+66035030;Salta;Cerrillos;Barrio Los Pinares
+66035030;Salta;Cerrillos;San Agustín
+66035040;Salta;Cerrillos;Villa Los Álamos
+66042003;Salta;Chicoana;Barrio Finca La Maroma
+66042005;Salta;Chicoana;Barrio La Rotonda
+66042007;Salta;Chicoana;Barrio Santa Teresita
+66042010;Salta;Chicoana;Chicoana
+66042020;Salta;Chicoana;El Carril
+66049010;Salta;General Güemes;Campo Santo
+66049020;Salta;General Güemes;Cobos
+66049030;Salta;General Güemes;El Bordo
+66049040;Salta;General Güemes;General Güemes
+66056010;Salta;Grl. José de San Martín;Aguaray
+66056020;Salta;Grl. José de San Martín;Campamento Vespucio
+66056030;Salta;Grl. José de San Martín;Campichuelo
+66056040;Salta;Grl. José de San Martín;Campo Durán
+66056050;Salta;Grl. José de San Martín;Capiazuti
+66056070;Salta;Grl. José de San Martín;Coronel Cornejo
+66056080;Salta;Grl. José de San Martín;Dragones
+66056080;Salta;Grl. José de San Martín;Recaredo
+66056090;Salta;Grl. José de San Martín;Embarcación
+66056100;Salta;Grl. José de San Martín;General Ballivián
+66056110;Salta;Grl. José de San Martín;General Mosconi
+66056120;Salta;Grl. José de San Martín;Hickman
+66056130;Salta;Grl. José de San Martín;Misión Chaqueña
+66056140;Salta;Grl. José de San Martín;Misión El Cruce - El Milagro - El Jardín de San Martín
+66056150;Salta;Grl. José de San Martín;Misión Kilómetro 6
+66056170;Salta;Grl. José de San Martín;Pacará
+66056180;Salta;Grl. José de San Martín;Padre Lozano
+66056190;Salta;Grl. José de San Martín;Piquirenda
+66056200;Salta;Grl. José de San Martín;Profesor Salvador Mazza
+66056220;Salta;Grl. José de San Martín;Tartagal
+66056230;Salta;Grl. José de San Martín;Tobantirenda
+66056240;Salta;Grl. José de San Martín;Tranquitas
+66056250;Salta;Grl. José de San Martín;Yacuy
+66063010;Salta;Guachipas;Guachipas
+66070010;Salta;Iruya;Iruya
+66070020;Salta;Iruya;Isla de Cañas
+66077010;Salta;La Caldera;La Caldera
+66077020;Salta;La Caldera;Vaqueros
+66084010;Salta;La Candelaria;El Jardín
+66084020;Salta;La Candelaria;El Tala
+66084030;Salta;La Candelaria;La Candelaria
+66091010;Salta;La Poma;Cobres
+66091020;Salta;La Poma;La Poma
+66098010;Salta;La Viña;Ampascachi
+66098020;Salta;La Viña;Cabra Corral
+66098030;Salta;La Viña;Coronel Moldes
+66098040;Salta;La Viña;La Viña
+66098050;Salta;La Viña;Talapampa
+66105010;Salta;Los Andes;Olacapato
+66105020;Salta;Los Andes;San Antonio de los Cobres
+66105030;Salta;Los Andes;Santa Rosa de los Pastos Grandes
+66105040;Salta;Los Andes;Tolar Grande
+66112010;Salta;Metán;El Galpón
+66112020;Salta;Metán;El Tunal
+66112030;Salta;Metán;Lumbreras
+66112040;Salta;Metán;San José de Metán
+66112050;Salta;Metán;Metán Viejo
+66112070;Salta;Metán;Río Piedras
+66112080;Salta;Metán;San José de Orquera
+66119010;Salta;Molinos;La Puerta
+66119020;Salta;Molinos;Molinos
+66119030;Salta;Molinos;Seclantás
+66126010;Salta;Orán;Aguas Blancas
+66126010;Salta;Orán;La Misión
+66126020;Salta;Orán;Colonia Santa Rosa
+66126030;Salta;Orán;El Tabacal
+66126040;Salta;Orán;Hipólito Yrigoyen
+66126060;Salta;Orán;Pichanal
+66126070;Salta;Orán;San Ramón de la Nueva Orán
+66126080;Salta;Orán;Urundel
+66133010;Salta;Rivadavia;Alto de la Sierra
+66133020;Salta;Rivadavia;Capitán Juan Pagé
+66133030;Salta;Rivadavia;Coronel Juan Solá
+66133035;Salta;Rivadavia;Hito 1
+66133040;Salta;Rivadavia;La Unión
+66133050;Salta;Rivadavia;Los Blancos
+66133060;Salta;Rivadavia;Pluma de Pato
+66133070;Salta;Rivadavia;Rivadavia
+66133080;Salta;Rivadavia;Santa María
+66133090;Salta;Rivadavia;Santa Rosa
+66133100;Salta;Rivadavia;Santa Victoria Este
+66140010;Salta;Rosario de la Frontera;Antilla
+66140020;Salta;Rosario de la Frontera;Copo Quile
+66140030;Salta;Rosario de la Frontera;El Naranjo
+66140040;Salta;Rosario de la Frontera;El Potrero
+66140050;Salta;Rosario de la Frontera;Rosario de la Frontera
+66140060;Salta;Rosario de la Frontera;San Felipe
+66147010;Salta;Rosario de Lerma;Campo Quijano
+66147015;Salta;Rosario de Lerma;La Merced Del Encón
+66147020;Salta;Rosario de Lerma;La Silleta
+66147030;Salta;Rosario de Lerma;Rosario de Lerma
+66154010;Salta;San Carlos;Angastaco
+66154020;Salta;San Carlos;Animaná
+66154030;Salta;San Carlos;El Barrial
+66154040;Salta;San Carlos;San Carlos
+66161010;Salta;Santa Victoria;Acoyte
+66161020;Salta;Santa Victoria;Campo La Cruz
+66161030;Salta;Santa Victoria;Los Toldos
+66161040;Salta;Santa Victoria;Nazareno
+66161050;Salta;Santa Victoria;Poscaya
+66161060;Salta;Santa Victoria;San Marcos
+66161070;Salta;Santa Victoria;Santa Victoria
+70007010;San Juan;Albardón;El Rincón
+70007010;San Juan;Albardón;La Cañada
+70007010;San Juan;Albardón;Villa Ampacama
+70007010;San Juan;Albardón;Villa General San Martin
+70007020;San Juan;Albardón;Villa General San Martín - Campo Afuera
+70014010;San Juan;Angaco;Las Tapias
+70014010;San Juan;Angaco;Villa El Salvador
+70014020;San Juan;Angaco;Villa El Salvador - Villa Sefair
+70021010;San Juan;Calingasta;Barreal - Villa Pituil
+70021020;San Juan;Calingasta;Barreal
+70021020;San Juan;Calingasta;Calingasta
+70021030;San Juan;Calingasta;Tamberías
+70028010;San Juan;Capital;San Juan
+70035010;San Juan;Caucete;Bermejo
+70035015;San Juan;Caucete;Barrio Justo P. Castro IV
+70035020;San Juan;Caucete;Caucete
+70035030;San Juan;Caucete;El Rincón
+70035050;San Juan;Caucete;Las Talas
+70035050;San Juan;Caucete;Marayes
+70035060;San Juan;Caucete;Pie de Palo
+70035070;San Juan;Caucete;Vallecito
+70035080;San Juan;Caucete;Villa Independencia
+70042010;San Juan;Chimbas;Chimbas
+70042010;San Juan;Chimbas;El Mogote
+70042010;San Juan;Chimbas;Villa Paula Albarracin
+70049010;San Juan;Iglesia;Angualasto
+70049020;San Juan;Iglesia;Bella Vista
+70049030;San Juan;Iglesia;Iglesia
+70049040;San Juan;Iglesia;Las Flores
+70049050;San Juan;Iglesia;Pismanta
+70049060;San Juan;Iglesia;Rodeo
+70049070;San Juan;Iglesia;Tudcum
+70056020;San Juan;Jáchal;Gran China
+70056030;San Juan;Jáchal;Huaco
+70056040;San Juan;Jáchal;El Fiscal
+70056040;San Juan;Jáchal;La Falda
+70056040;San Juan;Jáchal;Mogna
+70056050;San Juan;Jáchal;Niquivil
+70056060;San Juan;Jáchal;Pampa Vieja
+70056070;San Juan;Jáchal;San Isidro
+70056080;San Juan;Jáchal;San José de Jáchal
+70056090;San Juan;Jáchal;Tamberías
+70056100;San Juan;Jáchal;Villa Malvinas Argentinas
+70056110;San Juan;Jáchal;Villa Mercedes
+70063010;San Juan;9 de Julio;Alto de Sierra
+70063020;San Juan;9 de Julio;Colonia Fiorito
+70063030;San Juan;9 de Julio;Las Chacritas
+70063040;San Juan;9 de Julio;9 de Julio
+70070005;San Juan;Pocito;Barrio Municipal
+70070010;San Juan;Pocito;Barrio Ruta 40
+70070010;San Juan;Pocito;La Rinconada
+70070010;San Juan;Pocito;Villa Aberastain
+70070010;San Juan;Pocito;Villa Barboza
+70070020;San Juan;Pocito;Carpintería
+70070025;San Juan;Pocito;Las Piedritas
+70070030;San Juan;Pocito;Quinto Cuartel
+70070040;San Juan;Pocito;Villa Aberastain - La Rinconada
+70070050;San Juan;Pocito;Villa Barbosa - Villa Nacusi
+70070060;San Juan;Pocito;Villa Centenario
+70077010;San Juan;Rawson;El Medanito
+70077010;San Juan;Rawson;Rawson
+70077020;San Juan;Rawson;Villa Bolaños
+70077020;San Juan;Rawson;Villa Krause
+70084010;San Juan;Rivadavia;Rivadavia
+70091010;San Juan;San Martín;Barrio Sadop
+70091020;San Juan;San Martín;Dos Acequias (Est. Los Angacos)
+70091030;San Juan;San Martín;San Isidro (Est. Los Angacos)
+70091040;San Juan;San Martín;Villa El Salvador
+70091050;San Juan;San Martín;Villa Dominguito (Est. Puntilla Blanca)
+70091060;San Juan;San Martín;Villa Don Bosco (Est. Angaco Sud)
+70091070;San Juan;San Martín;Villa San Martín
+70098010;San Juan;Santa Lucía;Alto De Sierra
+70098010;San Juan;Santa Lucía;Colonia Gutierrez
+70098010;San Juan;Santa Lucía;Santa Lucía
+70105010;San Juan;Sarmiento;Cañada Honda
+70105020;San Juan;Sarmiento;Cienaguita
+70105030;San Juan;Sarmiento;Colonia Fiscal
+70105040;San Juan;Sarmiento;Divisadero
+70105050;San Juan;Sarmiento;Guanacache
+70105060;San Juan;Sarmiento;Las Lagunas
+70105070;San Juan;Sarmiento;Los Berros
+70105080;San Juan;Sarmiento;Pedernal
+70105090;San Juan;Sarmiento;Punta del Médano
+70105100;San Juan;Sarmiento;Villa Media Agua
+70112010;San Juan;Ullum;Villa Ibáñez
+70119010;San Juan;Valle Fértil;Astica
+70119020;San Juan;Valle Fértil;Balde del Rosario
+70119030;San Juan;Valle Fértil;Chucuma
+70119040;San Juan;Valle Fértil;Los Baldecitos
+70119050;San Juan;Valle Fértil;Usno
+70119060;San Juan;Valle Fértil;Villa San Agustín
+70126010;San Juan;25 de Mayo;El Encón
+70126010;San Juan;25 de Mayo;La Chimbera
+70126010;San Juan;25 de Mayo;Villa Borjas
+70126020;San Juan;25 de Mayo;Tupelí
+70126030;San Juan;25 de Mayo;Villa Borjas - La Chimbera
+70126040;San Juan;25 de Mayo;Villa El Tango
+70126050;San Juan;25 de Mayo;Villa Santa Rosa
+70133010;San Juan;Zonda;Villa Basilio Nievas
+70133010;San Juan;Zonda;Villa Tacu
+74007010;San Luis;Ayacucho;Baldecito De La Pampa
+74007010;San Luis;Ayacucho;Candelaria
+74007010;San Luis;Ayacucho;Carpinteria
+74007010;San Luis;Ayacucho;El Vinagrillo
+74007010;San Luis;Ayacucho;La Avenencia
+74007010;San Luis;Ayacucho;La Botija
+74007010;San Luis;Ayacucho;La Majada
+74007010;San Luis;Ayacucho;La Salvadora
+74007010;San Luis;Ayacucho;Las Chacras
+74007010;San Luis;Ayacucho;Lomas Blancas
+74007010;San Luis;Ayacucho;Pampa Grande
+74007010;San Luis;Ayacucho;Pozo Del Molle
+74007010;San Luis;Ayacucho;Río Juan Gómez
+74007010;San Luis;Ayacucho;Santa Rosa De Catantal
+74007030;San Luis;Ayacucho;Leandro N. Alem
+74007040;San Luis;Ayacucho;Luján
+74007050;San Luis;Ayacucho;Las Chimbas
+74007050;San Luis;Ayacucho;Quines
+74007050;San Luis;Ayacucho;San Roque
+74007070;San Luis;Ayacucho;Balde De Los Torres
+74007070;San Luis;Ayacucho;El Zapallar
+74007070;San Luis;Ayacucho;La Aguada
+74007070;San Luis;Ayacucho;La Brea
+74007070;San Luis;Ayacucho;Las Lagunitas
+74007070;San Luis;Ayacucho;San Francisco del Monte de Oro
+74007070;San Luis;Ayacucho;San Ignacio
+74007070;San Luis;Ayacucho;San Miguel
+74007070;San Luis;Ayacucho;Santa Ana
+74007070;San Luis;Ayacucho;Santa Teresa
+74014010;San Luis;Belgrano;El Barrial
+74014010;San Luis;Belgrano;El Milagro
+74014010;San Luis;Belgrano;El Recodo
+74014010;San Luis;Belgrano;Estancia De Amieva
+74014010;San Luis;Belgrano;La Calera
+74014010;San Luis;Belgrano;Los Molles
+74014010;San Luis;Belgrano;Pozo Cavado
+74014010;San Luis;Belgrano;Pozo Del Tala
+74014010;San Luis;Belgrano;Suyuque Nuevo
+74014010;San Luis;Belgrano;Toro Negro
+74014020;San Luis;Belgrano;Nogolí
+74014030;San Luis;Belgrano;Arbol Solo
+74014030;San Luis;Belgrano;Bella Estancia
+74014030;San Luis;Belgrano;Buen Orden
+74014030;San Luis;Belgrano;Hualtaran
+74014030;San Luis;Belgrano;Las Lagunitas
+74014030;San Luis;Belgrano;San Antonio
+74014030;San Luis;Belgrano;Villa de la Quebrada
+74014040;San Luis;Belgrano;Naranjo Esquino
+74014040;San Luis;Belgrano;San Pedro
+74014040;San Luis;Belgrano;Villa General Roca
+74021010;San Luis;Coronel Pringles;Carolina
+74021010;San Luis;Coronel Pringles;Eleodoro Lobos
+74021010;San Luis;Coronel Pringles;La Petra
+74021010;San Luis;Coronel Pringles;La Totora
+74021020;San Luis;Coronel Pringles;El Trapiche
+74021025;San Luis;Coronel Pringles;Estancia Grande
+74021030;San Luis;Coronel Pringles;Balde De La Isla
+74021030;San Luis;Coronel Pringles;El Arenal
+74021030;San Luis;Coronel Pringles;El Baldecito
+74021030;San Luis;Coronel Pringles;Fraga
+74021030;San Luis;Coronel Pringles;Intihuasi
+74021030;San Luis;Coronel Pringles;Las Barranquitas
+74021030;San Luis;Coronel Pringles;Las Pircas
+74021030;San Luis;Coronel Pringles;Marmol Verde
+74021030;San Luis;Coronel Pringles;Pampa Del Tamboreo
+74021030;San Luis;Coronel Pringles;Paso Del Rey
+74021030;San Luis;Coronel Pringles;Valle De Pancanta
+74021040;San Luis;Coronel Pringles;La Bajada
+74021050;San Luis;Coronel Pringles;La Florida
+74021060;San Luis;Coronel Pringles;El Durazno
+74021060;San Luis;Coronel Pringles;La Toma
+74021070;San Luis;Coronel Pringles;Riocito
+74021080;San Luis;Coronel Pringles;Río Grande
+74021090;San Luis;Coronel Pringles;Saladillo
+74028010;San Luis;Chacabuco;Concarán
+74028020;San Luis;Chacabuco;Cortaderas
+74028020;San Luis;Chacabuco;El Tala
+74028020;San Luis;Chacabuco;La Celestina
+74028020;San Luis;Chacabuco;San Felipe
+74028020;San Luis;Chacabuco;San Miguel
+74028030;San Luis;Chacabuco;Balcarce
+74028030;San Luis;Chacabuco;El Recuerdo
+74028030;San Luis;Chacabuco;Naschel
+74028030;San Luis;Chacabuco;Santa Martina
+74028040;San Luis;Chacabuco;Papagayos
+74028050;San Luis;Chacabuco;Renca
+74028060;San Luis;Chacabuco;San Pablo
+74028070;San Luis;Chacabuco;Tilisarao
+74028080;San Luis;Chacabuco;El Churrasco
+74028080;San Luis;Chacabuco;El Sifon
+74028080;San Luis;Chacabuco;Villa del Carmen
+74028090;San Luis;Chacabuco;Villa Larca
+74035010;San Luis;General Pedernera;Juan Jorba
+74035020;San Luis;General Pedernera;Juan Llerena
+74035030;San Luis;General Pedernera;Justo Daract
+74035040;San Luis;General Pedernera;Caldenadas
+74035040;San Luis;General Pedernera;La Angelina
+74035040;San Luis;General Pedernera;La Punilla
+74035050;San Luis;General Pedernera;Lavaisse
+74035055;San Luis;General Pedernera;5Ta Brigada
+74035055;San Luis;General Pedernera;Colonia Don Antonio
+74035055;San Luis;General Pedernera;Coronel Alzogaray
+74035055;San Luis;General Pedernera;Country Club Los Caldenes
+74035055;San Luis;General Pedernera;Dique Vulpiani
+74035055;San Luis;General Pedernera;La Esquina
+74035055;San Luis;General Pedernera;La Ribera
+74035055;San Luis;General Pedernera;Las Isletas
+74035055;San Luis;General Pedernera;Liborio Luna
+74035055;San Luis;General Pedernera;Nación Ranquel
+74035055;San Luis;General Pedernera;Rio Quinto
+74035060;San Luis;General Pedernera;San José del Morro
+74035070;San Luis;General Pedernera;Villa Mercedes
+74035080;San Luis;General Pedernera;Villa Reynolds
+74035090;San Luis;General Pedernera;Villa Salles
+74042010;San Luis;Gobernador Dupuy;Anchorena
+74042020;San Luis;Gobernador Dupuy;Arizona
+74042030;San Luis;Gobernador Dupuy;Bagual
+74042040;San Luis;Gobernador Dupuy;Batavia
+74042050;San Luis;Gobernador Dupuy;Buena Esperanza
+74042060;San Luis;Gobernador Dupuy;Fortín El Patria
+74042070;San Luis;Gobernador Dupuy;Fortuna
+74042080;San Luis;Gobernador Dupuy;La Maroma
+74042090;San Luis;Gobernador Dupuy;Los Overos
+74042100;San Luis;Gobernador Dupuy;Martín de Loyola
+74042110;San Luis;Gobernador Dupuy;Nahuel Mapá
+74042120;San Luis;Gobernador Dupuy;Navia
+74042130;San Luis;Gobernador Dupuy;Nueva Galia
+74042140;San Luis;Gobernador Dupuy;Unión
+74049010;San Luis;Junín;Carpinteria
+74049020;San Luis;Junín;Cerro de Oro
+74049030;San Luis;Junín;Lafinur
+74049040;San Luis;Junín;La Chilca
+74049040;San Luis;Junín;Los Cajones
+74049040;San Luis;Junín;Los Lobos
+74049040;San Luis;Junín;Ojo Del Rio
+74049050;San Luis;Junín;Balde De Escudero
+74049050;San Luis;Junín;Las Palomas
+74049050;San Luis;Junín;Los Molles
+74049060;San Luis;Junín;Merlo
+74049070;San Luis;Junín;Santa Rosa del Conlara
+74049080;San Luis;Junín;Cerrito Blanco
+74049080;San Luis;Junín;Talita
+74056010;San Luis;La Capital;Alto Pelado
+74056020;San Luis;La Capital;Alto Pencoso
+74056030;San Luis;La Capital;Balde
+74056040;San Luis;La Capital;Beazley
+74056050;San Luis;La Capital;Cazador
+74056060;San Luis;La Capital;Chosmes
+74056070;San Luis;La Capital;Boca Del Tigre
+74056070;San Luis;La Capital;Cerro Colorado
+74056070;San Luis;La Capital;Charlone
+74056070;San Luis;La Capital;CRUZ DE PIEDRA
+74056070;San Luis;La Capital;Daniel Donovan
+74056070;San Luis;La Capital;Desaguadero
+74056070;San Luis;La Capital;El Charabon
+74056070;San Luis;La Capital;El Chorrillo
+74056070;San Luis;La Capital;Juan W. Gez
+74056070;San Luis;La Capital;Las Barrancas
+74056070;San Luis;La Capital;Las Chacras
+74056070;San Luis;La Capital;Los Algarrobos Blancos
+74056070;San Luis;La Capital;San Roque
+74056070;San Luis;La Capital;Santa Rosa
+74056080;San Luis;La Capital;El Volcán
+74056090;San Luis;La Capital;Jarilla
+74056100;San Luis;La Capital;Juana Koslay
+74056105;San Luis;La Capital;La Punta
+74056110;San Luis;La Capital;Mosmota
+74056110;San Luis;La Capital;Pozo Del Carril
+74056120;San Luis;La Capital;Potrero de los Funes
+74056130;San Luis;La Capital;Salinas del Bebedero
+74056140;San Luis;La Capital;San Jerónimo
+74056140;San Luis;La Capital;Varela
+74056150;San Luis;La Capital;San Luis
+74056160;San Luis;La Capital;Zanjitas
+74063010;San Luis;Libertador Grl. San Martín;La Cocha
+74063010;San Luis;Libertador Grl. San Martín;La Vertiente
+74063020;San Luis;Libertador Grl. San Martín;El Paraguay
+74063020;San Luis;Libertador Grl. San Martín;La Ramada
+74063020;San Luis;Libertador Grl. San Martín;Las Aguadas
+74063020;San Luis;Libertador Grl. San Martín;La Totora
+74063020;San Luis;Libertador Grl. San Martín;Los Comederos
+74063020;San Luis;Libertador Grl. San Martín;Planta De Sandia
+74063020;San Luis;Libertador Grl. San Martín;San Fernando
+74063030;San Luis;Libertador Grl. San Martín;Las Chacras
+74063040;San Luis;Libertador Grl. San Martín;Las Lagunas
+74063050;San Luis;Libertador Grl. San Martín;Barranca Alta
+74063050;San Luis;Libertador Grl. San Martín;Casa De Los Tigres
+74063050;San Luis;Libertador Grl. San Martín;El Estanquito
+74063050;San Luis;Libertador Grl. San Martín;El Paraiso
+74063050;San Luis;Libertador Grl. San Martín;El Puesto
+74063050;San Luis;Libertador Grl. San Martín;Mesilla Del Cura
+74063050;San Luis;Libertador Grl. San Martín;Paso Grande
+74063050;San Luis;Libertador Grl. San Martín;Rincon Del Carmen
+74063050;San Luis;Libertador Grl. San Martín;San Isidro
+74063050;San Luis;Libertador Grl. San Martín;San Vicente
+74063050;San Luis;Libertador Grl. San Martín;Tala Verde
+74063060;San Luis;Libertador Grl. San Martín;Potrerillo
+74063070;San Luis;Libertador Grl. San Martín;San Martín
+74063080;San Luis;Libertador Grl. San Martín;Villa de Praga
+78007010;Santa Cruz;Corpen Aike;Comandante Luis Piedrabuena
+78007020;Santa Cruz;Corpen Aike;Puerto Santa Cruz
+78014010;Santa Cruz;Deseado;Caleta Olivia
+78014020;Santa Cruz;Deseado;Cañadón Seco
+78014030;Santa Cruz;Deseado;Fitz Roy
+78014040;Santa Cruz;Deseado;Jaramillo
+78014050;Santa Cruz;Deseado;Koluel Kaike
+78014060;Santa Cruz;Deseado;Las Heras
+78014070;Santa Cruz;Deseado;Pico Truncado
+78014080;Santa Cruz;Deseado;Puerto Deseado
+78014090;Santa Cruz;Deseado;Tellier
+78021010;Santa Cruz;Güer Aike;El Turbio (Est. Gobernador Mayer)
+78021020;Santa Cruz;Güer Aike;Julia Dufour
+78021030;Santa Cruz;Güer Aike;Mina 3
+78021040;Santa Cruz;Güer Aike;Río Gallegos
+78021050;Santa Cruz;Güer Aike;Rospentek
+78021060;Santa Cruz;Güer Aike;28 de Noviembre
+78021070;Santa Cruz;Güer Aike;Yacimientos Río Turbio
+78028010;Santa Cruz;Lago Argentino;El Calafate
+78028020;Santa Cruz;Lago Argentino;El Chaltén
+78028030;Santa Cruz;Lago Argentino;Tres Lagos
+78035010;Santa Cruz;Lago Buenos Aires;Los Antiguos
+78035020;Santa Cruz;Lago Buenos Aires;Perito Moreno
+78042010;Santa Cruz;Magallanes;Puerto San Julián
+78049010;Santa Cruz;Río Chico;Bajo Caracoles
+78049020;Santa Cruz;Río Chico;Gobernador Gregores
+78049030;Santa Cruz;Río Chico;Hipólito Yrigoyen
+82007010;Santa Fe;Belgrano;Armstrong
+82007020;Santa Fe;Belgrano;Bouquet
+82007030;Santa Fe;Belgrano;Las Parejas
+82007040;Santa Fe;Belgrano;Las Rosas
+82007050;Santa Fe;Belgrano;Montes de Oca
+82007060;Santa Fe;Belgrano;Tortugas
+82014010;Santa Fe;Caseros;Arequito
+82014020;Santa Fe;Caseros;Arteaga
+82014030;Santa Fe;Caseros;Beravebú
+82014040;Santa Fe;Caseros;Bigand
+82014050;Santa Fe;Caseros;Casilda
+82014060;Santa Fe;Caseros;Chabás
+82014070;Santa Fe;Caseros;Chañar Ladeado
+82014080;Santa Fe;Caseros;Gödeken
+82014090;Santa Fe;Caseros;Los Molinos
+82014100;Santa Fe;Caseros;Los Nogales
+82014110;Santa Fe;Caseros;Los Quirquinchos
+82014120;Santa Fe;Caseros;San José de la Esquina
+82014130;Santa Fe;Caseros;Sanford
+82014140;Santa Fe;Caseros;Villada
+82021010;Santa Fe;Castellanos;Aldao (Est. Casablanca)
+82021020;Santa Fe;Castellanos;Angélica
+82021030;Santa Fe;Castellanos;Ataliva
+82021040;Santa Fe;Castellanos;Aurelia
+82021050;Santa Fe;Castellanos;Barrios Acapulco y Veracruz
+82021060;Santa Fe;Castellanos;Bauer y Sigel
+82021070;Santa Fe;Castellanos;Bella Italia
+82021080;Santa Fe;Castellanos;Castellanos
+82021090;Santa Fe;Castellanos;Colonia Bicha
+82021100;Santa Fe;Castellanos;Colonia Cello
+82021110;Santa Fe;Castellanos;Colonia Margarita
+82021120;Santa Fe;Castellanos;Colonia Raquel
+82021130;Santa Fe;Castellanos;Coronel Fraga
+82021140;Santa Fe;Castellanos;Egusquiza
+82021150;Santa Fe;Castellanos;Esmeralda
+82021160;Santa Fe;Castellanos;Estación Clucellas
+82021170;Santa Fe;Castellanos;Estación Saguier
+82021180;Santa Fe;Castellanos;Eusebia y Carolina
+82021190;Santa Fe;Castellanos;Eustolia
+82021200;Santa Fe;Castellanos;Frontera
+82021220;Santa Fe;Castellanos;Humberto Primo
+82021230;Santa Fe;Castellanos;Josefina
+82021240;Santa Fe;Castellanos;Lehmann
+82021250;Santa Fe;Castellanos;María Juana
+82021270;Santa Fe;Castellanos;Plaza Clucellas
+82021280;Santa Fe;Castellanos;Plaza Saguier
+82021290;Santa Fe;Castellanos;Presidente Roca
+82021300;Santa Fe;Castellanos;Pueblo Marini
+82021310;Santa Fe;Castellanos;Rafaela
+82021320;Santa Fe;Castellanos;Ramona
+82021330;Santa Fe;Castellanos;San Antonio
+82021340;Santa Fe;Castellanos;San Vicente
+82021350;Santa Fe;Castellanos;Santa Clara de Saguier
+82021360;Santa Fe;Castellanos;Sunchales
+82021370;Santa Fe;Castellanos;Susana
+82021380;Santa Fe;Castellanos;Tacural
+82021390;Santa Fe;Castellanos;Vila
+82021410;Santa Fe;Castellanos;Villa San José
+82021420;Santa Fe;Castellanos;Virginia
+82021430;Santa Fe;Castellanos;Zenón Pereyra
+82028010;Santa Fe;Constitución;Alcorta
+82028020;Santa Fe;Constitución;Barrio Arroyo del Medio
+82028040;Santa Fe;Constitución;Bombal
+82028060;Santa Fe;Constitución;Cepeda
+82028070;Santa Fe;Constitución;Empalme Villa Constitución
+82028090;Santa Fe;Constitución;General Gelly
+82028100;Santa Fe;Constitución;Godoy
+82028110;Santa Fe;Constitución;Juan B. Molina
+82028120;Santa Fe;Constitución;Juncal
+82028130;Santa Fe;Constitución;La Vanguardia
+82028140;Santa Fe;Constitución;Máximo Paz (Est. Paz)
+82028150;Santa Fe;Constitución;Pavón
+82028160;Santa Fe;Constitución;Pavón Arriba
+82028170;Santa Fe;Constitución;Peyrano
+82028180;Santa Fe;Constitución;Rueda
+82028190;Santa Fe;Constitución;Santa Teresa
+82028200;Santa Fe;Constitución;Sargento Cabral
+82028210;Santa Fe;Constitución;Stephenson
+82028220;Santa Fe;Constitución;Theobald
+82028230;Santa Fe;Constitución;Villa Constitución
+82035010;Santa Fe;Garay;Cayastá
+82035020;Santa Fe;Garay;Helvecia
+82035030;Santa Fe;Garay;Los Zapallos
+82035040;Santa Fe;Garay;Saladero Mariano Cabal
+82035050;Santa Fe;Garay;Santa Rosa de Calchines
+82042010;Santa Fe;General López;Aarón Castellanos (Est. Castellanos)
+82042020;Santa Fe;General López;Amenábar
+82042030;Santa Fe;General López;Cafferata
+82042040;Santa Fe;General López;Cañada del Ucle
+82042050;Santa Fe;General López;Carmen
+82042060;Santa Fe;General López;Carreras
+82042070;Santa Fe;General López;Chapuy
+82042080;Santa Fe;General López;Chovet
+82042090;Santa Fe;General López;Christophersen
+82042100;Santa Fe;General López;Diego de Alvear
+82042110;Santa Fe;General López;Elortondo
+82042120;Santa Fe;General López;Firmat
+82042130;Santa Fe;General López;Hughes
+82042140;Santa Fe;General López;La Chispa
+82042150;Santa Fe;General López;Labordeboy
+82042160;Santa Fe;General López;Lazzarino
+82042170;Santa Fe;General López;Maggiolo
+82042180;Santa Fe;General López;María Teresa
+82042190;Santa Fe;General López;Melincué (Est. San Urbano)
+82042200;Santa Fe;General López;Miguel Torres
+82042210;Santa Fe;General López;Murphy
+82042220;Santa Fe;General López;Rufino
+82042230;Santa Fe;General López;San Eduardo
+82042240;Santa Fe;General López;San Francisco de Santa Fe
+82042250;Santa Fe;General López;San Gregorio
+82042260;Santa Fe;General López;Sancti Spiritu
+82042270;Santa Fe;General López;Santa Isabel
+82042280;Santa Fe;General López;Teodelina
+82042290;Santa Fe;General López;Venado Tuerto
+82042300;Santa Fe;General López;Villa Cañás
+82042310;Santa Fe;General López;Wheelwright
+82049010;Santa Fe;General Obligado;Arroyo Ceibal
+82049020;Santa Fe;General Obligado;Avellaneda (Est. Ewald)
+82049030;Santa Fe;General Obligado;Berna
+82049040;Santa Fe;General Obligado;El Araza
+82049050;Santa Fe;General Obligado;El Rabón
+82049060;Santa Fe;General Obligado;Florencia
+82049070;Santa Fe;General Obligado;Guadalupe Norte
+82049080;Santa Fe;General Obligado;Ingeniero Chanourdie
+82049090;Santa Fe;General Obligado;La Isleta
+82049100;Santa Fe;General Obligado;La Sarita
+82049110;Santa Fe;General Obligado;Lanteri
+82049120;Santa Fe;General Obligado;Las Garzas
+82049130;Santa Fe;General Obligado;Las Toscas
+82049140;Santa Fe;General Obligado;Los Laureles
+82049150;Santa Fe;General Obligado;Malabrigo
+82049160;Santa Fe;General Obligado;Paraje San Manuel
+82049170;Santa Fe;General Obligado;Puerto Reconquista
+82049180;Santa Fe;General Obligado;Reconquista
+82049190;Santa Fe;General Obligado;San Antonio de Obligado
+82049200;Santa Fe;General Obligado;Tacuarendí (Emb. Kilómetro 421)
+82049210;Santa Fe;General Obligado;Villa Ana
+82049220;Santa Fe;General Obligado;Villa Guillermina
+82049230;Santa Fe;General Obligado;Villa Ocampo
+82056010;Santa Fe;Iriondo;Barrio Cicarelli
+82056020;Santa Fe;Iriondo;Bustinza
+82056030;Santa Fe;Iriondo;Cañada de Gómez
+82056040;Santa Fe;Iriondo;Carrizales (Est. Clarke)
+82056050;Santa Fe;Iriondo;Classon
+82056060;Santa Fe;Iriondo;Colonia Médici
+82056070;Santa Fe;Iriondo;Correa
+82056080;Santa Fe;Iriondo;Larguía
+82056090;Santa Fe;Iriondo;Lucio V. López
+82056100;Santa Fe;Iriondo;Oliveros
+82056110;Santa Fe;Iriondo;Pueblo Andino
+82056120;Santa Fe;Iriondo;Salto Grande
+82056130;Santa Fe;Iriondo;Serodino
+82056140;Santa Fe;Iriondo;Totoras
+82056150;Santa Fe;Iriondo;Villa Eloísa
+82056160;Santa Fe;Iriondo;Villa La Rivera (Oliveros)
+82056170;Santa Fe;Iriondo;Villa La Rivera (Pueblo Andino)
+82063010;Santa Fe;La Capital;Angel Gallardo
+82063020;Santa Fe;La Capital;Arroyo Aguiar
+82063030;Santa Fe;La Capital;Arroyo Leyes
+82063040;Santa Fe;La Capital;Cabal
+82063050;Santa Fe;La Capital;Campo Andino
+82063060;Santa Fe;La Capital;Candioti
+82063070;Santa Fe;La Capital;Emilia
+82063070;Santa Fe;La Capital;Villa Adelina
+82063080;Santa Fe;La Capital;Laguna Paiva
+82063090;Santa Fe;La Capital;Llambi Campbell
+82063100;Santa Fe;La Capital;Monte Vera
+82063110;Santa Fe;La Capital;Nelson
+82063120;Santa Fe;La Capital;Paraje Chaco Chico
+82063130;Santa Fe;La Capital;Paraje La Costa
+82063140;Santa Fe;La Capital;Recreo
+82063150;Santa Fe;La Capital;Rincón Potrero
+82063160;Santa Fe;La Capital;San José del Rincón
+82063170;Santa Fe;La Capital;Santa Fe
+82063180;Santa Fe;La Capital;Santo Tomé
+82063190;Santa Fe;La Capital;Sauce Viejo
+82063200;Santa Fe;La Capital;Villa Laura (Est. Constituyentes)
+82070010;Santa Fe;Las Colonias;Cavour
+82070020;Santa Fe;Las Colonias;Cululú
+82070030;Santa Fe;Las Colonias;Elisa
+82070040;Santa Fe;Las Colonias;Empalme San Carlos
+82070050;Santa Fe;Las Colonias;Esperanza
+82070060;Santa Fe;Las Colonias;Felicia
+82070070;Santa Fe;Las Colonias;Franck
+82070080;Santa Fe;Las Colonias;Grutly
+82070090;Santa Fe;Las Colonias;Hipatia
+82070100;Santa Fe;Las Colonias;Humboldt
+82070120;Santa Fe;Las Colonias;La Pelada
+82070130;Santa Fe;Las Colonias;Las Tunas
+82070140;Santa Fe;Las Colonias;María Luisa
+82070150;Santa Fe;Las Colonias;Matilde
+82070160;Santa Fe;Las Colonias;Nuevo Torino
+82070170;Santa Fe;Las Colonias;Pilar
+82070180;Santa Fe;Las Colonias;Plaza Matilde
+82070190;Santa Fe;Las Colonias;Progreso
+82070200;Santa Fe;Las Colonias;Providencia
+82070210;Santa Fe;Las Colonias;Sa Pereyra
+82070220;Santa Fe;Las Colonias;San Agustín
+82070230;Santa Fe;Las Colonias;San Carlos Centro
+82070240;Santa Fe;Las Colonias;San Carlos Norte
+82070250;Santa Fe;Las Colonias;San Carlos Sud
+82070260;Santa Fe;Las Colonias;San Jerónimo del Sauce
+82070270;Santa Fe;Las Colonias;San Jerónimo Norte
+82070280;Santa Fe;Las Colonias;San Mariano
+82070290;Santa Fe;Las Colonias;Santa Clara de Buena Vista
+82070300;Santa Fe;Las Colonias;Santo Domingo
+82070310;Santa Fe;Las Colonias;Sarmiento
+82077010;Santa Fe;9 de Julio;Esteban Rams
+82077020;Santa Fe;9 de Julio;Campo Garay
+82077020;Santa Fe;9 de Julio;Gato Colorado
+82077020;Santa Fe;9 de Julio;Independencia
+82077030;Santa Fe;9 de Julio;Gregoria Pérez de Denis (Est. El Nochero)
+82077040;Santa Fe;9 de Julio;Logroño
+82077050;Santa Fe;9 de Julio;Montefiore
+82077060;Santa Fe;9 de Julio;Pozo Borrado
+82077065;Santa Fe;9 de Julio;San Bernardo
+82077070;Santa Fe;9 de Julio;Santa Margarita
+82077080;Santa Fe;9 de Julio;Tostado
+82077090;Santa Fe;9 de Julio;Villa Minetti
+82084010;Santa Fe;Rosario;Acebal
+82084020;Santa Fe;Rosario;Albarellos
+82084030;Santa Fe;Rosario;Álvarez
+82084040;Santa Fe;Rosario;Alvear
+82084050;Santa Fe;Rosario;Arbilla
+82084060;Santa Fe;Rosario;Arminda
+82084070;Santa Fe;Rosario;Arroyo Seco
+82084080;Santa Fe;Rosario;Carmen del Sauce
+82084090;Santa Fe;Rosario;Coronel Bogado
+82084100;Santa Fe;Rosario;Coronel Rodolfo S. Domínguez
+82084110;Santa Fe;Rosario;Cuatro Esquinas
+82084120;Santa Fe;Rosario;El Caramelo
+82084130;Santa Fe;Rosario;Fighiera
+82084140;Santa Fe;Rosario;Funes
+82084150;Santa Fe;Rosario;General Lagos
+82084160;Santa Fe;Rosario;Granadero Baigorria
+82084170;Santa Fe;Rosario;Ibarlucea
+82084180;Santa Fe;Rosario;Kilómetro 101
+82084190;Santa Fe;Rosario;Los Muchachos - La Alborada
+82084200;Santa Fe;Rosario;Monte Flores
+82084210;Santa Fe;Rosario;Pérez
+82084220;Santa Fe;Rosario;Piñero (Est. Erasto)
+82084230;Santa Fe;Rosario;Pueblo Esther
+82084240;Santa Fe;Rosario;Pueblo Muñoz (Est. Bernard)
+82084250;Santa Fe;Rosario;Pueblo Uranga
+82084260;Santa Fe;Rosario;Puerto Arroyo Seco
+82084270;Santa Fe;Rosario;Rosario
+82084280;Santa Fe;Rosario;Soldini
+82084290;Santa Fe;Rosario;Villa Amelia
+82084300;Santa Fe;Rosario;Villa del Plata
+82084310;Santa Fe;Rosario;Villa Gobernador Gálvez
+82084320;Santa Fe;Rosario;Zavalla
+82091010;Santa Fe;San Cristóbal;Aguará Grande
+82091020;Santa Fe;San Cristóbal;Ambrosetti
+82091030;Santa Fe;San Cristóbal;Arrufo
+82091040;Santa Fe;San Cristóbal;Balneario La Verde
+82091050;Santa Fe;San Cristóbal;Capivara
+82091060;Santa Fe;San Cristóbal;Ceres
+82091070;Santa Fe;San Cristóbal;Colonia Ana
+82091080;Santa Fe;San Cristóbal;Colonia Bossi
+82091090;Santa Fe;San Cristóbal;Colonia Rosa
+82091100;Santa Fe;San Cristóbal;Constanza
+82091110;Santa Fe;San Cristóbal;Curupaity
+82091120;Santa Fe;San Cristóbal;Hersilia
+82091130;Santa Fe;San Cristóbal;Huanqueros
+82091140;Santa Fe;San Cristóbal;La Cabral
+82091145;Santa Fe;San Cristóbal;La Lucila
+82091150;Santa Fe;San Cristóbal;La Rubia
+82091160;Santa Fe;San Cristóbal;Las Avispas
+82091170;Santa Fe;San Cristóbal;Las Palmeras
+82091180;Santa Fe;San Cristóbal;Moisés Ville
+82091190;Santa Fe;San Cristóbal;Monigotes
+82091200;Santa Fe;San Cristóbal;Ñanducita
+82091210;Santa Fe;San Cristóbal;Palacios
+82091220;Santa Fe;San Cristóbal;San Cristóbal
+82091230;Santa Fe;San Cristóbal;San Guillermo
+82091240;Santa Fe;San Cristóbal;Santurce
+82091250;Santa Fe;San Cristóbal;Soledad
+82091260;Santa Fe;San Cristóbal;Suardi
+82091270;Santa Fe;San Cristóbal;Villa Saralegui
+82091280;Santa Fe;San Cristóbal;Villa Trinidad
+82098010;Santa Fe;San Javier;Alejandra
+82098020;Santa Fe;San Javier;Cacique Ariacaiquín
+82098030;Santa Fe;San Javier;Colonia Durán
+82098040;Santa Fe;San Javier;La Brava
+82098050;Santa Fe;San Javier;Romang
+82098060;Santa Fe;San Javier;San Javier
+82105010;Santa Fe;San Jerónimo;Arocena
+82105020;Santa Fe;San Jerónimo;Balneario Monje
+82105030;Santa Fe;San Jerónimo;Barrancas
+82105040;Santa Fe;San Jerónimo;Barrio Caima
+82105050;Santa Fe;San Jerónimo;Barrio El Pacaá - Barrio Comipini
+82105060;Santa Fe;San Jerónimo;Bernardo de Irigoyen (Est. Irigoyen)
+82105080;Santa Fe;San Jerónimo;Centeno
+82105090;Santa Fe;San Jerónimo;Coronda
+82105100;Santa Fe;San Jerónimo;Desvío Arijón
+82105110;Santa Fe;San Jerónimo;Díaz
+82105120;Santa Fe;San Jerónimo;Gaboto
+82105130;Santa Fe;San Jerónimo;Gálvez
+82105140;Santa Fe;San Jerónimo;Gessler
+82105150;Santa Fe;San Jerónimo;Irigoyen
+82105160;Santa Fe;San Jerónimo;Larrechea
+82105170;Santa Fe;San Jerónimo;Loma Alta
+82105180;Santa Fe;San Jerónimo;López (Est. San Martín de Tours)
+82105190;Santa Fe;San Jerónimo;Maciel
+82105200;Santa Fe;San Jerónimo;Monje
+82105210;Santa Fe;San Jerónimo;Puerto Aragón
+82105220;Santa Fe;San Jerónimo;San Eugenio
+82105230;Santa Fe;San Jerónimo;San Fabián
+82105240;Santa Fe;San Jerónimo;San Genaro
+82105250;Santa Fe;San Jerónimo;San Genaro Norte
+82112010;Santa Fe;San Justo;Angeloni
+82112020;Santa Fe;San Justo;Cayastacito
+82112030;Santa Fe;San Justo;Colonia Dolores
+82112040;Santa Fe;San Justo;Esther
+82112050;Santa Fe;San Justo;Gobernador Crespo
+82112060;Santa Fe;San Justo;La Criolla (Est. Cañadita)
+82112070;Santa Fe;San Justo;La Penca y Caraguatá
+82112080;Santa Fe;San Justo;Marcelino Escalada
+82112090;Santa Fe;San Justo;Naré
+82112100;Santa Fe;San Justo;Pedro Gómez Cello
+82112110;Santa Fe;San Justo;Ramayón
+82112120;Santa Fe;San Justo;San Bernardo
+82112130;Santa Fe;San Justo;San Justo
+82112140;Santa Fe;San Justo;San Martín Norte
+82112150;Santa Fe;San Justo;Silva (Est. Abipones)
+82112160;Santa Fe;San Justo;Vera y Pintado (Est. Guaraníes)
+82112170;Santa Fe;San Justo;Videla
+82119010;Santa Fe;San Lorenzo;Aldao
+82119020;Santa Fe;San Lorenzo;Capitán Bermúdez
+82119030;Santa Fe;San Lorenzo;Carcarañá
+82119040;Santa Fe;San Lorenzo;Coronel Arnold
+82119050;Santa Fe;San Lorenzo;Fray Luis Beltrán
+82119060;Santa Fe;San Lorenzo;Fuentes
+82119070;Santa Fe;San Lorenzo;Luis Palacios (Est. La Salada)
+82119080;Santa Fe;San Lorenzo;Puerto General San Martín
+82119090;Santa Fe;San Lorenzo;Pujato
+82119100;Santa Fe;San Lorenzo;Ricardone
+82119110;Santa Fe;San Lorenzo;Roldán
+82119120;Santa Fe;San Lorenzo;San Jerónimo Sud
+82119130;Santa Fe;San Lorenzo;San Lorenzo
+82119140;Santa Fe;San Lorenzo;Timbúes
+82119150;Santa Fe;San Lorenzo;Villa Elvira
+82119160;Santa Fe;San Lorenzo;Villa Mugueta
+82126010;Santa Fe;San Martín;Cañada Rosquín
+82126020;Santa Fe;San Martín;Carlos Pellegrini
+82126030;Santa Fe;San Martín;Casas
+82126040;Santa Fe;San Martín;Castelar
+82126050;Santa Fe;San Martín;Colonia Belgrano
+82126060;Santa Fe;San Martín;Crispi
+82126070;Santa Fe;San Martín;El Trébol
+82126080;Santa Fe;San Martín;Landeta
+82126090;Santa Fe;San Martín;Las Bandurrias
+82126100;Santa Fe;San Martín;Las Petacas
+82126110;Santa Fe;San Martín;Los Cardos
+82126120;Santa Fe;San Martín;María Susana
+82126130;Santa Fe;San Martín;Piamonte
+82126140;Santa Fe;San Martín;San Jorge
+82126150;Santa Fe;San Martín;San Martín de las Escobas
+82126160;Santa Fe;San Martín;Sastre
+82126170;Santa Fe;San Martín;Traill
+82126180;Santa Fe;San Martín;Wildermuth (Est. Granadero B. Bustos)
+82133010;Santa Fe;Vera;Calchaquí
+82133020;Santa Fe;Vera;Cañada Ombú
+82133030;Santa Fe;Vera;Colmena
+82133040;Santa Fe;Vera;Fortín Olmos
+82133050;Santa Fe;Vera;Garabato
+82133060;Santa Fe;Vera;Golondrina
+82133070;Santa Fe;Vera;Intiyaco
+82133080;Santa Fe;Vera;Kilómetro 115
+82133090;Santa Fe;Vera;La Gallareta
+82133100;Santa Fe;Vera;Los Amores
+82133110;Santa Fe;Vera;Margarita
+82133120;Santa Fe;Vera;Paraje 29
+82133130;Santa Fe;Vera;Pozo de los Indios
+82133140;Santa Fe;Vera;Pueblo Santa Lucía
+82133150;Santa Fe;Vera;Tartagal (Est. El Tajamar)
+82133160;Santa Fe;Vera;Toba
+82133170;Santa Fe;Vera;Vera (Est. Gobernador Vera)
+86007010;Santiago Del Estero;Aguirre;Argentina
+86007020;Santiago Del Estero;Aguirre;Casares
+86007030;Santiago Del Estero;Aguirre;Malbrán
+86007040;Santiago Del Estero;Aguirre;Villa General Mitre (Est. Pinto)
+86014010;Santiago Del Estero;Alberdi;Campo Gallo
+86014020;Santiago Del Estero;Alberdi;Coronel Manuel L. Rico
+86014030;Santiago Del Estero;Alberdi;Donadeu
+86014040;Santiago Del Estero;Alberdi;Sachayoj
+86014050;Santiago Del Estero;Alberdi;Santos Lugares
+86021010;Santiago Del Estero;Atamisqui;Estación Atamisqui
+86021020;Santiago Del Estero;Atamisqui;Medellín
+86021030;Santiago Del Estero;Atamisqui;Villa Atamisqui
+86028010;Santiago Del Estero;Avellaneda;Colonia Dora
+86028020;Santiago Del Estero;Avellaneda;Herrera
+86028030;Santiago Del Estero;Avellaneda;Icaño
+86028040;Santiago Del Estero;Avellaneda;Lugones
+86028050;Santiago Del Estero;Avellaneda;Real Sayana
+86028060;Santiago Del Estero;Avellaneda;Villa Mailín
+86035010;Santiago Del Estero;Banda;Abra Grande
+86035020;Santiago Del Estero;Banda;Antajé
+86035030;Santiago Del Estero;Banda;Ardiles
+86035040;Santiago Del Estero;Banda;Cañada Escobar
+86035050;Santiago Del Estero;Banda;Chaupi Pozo
+86035060;Santiago Del Estero;Banda;Clodomira
+86035070;Santiago Del Estero;Banda;Huyamampa
+86035080;Santiago Del Estero;Banda;La Aurora
+86035090;Santiago Del Estero;Banda;La Banda
+86035100;Santiago Del Estero;Banda;La Dársena
+86035110;Santiago Del Estero;Banda;Los Quiroga
+86035120;Santiago Del Estero;Banda;Los Soria
+86035130;Santiago Del Estero;Banda;Simbolar
+86035140;Santiago Del Estero;Banda;Tramo 16
+86035150;Santiago Del Estero;Banda;Tramo 20
+86042010;Santiago Del Estero;Belgrano;Bandera
+86042020;Santiago Del Estero;Belgrano;Cuatro Bocas
+86042030;Santiago Del Estero;Belgrano;Fortín Inca
+86042040;Santiago Del Estero;Belgrano;Guardia Escolta
+86049010;Santiago Del Estero;Capital;El Deán
+86049020;Santiago Del Estero;Capital;El Mojón
+86049030;Santiago Del Estero;Capital;El Zanjón
+86049040;Santiago Del Estero;Capital;Los Cardozos
+86049050;Santiago Del Estero;Capital;Maco
+86049060;Santiago Del Estero;Capital;Maquito
+86049070;Santiago Del Estero;Capital;Morales
+86049080;Santiago Del Estero;Capital;Puesto de San Antonio
+86049090;Santiago Del Estero;Capital;San Pedro
+86049100;Santiago Del Estero;Capital;Santa María
+86049110;Santiago Del Estero;Capital;Santiago del Estero
+86049120;Santiago Del Estero;Capital;Vuelta de la Barranca
+86049130;Santiago Del Estero;Capital;Yanda
+86056010;Santiago Del Estero;Copo;El Caburé
+86056020;Santiago Del Estero;Copo;La Firmeza
+86056030;Santiago Del Estero;Copo;Los Pirpintos
+86056040;Santiago Del Estero;Copo;Los Tigres
+86056050;Santiago Del Estero;Copo;Monte Quemado
+86056060;Santiago Del Estero;Copo;Nueva Esperanza
+86056070;Santiago Del Estero;Copo;Pampa de los Guanacos
+86056080;Santiago Del Estero;Copo;San José del Boquerón
+86056090;Santiago Del Estero;Copo;Urutaú
+86063010;Santiago Del Estero;Choya;Ancaján
+86063020;Santiago Del Estero;Choya;Choya
+86063030;Santiago Del Estero;Choya;Estación La Punta
+86063040;Santiago Del Estero;Choya;Frías
+86063050;Santiago Del Estero;Choya;Laprida
+86063070;Santiago Del Estero;Choya;San Pedro
+86063080;Santiago Del Estero;Choya;Tapso
+86063090;Santiago Del Estero;Choya;Villa La Punta
+86070010;Santiago Del Estero;Figueroa;Bandera Bajada
+86070020;Santiago Del Estero;Figueroa;Caspi Corral
+86070030;Santiago Del Estero;Figueroa;Colonia San Juan
+86070060;Santiago Del Estero;Figueroa;La Cañada
+86070070;Santiago Del Estero;Figueroa;La Invernada
+86070080;Santiago Del Estero;Figueroa;Minerva
+86070090;Santiago Del Estero;Figueroa;Vaca Huañuna
+86070100;Santiago Del Estero;Figueroa;Villa Figueroa
+86077010;Santiago Del Estero;General Taboada;Añatuya
+86077020;Santiago Del Estero;General Taboada;Averías
+86077030;Santiago Del Estero;General Taboada;Estación Tacañitas
+86077040;Santiago Del Estero;General Taboada;La Nena
+86077050;Santiago Del Estero;General Taboada;Los Juríes
+86077060;Santiago Del Estero;General Taboada;Tomás Young
+86084010;Santiago Del Estero;Guasayán;Lavalle
+86084020;Santiago Del Estero;Guasayán;San Pedro
+86091005;Santiago Del Estero;Jiménez;El Arenal
+86091010;Santiago Del Estero;Jiménez;El Bobadal
+86091020;Santiago Del Estero;Jiménez;El Charco
+86091030;Santiago Del Estero;Jiménez;El Rincón
+86091040;Santiago Del Estero;Jiménez;Gramilla
+86091050;Santiago Del Estero;Jiménez;Isca Yacu
+86091060;Santiago Del Estero;Jiménez;Isca Yacu Semaul
+86091070;Santiago Del Estero;Jiménez;Pozo Hondo
+86091080;Santiago Del Estero;Jiménez;San Pedro
+86098010;Santiago Del Estero;Juan F. Ibarra;El Colorado
+86098020;Santiago Del Estero;Juan F. Ibarra;El Cuadrado
+86098030;Santiago Del Estero;Juan F. Ibarra;Matará
+86098040;Santiago Del Estero;Juan F. Ibarra;Suncho Corral
+86098050;Santiago Del Estero;Juan F. Ibarra;Vilelas
+86098060;Santiago Del Estero;Juan F. Ibarra;Yuchán
+86105010;Santiago Del Estero;Loreto;Villa San Martín (Est. Loreto)
+86112010;Santiago Del Estero;Mitre;Villa Unión
+86119010;Santiago Del Estero;Moreno;Aerolito
+86119020;Santiago Del Estero;Moreno;Alhuampa
+86119030;Santiago Del Estero;Moreno;Hasse
+86119040;Santiago Del Estero;Moreno;Hernán Mejía Miraval
+86119050;Santiago Del Estero;Moreno;Las Tinajas
+86119060;Santiago Del Estero;Moreno;Libertad
+86119070;Santiago Del Estero;Moreno;Lilo Viejo
+86119080;Santiago Del Estero;Moreno;Patay
+86119090;Santiago Del Estero;Moreno;Pueblo Pablo Torelo (Est. Otumpa)
+86119100;Santiago Del Estero;Moreno;Quimilí
+86119110;Santiago Del Estero;Moreno;Roversi
+86119120;Santiago Del Estero;Moreno;Tintina
+86119130;Santiago Del Estero;Moreno;Weisburd
+86126010;Santiago Del Estero;Ojo de Agua;El 49
+86126020;Santiago Del Estero;Ojo de Agua;Sol de Julio
+86126030;Santiago Del Estero;Ojo de Agua;Villa Ojo de Agua
+86133010;Santiago Del Estero;Pellegrini;El Mojón
+86133020;Santiago Del Estero;Pellegrini;Las Delicias
+86133030;Santiago Del Estero;Pellegrini;Nueva Esperanza
+86133040;Santiago Del Estero;Pellegrini;Pozo Betbeder
+86133050;Santiago Del Estero;Pellegrini;Rapelli
+86133060;Santiago Del Estero;Pellegrini;Santo Domingo
+86140010;Santiago Del Estero;Quebrachos;Ramírez de Velazco
+86140020;Santiago Del Estero;Quebrachos;Sumampa
+86140030;Santiago Del Estero;Quebrachos;Sumampa Viejo
+86147010;Santiago Del Estero;Río Hondo;Chañar Pozo de Abajo
+86147020;Santiago Del Estero;Río Hondo;Chauchillas
+86147030;Santiago Del Estero;Río Hondo;Colonia Tinco
+86147040;Santiago Del Estero;Río Hondo;El Charco
+86147050;Santiago Del Estero;Río Hondo;Gramilla
+86147060;Santiago Del Estero;Río Hondo;La Nueva Donosa
+86147080;Santiago Del Estero;Río Hondo;Los Núñez
+86147090;Santiago Del Estero;Río Hondo;Mansupa
+86147100;Santiago Del Estero;Río Hondo;Pozuelos
+86147130;Santiago Del Estero;Río Hondo;Termas de Río Hondo
+86147140;Santiago Del Estero;Río Hondo;Villa Giménez
+86147150;Santiago Del Estero;Río Hondo;Villa Río Hondo
+86147170;Santiago Del Estero;Río Hondo;Vinará
+86154010;Santiago Del Estero;Rivadavia;Colonia Alpina
+86154020;Santiago Del Estero;Rivadavia;Palo Negro
+86154030;Santiago Del Estero;Rivadavia;Selva
+86161010;Santiago Del Estero;Robles;Beltrán
+86161020;Santiago Del Estero;Robles;Colonia El Simbolar
+86161030;Santiago Del Estero;Robles;Fernández
+86161040;Santiago Del Estero;Robles;Ingeniero Forres (Est. Chaguar Punco)
+86161050;Santiago Del Estero;Robles;Vilmer
+86168010;Santiago Del Estero;Salavina;Chilca Juliana
+86168020;Santiago Del Estero;Salavina;Los Telares
+86168030;Santiago Del Estero;Salavina;Villa Salavina
+86175010;Santiago Del Estero;San Martín;Brea Pozo
+86175020;Santiago Del Estero;San Martín;Estación Robles
+86175030;Santiago Del Estero;San Martín;Estación Taboada
+86175040;Santiago Del Estero;San Martín;Villa Nueva
+86182010;Santiago Del Estero;Sarmiento;Garza
+86189010;Santiago Del Estero;Silípica;Árraga
+86189020;Santiago Del Estero;Silípica;Nueva Francia
+86189030;Santiago Del Estero;Silípica;Simbol
+86189050;Santiago Del Estero;Silípica;Villa Silípica
+90007010;Tucumán;Burruyacú;Barrio San Jorge
+90007020;Tucumán;Burruyacú;El Chañar
+90007030;Tucumán;Burruyacú;El Naranjo
+90007040;Tucumán;Burruyacú;Garmendia
+90007050;Tucumán;Burruyacú;La Ramada
+90007060;Tucumán;Burruyacú;Macomitas
+90007070;Tucumán;Burruyacú;Piedrabuena
+90007080;Tucumán;Burruyacú;7 de Abril
+90007090;Tucumán;Burruyacú;Villa Benjamín Aráoz
+90007100;Tucumán;Burruyacú;Villa Burruyacú
+90007110;Tucumán;Burruyacú;Villa Padre Monti
+90014010;Tucumán;Cruz Alta;Alderetes
+90014020;Tucumán;Cruz Alta;Banda del Río Salí
+90014040;Tucumán;Cruz Alta;Colombres
+90014050;Tucumán;Cruz Alta;Colonia Mayo - Barrio La Milagrosa
+90014060;Tucumán;Cruz Alta;Delfín Gallo
+90014070;Tucumán;Cruz Alta;El Bracho
+90014070;Tucumán;Cruz Alta;Ex Ingenio Los Ralos
+90014080;Tucumán;Cruz Alta;La Florida
+90014090;Tucumán;Cruz Alta;Barrio Aeropuerto
+90014090;Tucumán;Cruz Alta;El Corte
+90014090;Tucumán;Cruz Alta;El Paraiso
+90014090;Tucumán;Cruz Alta;Ex Ingenio Esperanza
+90014090;Tucumán;Cruz Alta;Ingenio La Florida
+90014090;Tucumán;Cruz Alta;Las Cejas
+90014090;Tucumán;Cruz Alta;Lastenia
+90014090;Tucumán;Cruz Alta;Los Gutierrez
+90014090;Tucumán;Cruz Alta;Villa Recaste
+90014090;Tucumán;Cruz Alta;Villa Tercera
+90014100;Tucumán;Cruz Alta;Los Ralos
+90014110;Tucumán;Cruz Alta;Pacará
+90014120;Tucumán;Cruz Alta;Ranchillos
+90014130;Tucumán;Cruz Alta;San Andrés
+90021010;Tucumán;Chicligasta;Alpachiri
+90021020;Tucumán;Chicligasta;Alto Verde
+90021030;Tucumán;Chicligasta;Arcadia
+90021050;Tucumán;Chicligasta;Concepción
+90021060;Tucumán;Chicligasta;Iltico
+90021070;Tucumán;Chicligasta;La Trinidad
+90021080;Tucumán;Chicligasta;Medina
+90028010;Tucumán;Famaillá;Barrio Casa Rosada
+90028020;Tucumán;Famaillá;Ex Ingenio Nueva Baviera
+90028030;Tucumán;Famaillá;Famaillá
+90028040;Tucumán;Famaillá;Ingenio Fronterita
+90035010;Tucumán;Graneros;Graneros
+90035020;Tucumán;Graneros;Lamadrid
+90035030;Tucumán;Graneros;Taco Ralo
+90042010;Tucumán;Juan Bautista Alberdi;Juan Bautista Alberdi
+90042020;Tucumán;Juan Bautista Alberdi;Villa Belgrano
+90049010;Tucumán;La Cocha;La Cocha
+90049020;Tucumán;La Cocha;San José de La Cocha
+90056010;Tucumán;Leales;Bella Vista
+90056020;Tucumán;Leales;Estación Aráoz
+90056030;Tucumán;Leales;Los Puestos
+90056040;Tucumán;Leales;Manuel García Fernández
+90056050;Tucumán;Leales;Pala Pala
+90056060;Tucumán;Leales;Río Colorado
+90056070;Tucumán;Leales;Santa Rosa de Leales
+90056080;Tucumán;Leales;Villa Fiad - Ingenio Leales
+90056090;Tucumán;Leales;Villa de Leales
+90063010;Tucumán;Lules;Barrio San Felipe
+90063020;Tucumán;Lules;El Manantial
+90063030;Tucumán;Lules;Ingenio San Pablo
+90063040;Tucumán;Lules;Barrio Araujo
+90063040;Tucumán;Lules;La Reducción
+90063050;Tucumán;Lules;Lules
+90070010;Tucumán;Monteros;Acheral
+90070020;Tucumán;Monteros;Capitán Cáceres
+90070030;Tucumán;Monteros;Monteros
+90070040;Tucumán;Monteros;Pueblo Independencia
+90070050;Tucumán;Monteros;Río Seco
+90070060;Tucumán;Monteros;Santa Lucía
+90070070;Tucumán;Monteros;Sargento Moya
+90070080;Tucumán;Monteros;Soldado Maldonado
+90070090;Tucumán;Monteros;Teniente Berdina
+90070100;Tucumán;Monteros;Villa Quinteros
+90077010;Tucumán;Río Chico;Aguilares
+90077020;Tucumán;Río Chico;Ingenio Santa Barbara
+90077020;Tucumán;Río Chico;Los Sarmientos
+90077030;Tucumán;Río Chico;Río Chico
+90077040;Tucumán;Río Chico;Santa Ana
+90077050;Tucumán;Río Chico;Villa Clodomiro Hileret
+90084010;Tucumán;Capital;San Miguel de Tucumán (Est. Tucumán)
+90091010;Tucumán;Simoca;Atahona
+90091020;Tucumán;Simoca;Monteagudo
+90091030;Tucumán;Simoca;Nueva Trinidad
+90091040;Tucumán;Simoca;Santa Cruz
+90091050;Tucumán;Simoca;Simoca
+90091060;Tucumán;Simoca;Villa Chicligasta
+90098010;Tucumán;Tafí del Valle;Amaicha del Valle
+90098020;Tucumán;Tafí del Valle;Colalao del Valle
+90098030;Tucumán;Tafí del Valle;El Mollar
+90098040;Tucumán;Tafí del Valle;Tafí del Valle
+90105010;Tucumán;Tafí Viejo;Barrio El Cruce
+90105020;Tucumán;Tafí Viejo;Barrio Lomas de Tafí
+90105030;Tucumán;Tafí Viejo;Barrio Mutual San Martín
+90105040;Tucumán;Tafí Viejo;Barrio Parada 14
+90105050;Tucumán;Tafí Viejo;Barrio U.T.A. II
+90105060;Tucumán;Tafí Viejo;Diagonal Norte - Luz y Fuerza - Los Pocitos - Villa Nueva Italia (6)
+90105070;Tucumán;Tafí Viejo;El Cadillal
+90105080;Tucumán;Tafí Viejo;Tafí Viejo
+90105090;Tucumán;Tafí Viejo;Villa Las Flores
+90105100;Tucumán;Tafí Viejo;Villa Mariano Moreno - El Colmenar
+90112010;Tucumán;Trancas;Choromoro
+90112020;Tucumán;Trancas;San Pedro de Colalao
+90112030;Tucumán;Trancas;Villa  de Trancas
+90119010;Tucumán;Yerba Buena;Barrio San José III
+90119010;Tucumán;Yerba Buena;Country Jockey Club
+90119010;Tucumán;Yerba Buena;Villa San Javier
+90119020;Tucumán;Yerba Buena;Villa Carmela
+90119030;Tucumán;Yerba Buena;Cevil Redondo
+90119030;Tucumán;Yerba Buena;EX INGENIO SAN JOSE
+90119030;Tucumán;Yerba Buena;Yerba Buena - Marcos Paz
+94007010;Tierra Del Fuego;Río Grande;Río Grande
+94007020;Tierra Del Fuego;Río Grande;Tolhuin
+94014010;Tierra Del Fuego;Ushuaia;Laguna Escondida
+94014020;Tierra Del Fuego;Ushuaia;Ushuaia
